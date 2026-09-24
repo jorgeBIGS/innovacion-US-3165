@@ -45,28 +45,47 @@ Diez asignaturas de cuatro ramas de conocimiento:
 
 | Carpeta | Contenido |
 | --- | --- |
-| `marco/` | El marco común de alfabetización y las fichas de calibración de cada asignatura. |
-| `materiales/base/` | Material transversal: funcionamiento y límites de la IA generativa, verificación de salidas, integridad académica y dimensión ética. |
-| `materiales/asignaturas/` | Adaptaciones de ese material a cada asignatura, con su autoría propia. |
-| `instrumentos/` | Rúbrica común de calidad de uso de la IA y cuestionarios. |
-| `analisis/` | Plantillas y scripts de análisis agregado. Sin datos. |
+| [`marco/`](marco/) | El [marco común](marco/marco-comun.md), con los descriptores observables de cada dimensión, y las fichas de calibración de cada asignatura. |
+| [`materiales/base/`](materiales/base/) | Las cuatro unidades del material transversal, unas tres horas de clase. |
+| [`materiales/asignaturas/`](materiales/asignaturas/) | Adaptaciones de ese material a cada asignatura, con su autoría propia. |
+| [`instrumentos/`](instrumentos/) | [Rúbrica de calidad de uso](instrumentos/rubrica-calidad-uso-ia.md), [cuestionario de autopercepción](instrumentos/cuestionario-autopercepcion.md) y [protocolo de aplicación y consentimiento](instrumentos/protocolo-aplicacion.md). |
+| [`analisis/`](analisis/) | Plantillas de entrega agregada. Sin datos. |
+
+### El material base, de un vistazo
+
+| Unidad | Dimensión |
+| --- | --- |
+| [1. Cómo funciona la IA generativa, y por qué se equivoca](materiales/base/01-como-funciona-la-ia-generativa.md) | Conocer y entender |
+| [2. Preguntar para aprender, no para terminar](materiales/base/02-preguntar-para-aprender.md) | Usar y aplicar |
+| [3. Verificar lo que devuelve el sistema](materiales/base/03-verificar-las-salidas.md) | Evaluar y crear |
+| [4. Integridad académica, responsabilidad y ética](materiales/base/04-integridad-y-etica.md) | Cuestiones éticas |
 
 ## Cómo reutilizar el material
 
-1. Lee el marco común en [`marco/`](marco/) y el material base en [`materiales/base/`](materiales/base/).
+1. Lee el [marco común](marco/marco-comun.md) y el [material base](materiales/base/).
 2. Rellena una ficha de calibración para tu asignatura, a partir de
    [`marco/PLANTILLA-ficha-calibracion.md`](marco/PLANTILLA-ficha-calibracion.md): decide
    el peso de cada dimensión e identifica las tareas reales en las que tu alumnado
    recurre a la IA.
-3. Adapta las actividades del material base a esas tareas.
-4. Si quieres medir el efecto, aplica los instrumentos de [`instrumentos/`](instrumentos/)
-   antes y después de la intervención.
+3. Adapta las actividades del material base a esas tareas, con la
+   [plantilla de adaptación](materiales/asignaturas/PLANTILLA-adaptacion.md). Cada unidad
+   necesita que lleves material propio de tu materia: la pregunta que falla, las peticiones
+   pobres, la respuesta con errores y los casos ambiguos.
+4. Si quieres medir el efecto, aplica los [instrumentos](instrumentos/) siguiendo el
+   [protocolo](instrumentos/protocolo-aplicacion.md), antes y después de la intervención.
 
 ## Protección de datos
 
 Este repositorio no contiene ni contendrá datos del alumnado. Los cuestionarios se
 administran con consentimiento informado y los resultados se tratan y se difunden
 siempre de forma agregada.
+
+## Origen y autoría
+
+Todo el contenido de este repositorio es **obra original de la red del proyecto**,
+elaborada a partir de los marcos públicos de alfabetización en IA que se citan en el
+[marco común](marco/marco-comun.md). No reproduce ni adapta materiales docentes de
+terceros. Las adaptaciones por asignatura indican su autoría propia.
 
 ## Licencia
 
