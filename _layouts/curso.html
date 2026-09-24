@@ -1,0 +1,62 @@
+---
+layout: base
+---
+{% assign a = site.data.asignaturas | where: "slug", page.asignatura | first %}
+{% include lecciones/titulos.html %}
+
+<header class="sitio">
+  <p class="eyebrow"><a href="{{ '/' | relative_url }}">← Alfabetización en IA</a> · {{ a.centro }}</p>
+  <h1>{{ a.nombre }}</h1>
+  <p class="lead">{{ a.curso }} · {{ a.titulacion }}{% if a.docente %} · {{ a.docente }}{% endif %}</p>
+</header>
+
+{% if a.estado == 'completo' %}
+<h2>El curso</h2>
+<p>Cuatro lecciones cortas. Léelas en orden: cada una se apoya en la anterior.</p>
+<div class="grid">
+  {% for n in (1..4) %}
+  {% assign i = n | minus: 1 %}
+  <div class="card">
+    <span class="card-num">Lección {{ n }}</span>
+    <p class="card-title">{{ titulos[i] }}</p>
+    <p class="card-desc">{{ resumenes[i] }}</p>
+    <a class="card-link" href="{{ '/cursos/' | append: a.slug | append: '/leccion-' | append: n | append: '.html' | relative_url }}">Empezar →</a>
+  </div>
+  {% endfor %}
+</div>
+
+<h2>Lo que se espera de ti al terminar</h2>
+<ul class="datos">
+  <li><b>Entender</b><span>Sabes explicar por qué el sistema se inventa cosas y dónde falla en esta materia</span></li>
+  <li><b>Pedir</b><span>Pides ayuda con tu proceso, con contexto, y no el producto terminado</span></li>
+  <li><b>Comprobar</b><span>Verificas con las fuentes de la asignatura antes de entregar</span></li>
+  <li><b>Responder</b><span>Declaras tu uso y puedes defender cualquier parte de lo que entregas</span></li>
+</ul>
+<p>Tu docente valorará la calidad de tu uso de la IA con una
+<a href="{{ '/instrumentos/rubrica-calidad-uso-ia.html' | relative_url }}">rúbrica común</a>
+a toda la red, aparte de tu calificación.</p>
+
+{% else %}
+<div class="aviso">
+  <p><b>Curso en preparación.</b> Esta asignatura forma parte de la red y su curso está en
+  elaboración. Mientras tanto, puedes leer el
+  <a href="{{ '/marco/marco-comun.html' | relative_url }}">marco común</a> o el curso ya
+  publicado de otra asignatura desde la <a href="{{ '/' | relative_url }}">portada</a>.</p>
+</div>
+{% endif %}
+
+<h2>Otros cursos de la red</h2>
+<div class="tabla-envoltorio">
+<table>
+  <thead><tr><th>Asignatura</th><th>Rama</th><th>Centro</th><th>Estado</th></tr></thead>
+  <tbody>
+  {% for o in site.data.asignaturas %}{% unless o.slug == a.slug %}
+    <tr>
+      <td><a href="{{ '/cursos/' | append: o.slug | append: '/' | relative_url }}">{{ o.nombre }}</a></td>
+      <td>{{ o.rama }}</td><td>{{ o.centro }}</td>
+      <td>{% if o.estado == 'completo' %}Disponible{% else %}En preparación{% endif %}</td>
+    </tr>
+  {% endunless %}{% endfor %}
+  </tbody>
+</table>
+</div>

@@ -95,11 +95,14 @@ trabajen con intensidad distinta.
 
 ## 4. Cómo se lleva al aula
 
-1. El material base transversal ([`materiales/base/`](../materiales/base/)) cubre las
+1. El alumnado lee las **cuatro lecciones** del curso de su asignatura, que cubren las
    cuatro dimensiones con un mínimo común para toda la red.
-2. Cada docente lo adapta a las tareas reales de su asignatura, con el reparto de pesos de
-   su ficha.
-3. Las actividades se integran en la docencia ordinaria, dentro del horario de clase.
+2. Cada asignatura aporta sus ejemplos, sus fuentes y sus reglas, de modo que el curso se
+   lee como propio de la materia. Véase
+   [cómo añadir una asignatura](../docencia/anadir-asignatura.md).
+3. El docente lleva a clase la actividad de cada lección, con el reparto de pesos de su
+   ficha y siempre dentro del horario de la asignatura. Véase la
+   [guía del profesorado](../docencia/).
 
 ## 5. Cómo se observa
 

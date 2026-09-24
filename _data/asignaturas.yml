@@ -1,0 +1,152 @@
+# Datos de cada asignatura de la red.
+#
+# De aquí salen los cursos del alumnado: las lecciones son comunes y cada asignatura
+# aporta sus ejemplos, sus fuentes y sus reglas. Para añadir o completar una asignatura,
+# edita este fichero y ejecuta  python3 bin/generar-cursos.py
+#
+# estado: completo | preparacion
+
+- slug: fundamentos-programacion
+  nombre: Fundamentos de Programación
+  titulacion: Grado en Ingeniería Informática – Ingeniería del Software
+  curso: Primero
+  centro: ETSII
+  rama: Informática
+  docente: Jorge García Gutiérrez
+  estado: completo
+  pesos: { d1: 20, d2: 40, d3: 25, d4: 15 }
+  contexto: >-
+    En programación la IA genera código en segundos. El riesgo no es que se equivoque:
+    es que acierte, y que tú apruebes la práctica sin haber aprendido a construirla.
+    En primero, lo que se evalúa es exactamente eso que la IA te puede ahorrar.
+  tareas:
+    - Escribir una función a partir del enunciado
+    - Entender un error del compilador o del intérprete
+    - Depurar un programa que no hace lo que esperas
+    - Explicar qué hace un fragmento de código
+    - Generar casos de prueba
+  fallo:
+    pregunta: >-
+      Pídele que resuelva el ejercicio de la práctica de esta semana usando solo lo visto
+      en clase hasta hoy, o que use una función concreta de la biblioteca estándar en la
+      versión exacta del lenguaje que usamos.
+    esperado: >-
+      Suele usar construcciones que aún no hemos dado, inventar funciones que no existen
+      en esa biblioteca, o pasar por alto una restricción del enunciado.
+  peticiones:
+    - pobre: "Hazme el ejercicio 4."
+      mejor: >-
+        "Estoy con este ejercicio. He pensado recorrer la lista con un bucle y acumular el
+        máximo, pero se me va a None cuando la lista está vacía. No me des el código:
+        dime qué caso no estoy contemplando."
+    - pobre: "¿Por qué no funciona mi programa?"
+      mejor: >-
+        "Este error dice IndexError en la línea 12. Creo que el índice se sale al llegar al
+        último elemento. ¿Voy bien? Dame una pista sobre dónde mirar, no la corrección."
+    - pobre: "Explícame las listas."
+      mejor: >-
+        "He escrito esta explicación de qué es una lista para estudiarla. ¿Qué he dicho mal
+        o de forma imprecisa?"
+  fuentes:
+    - El enunciado de la práctica y lo visto en clase
+    - La documentación oficial del lenguaje
+    - El propio intérprete: ejecuta y comprueba
+  verificacion: >-
+    En programación tienes una ventaja que otras materias no tienen: **puedes ejecutar**.
+    Un código que compila no es un código correcto, así que prueba el caso vacío, el de un
+    solo elemento, el límite y el que rompe la precondición. Si la IA te da una función de
+    biblioteca, compruébala en la documentación antes de usarla.
+  riesgos:
+    - Entregar código que funciona y no saber explicar por qué, que es justo lo que se te preguntará
+    - Usar funciones o bibliotecas inventadas, que fallan al ejecutar
+    - Copiar soluciones de un nivel que no corresponde a lo visto, fáciles de detectar
+    - Depender de la IA para depurar y no desarrollar tu propia lectura de errores
+  casos:
+    - Pedirle que te explique un concepto del tema que no has entendido
+    - Pedirle que te traduzca al castellano un mensaje de error
+    - Pedirle que escriba una función completa de la práctica evaluable
+    - Pedirle casos de prueba adicionales para tu propio código
+    - Pedirle que revise tu código y te diga qué mejorarías
+    - Pedirle que comente tu código porque no te da tiempo a documentarlo
+  entrega: La práctica evaluable del cuatrimestre
+
+- slug: sistemas-operativos
+  nombre: Sistemas Operativos
+  titulacion: Grado en Ingeniería Informática – Ingeniería del Software
+  curso: Segundo
+  centro: ETSII
+  rama: Informática
+  docente: Pablo Neira Ayuso
+  estado: preparacion
+
+- slug: proceso-software-gestion
+  nombre: Proceso Software y Gestión I
+  titulacion: Grado en Ingeniería Informática – Ingeniería del Software
+  curso: Tercero
+  centro: ETSII
+  rama: Informática
+  docente: M.ª Dolores Acuña Garrido
+  estado: preparacion
+
+- slug: evolucion-gestion-configuracion
+  nombre: Evolución y Gestión de la Configuración
+  titulacion: Grado en Ingeniería Informática – Ingeniería del Software
+  curso: Cuarto
+  centro: ETSII
+  rama: Informática
+  docente: Jesús Moreno León
+  estado: preparacion
+
+- slug: procesadores-lenguajes
+  nombre: Procesadores de Lenguajes
+  titulacion: Grado en Ingeniería Informática – Tecnologías Informáticas / Doble Grado con Matemáticas
+  curso: Tercero
+  centro: ETSII
+  rama: Informática
+  docente: Francisco José Galán Morillo
+  estado: preparacion
+
+- slug: mineria-datos-mercados
+  nombre: Aplicaciones de la Minería de Datos a la Investigación de Mercados
+  titulacion: Máster Universitario en Marketing e Investigación Aplicada
+  curso: Máster
+  centro: Facultad de Ciencias Económicas y Empresariales
+  rama: Economía y Empresa
+  docente: José Antonio Troyano Jiménez
+  estado: preparacion
+
+- slug: contabilidad-directivos
+  nombre: Contabilidad para Directivos de Empresas
+  titulacion: Doble Grado en Administración y Dirección de Empresas y en Derecho
+  curso: Cuarto
+  centro: Facultad de Turismo y Finanzas
+  rama: Economía y Empresa
+  docente: M.ª Teresa Duarte Atoche
+  estado: preparacion
+
+- slug: derecho-privado
+  nombre: Instituciones Básicas de Derecho Privado
+  titulacion: Grado en Economía
+  curso: Primero
+  centro: Facultad de Ciencias Económicas y Empresariales
+  rama: Derecho
+  docente: M.ª Isabel Medina Suárez
+  estado: preparacion
+
+- slug: anatomia-patologica-medicina
+  nombre: Anatomía Patológica (Medicina)
+  titulacion: Grado en Medicina
+  curso: Tercero
+  centro: Facultad de Medicina
+  rama: Ciencias de la Salud
+  docente: Laura Macías García
+  estado: preparacion
+
+- slug: anatomia-patologica-odontologia
+  nombre: Anatomía Patológica (Odontología)
+  titulacion: Grado en Odontología
+  curso: Segundo
+  centro: Facultad de Odontología
+  rama: Ciencias de la Salud
+  docente: Manuel Pérez Pérez
+  estado: preparacion

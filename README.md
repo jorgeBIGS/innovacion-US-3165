@@ -47,34 +47,35 @@ Diez asignaturas de cuatro ramas de conocimiento:
 
 | Carpeta | Contenido |
 | --- | --- |
-| [`marco/`](marco/) | El [marco común](marco/marco-comun.md), con los descriptores observables de cada dimensión, y las fichas de calibración de cada asignatura. |
-| [`materiales/base/`](materiales/base/) | Las cuatro unidades del material transversal, unas tres horas de clase. |
-| [`materiales/asignaturas/`](materiales/asignaturas/) | Adaptaciones de ese material a cada asignatura, con su autoría propia. |
-| [`instrumentos/`](instrumentos/) | [Rúbrica de calidad de uso](instrumentos/rubrica-calidad-uso-ia.md), [cuestionario de autopercepción](instrumentos/cuestionario-autopercepcion.md) y [protocolo de aplicación y consentimiento](instrumentos/protocolo-aplicacion.md). |
+| [`cursos/`](cursos/) | Una carpeta por asignatura. Son solo cabeceras: el curso se genera a partir de los datos y de las lecciones comunes. |
+| [`_data/asignaturas.yml`](_data/asignaturas.yml) | **El contenido propio de cada asignatura**: contexto, tareas, ejemplos de peticiones, fuentes de verdad, riesgos y casos. |
+| [`_includes/lecciones/`](_includes/lecciones/) | Las cuatro lecciones del alumnado, comunes a toda la red, con los huecos que rellena cada asignatura. |
+| [`docencia/`](docencia/) | [Guía del profesorado](docencia/README.md): qué se hace en clase con cada lección y [cómo añadir una asignatura](docencia/anadir-asignatura.md). |
+| [`marco/`](marco/) | El [marco común](marco/marco-comun.md) con los descriptores observables, y las fichas de calibración. |
+| [`instrumentos/`](instrumentos/) | [Rúbrica](instrumentos/rubrica-calidad-uso-ia.md), [cuestionario](instrumentos/cuestionario-autopercepcion.md) y [protocolo con consentimiento](instrumentos/protocolo-aplicacion.md). |
 | [`analisis/`](analisis/) | Plantillas de entrega agregada. Sin datos. |
 
-### El material base, de un vistazo
+### Las cuatro lecciones
 
-| Unidad | Dimensión |
-| --- | --- |
-| [1. Cómo funciona la IA generativa, y por qué se equivoca](materiales/base/01-como-funciona-la-ia-generativa.md) | Conocer y entender |
-| [2. Preguntar para aprender, no para terminar](materiales/base/02-preguntar-para-aprender.md) | Usar y aplicar |
-| [3. Verificar lo que devuelve el sistema](materiales/base/03-verificar-las-salidas.md) | Evaluar y crear |
-| [4. Integridad académica, responsabilidad y ética](materiales/base/04-integridad-y-etica.md) | Cuestiones éticas |
+Comunes a todas las asignaturas; los ejemplos, las fuentes y las reglas, no.
 
-## Cómo reutilizar el material
+| Lección | Dimensión | Guía de aula |
+| --- | --- | --- |
+| 1. Qué es esto que estás usando | Conocer y entender | [El fallo provocado](docencia/01-el-fallo-provocado.md) |
+| 2. Preguntar para aprender | Usar y aplicar | [Reescribir peticiones](docencia/02-reescribir-peticiones.md) |
+| 3. Comprobar antes de entregar | Evaluar y crear | [La respuesta envenenada](docencia/03-la-respuesta-envenenada.md) |
+| 4. Tu responsabilidad | Cuestiones éticas | [La línea](docencia/04-la-linea.md) |
 
-1. Lee el [marco común](marco/marco-comun.md) y el [material base](materiales/base/).
-2. Rellena una ficha de calibración para tu asignatura, a partir de
-   [`marco/PLANTILLA-ficha-calibracion.md`](marco/PLANTILLA-ficha-calibracion.md): decide
-   el peso de cada dimensión e identifica las tareas reales en las que tu alumnado
-   recurre a la IA.
-3. Adapta las actividades del material base a esas tareas, con la
-   [plantilla de adaptación](materiales/asignaturas/PLANTILLA-adaptacion.md). Cada unidad
-   necesita que lleves material propio de tu materia: la pregunta que falla, las peticiones
-   pobres, la respuesta con errores y los casos ambiguos.
+## Cómo llevarlo a tu asignatura
+
+1. Lee el [marco común](marco/marco-comun.md) y la [guía del profesorado](docencia/README.md).
+2. Rellena una [ficha de calibración](marco/PLANTILLA-ficha-calibracion.md): el peso de
+   cada dimensión según el perfil de uso y de riesgo de tu materia.
+3. Completa tus datos en [`_data/asignaturas.yml`](_data/asignaturas.yml) y ejecuta
+   `python3 bin/generar-cursos.py`. Los pasos, en
+   [cómo añadir tu asignatura](docencia/anadir-asignatura.md).
 4. Si quieres medir el efecto, aplica los [instrumentos](instrumentos/) siguiendo el
-   [protocolo](instrumentos/protocolo-aplicacion.md), antes y después de la intervención.
+   [protocolo](instrumentos/protocolo-aplicacion.md), antes y después.
 
 ## Protección de datos
 

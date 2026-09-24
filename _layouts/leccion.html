@@ -1,0 +1,32 @@
+---
+layout: base
+ancho: page-doc
+---
+{% assign a = site.data.asignaturas | where: "slug", page.asignatura | first %}
+{% include lecciones/titulos.html %}
+{% assign i = page.leccion | minus: 1 %}
+{% assign ant = page.leccion | minus: 1 %}
+{% assign sig = page.leccion | plus: 1 %}
+{% assign base = '/cursos/' | append: a.slug %}
+{% assign fichero = 'lecciones/0' | append: page.leccion | append: '.md' %}
+
+<p class="eyebrow"><a href="{{ base | append: '/' | relative_url }}">← {{ a.nombre }}</a></p>
+<h1>{{ page.leccion }}. <strong>{{ titulos[i] }}</strong></h1>
+<p class="lead">{{ resumenes[i] }}</p>
+
+{% capture texto %}{% include {{ fichero }} %}{% endcapture %}
+{{ texto | markdownify }}
+
+<div class="paginacion">
+  {% if ant > 0 %}
+    <a href="{{ base | append: '/leccion-' | append: ant | append: '.html' | relative_url }}">← Lección {{ ant }}</a>
+  {% else %}
+    <a href="{{ base | append: '/' | relative_url }}">← Índice del curso</a>
+  {% endif %}
+  {% if sig < 5 %}
+    {% assign tsig = titulos[page.leccion] %}
+    <a href="{{ base | append: '/leccion-' | append: sig | append: '.html' | relative_url }}">Lección {{ sig }}: {{ tsig }} →</a>
+  {% else %}
+    <a href="{{ base | append: '/' | relative_url }}">Volver al curso →</a>
+  {% endif %}
+</div>

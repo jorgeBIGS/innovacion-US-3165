@@ -21,6 +21,7 @@ defaults:
       layout: pagina
 
 exclude:
+  - bin/
   - LICENSE
   - LICENSE-CODE
   - CITATION.cff

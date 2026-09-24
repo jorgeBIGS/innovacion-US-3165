@@ -60,3 +60,8 @@ img { max-width:100%; }
 .migas a:hover { text-decoration:underline; }
 footer { display:flex; flex-wrap:wrap; gap:1rem; justify-content:space-between; margin-top:3rem; padding-top:1rem; border-top:1px solid var(--rule); color:var(--muted); font-size:.85rem; }
 footer a { color:var(--muted); }
+
+.paginacion { display:flex; flex-wrap:wrap; gap:1rem; justify-content:space-between; margin-top:3rem; padding-top:1rem; border-top:1px solid var(--rule); font:700 .85rem ui-monospace,monospace; }
+.paginacion a { color:var(--brand); text-decoration:none; }
+.paginacion a:hover { text-decoration:underline; }
+.card-rama { color:var(--muted); font:700 .7rem ui-monospace,monospace; letter-spacing:.06em; text-transform:uppercase; margin-top:auto; }
