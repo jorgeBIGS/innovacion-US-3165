@@ -1,0 +1,28 @@
+title: "Alfabetización en IA generativa"
+description: >-
+  Materiales abiertos del proyecto de innovación docente nº 3165 de la Universidad de
+  Sevilla: marco común, material base para el aula e instrumentos de valoración.
+lang: es
+github_url: https://github.com/jorgeBIGS/innovacion-US-3165
+url: https://jorgebigs.github.io
+baseurl: /innovacion-US-3165
+
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: false
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: pagina
+
+exclude:
+  - LICENSE
+  - LICENSE-CODE
+  - CITATION.cff
+  - README.md
+  - .gitignore

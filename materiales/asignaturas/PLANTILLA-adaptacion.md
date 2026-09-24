@@ -1,3 +1,7 @@
+---
+title: "Adaptación a la asignatura [nombre]"
+---
+
 # Adaptación a la asignatura [nombre]
 
 > Copia este fichero a `materiales/asignaturas/<asignatura>/README.md` y complétalo. Va

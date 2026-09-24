@@ -1,3 +1,8 @@
+---
+title: "Adaptaciones por asignatura"
+permalink: /materiales/asignaturas/
+---
+
 # Adaptaciones por asignatura
 
 Cada docente adapta el [material base](../base/) a las tareas reales de su materia, según

@@ -1,3 +1,8 @@
+---
+title: "Análisis"
+permalink: /analisis/
+---
+
 # Análisis
 
 Plantillas y scripts para el análisis agregado. **Esta carpeta no contiene datos del

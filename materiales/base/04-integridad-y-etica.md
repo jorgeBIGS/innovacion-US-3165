@@ -1,3 +1,7 @@
+---
+title: "4. Integridad académica, responsabilidad y ética"
+---
+
 # 4. Integridad académica, responsabilidad y ética
 
 **Dimensión del marco:** D4, cuestiones éticas · **Duración orientativa:** 40 minutos

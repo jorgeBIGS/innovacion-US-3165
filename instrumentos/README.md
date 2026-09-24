@@ -1,3 +1,8 @@
+---
+title: "Instrumentos compartidos"
+permalink: /instrumentos/
+---
+
 # Instrumentos compartidos
 
 Los tres instrumentos que la red aplica por igual en todas las asignaturas, y el protocolo

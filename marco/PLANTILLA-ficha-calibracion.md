@@ -1,3 +1,7 @@
+---
+title: "Ficha de calibración disciplinar"
+---
+
 # Ficha de calibración disciplinar
 
 > Actividad A2 del proyecto. Una ficha por asignatura. Todas las asignaturas comparten

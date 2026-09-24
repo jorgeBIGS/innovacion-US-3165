@@ -1,3 +1,7 @@
+---
+title: "2. Preguntar para aprender, no para terminar"
+---
+
 # 2. Preguntar para aprender, no para terminar
 
 **Dimensión del marco:** D2, usar y aplicar · **Duración orientativa:** 50–60 minutos

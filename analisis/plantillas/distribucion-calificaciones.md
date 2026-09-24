@@ -1,3 +1,7 @@
+---
+title: "Plantilla de entrega de distribuciones agregadas"
+---
+
 # Plantilla de entrega de distribuciones agregadas
 
 Una fila por grupo y prueba. **Solo datos agregados: nunca calificaciones individuales.**

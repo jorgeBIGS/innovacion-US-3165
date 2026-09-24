@@ -1,3 +1,8 @@
+---
+title: "Marco común de alfabetización en IA"
+permalink: /marco/
+---
+
 # Marco común de alfabetización en IA
 
 - **[marco-comun.md](marco-comun.md)** — el documento de referencia de la red: las cuatro

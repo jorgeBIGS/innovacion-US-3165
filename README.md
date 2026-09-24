@@ -9,6 +9,8 @@ Este repositorio publica el marco común, los materiales de alfabetización y lo
 instrumentos de valoración que genera la red, para que cualquier docente pueda
 reutilizarlos y adaptarlos a su asignatura.
 
+**Sitio web:** <https://jorgebigs.github.io/innovacion-US-3165/>
+
 ## Punto de partida
 
 El alumnado universitario ya emplea la IA generativa, esté o no regulada en cada

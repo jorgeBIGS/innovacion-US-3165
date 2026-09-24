@@ -1,3 +1,7 @@
+---
+title: "Rúbrica común de calidad de uso de la IA"
+---
+
 # Rúbrica común de calidad de uso de la IA
 
 Instrumento de la **dimensión 3 de la evaluación** del proyecto: la valoración que hace el

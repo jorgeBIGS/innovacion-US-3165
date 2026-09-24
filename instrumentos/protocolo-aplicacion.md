@@ -1,3 +1,7 @@
+---
+title: "Protocolo de aplicación y consentimiento"
+---
+
 # Protocolo de aplicación y consentimiento
 
 Cómo se recogen los datos del proyecto, de modo que todas las asignaturas lo hagan igual y

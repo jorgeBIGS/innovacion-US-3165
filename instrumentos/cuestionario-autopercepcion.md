@@ -1,3 +1,7 @@
+---
+title: "Cuestionario de autopercepción y actitudes"
+---
+
 # Cuestionario de autopercepción y actitudes
 
 Instrumento de la **dimensión 1 de la evaluación**: la variación de la competencia

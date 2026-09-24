@@ -1,3 +1,7 @@
+---
+title: "1. Cómo funciona la IA generativa, y por qué se equivoca"
+---
+
 # 1. Cómo funciona la IA generativa, y por qué se equivoca
 
 **Dimensión del marco:** D1, conocer y entender · **Duración orientativa:** 30–40 minutos

@@ -1,3 +1,8 @@
+---
+title: "Material base transversal"
+permalink: /materiales/base/
+---
+
 # Material base transversal
 
 Material común a toda la red. Cubre las cuatro dimensiones del
