@@ -1,0 +1,19 @@
+# Nunca se publican datos del alumnado
+datos/
+*.csv
+*.tsv
+*.sav
+respuestas*
+calificaciones*
+
+# Documentación administrativa del proyecto (datos personales)
+*.eml
+solicitud*
+justificante*
+
+# Ficheros temporales de ofimática
+.~lock.*#
+~$*
+*.tmp
+
+.DS_Store

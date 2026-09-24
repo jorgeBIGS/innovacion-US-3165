@@ -1,0 +1,15 @@
+Los materiales docentes de este repositorio se publican bajo la licencia
+Creative Commons Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0).
+
+Resumen: https://creativecommons.org/licenses/by-sa/4.0/deed.es
+Texto legal completo: https://creativecommons.org/licenses/by-sa/4.0/legalcode.es
+
+PENDIENTE: pegar aquí el texto legal completo de la licencia. GitHub solo reconoce
+la licencia del repositorio cuando este fichero contiene el texto íntegro; puedes
+insertarlo desde la propia interfaz de GitHub ("Add file" > "Create new file" >
+nombre "LICENSE" > "Choose a license template").
+
+El código de análisis se publica por separado bajo licencia MIT; véase LICENSE-CODE.
+
+Los instrumentos de terceros que este proyecto traduce o adapta conservan la licencia
+y la atribución de sus autores originales, indicadas en instrumentos/README.md.

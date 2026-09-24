@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Si reutilizas estos materiales, cítalos así."
+title: "Alfabetización en IA generativa como recurso docente transversal: materiales de una red multidisciplinar de asignaturas"
+abstract: >-
+  Marco común de alfabetización en IA generativa, materiales docentes e instrumentos
+  de valoración generados por una red de diez asignaturas de cuatro ramas de
+  conocimiento de la Universidad de Sevilla.
+type: dataset
+authors:
+  - family-names: "García Gutiérrez"
+    given-names: "Jorge"
+    affiliation: "Universidad de Sevilla, Dpto. de Lenguajes y Sistemas Informáticos"
+    email: jorgarcia@us.es
+  - name: "Red de colaboración del proyecto de innovación docente nº 3165, Universidad de Sevilla"
+license: CC-BY-SA-4.0
+keywords:
+  - alfabetización en IA
+  - IA generativa
+  - innovación docente
+  - educación superior
+date-released: 2026-09-24
