@@ -95,14 +95,26 @@ trabajen con intensidad distinta.
 
 ## 4. Cómo se lleva al aula
 
-1. El alumnado lee las **cuatro lecciones** del curso de su asignatura, que cubren las
-   cuatro dimensiones con un mínimo común para toda la red.
-2. Cada asignatura aporta sus ejemplos, sus fuentes y sus reglas, de modo que el curso se
-   lee como propio de la materia. Véase
-   [cómo añadir una asignatura](../docencia/anadir-asignatura.md).
-3. El docente lleva a clase la actividad de cada lección, con el reparto de pesos de su
-   ficha y siempre dentro del horario de la asignatura. Véase la
+La secuencia es siempre la misma, y el orden es lo que hace comparables los datos:
+
+1. **Medida inicial.** Antes de ver nada del material, el alumnado responde al
+   cuestionario de autopercepción y al test de conocimientos, con consentimiento
+   informado. Si ya ha visto las lecciones, la medida de partida se pierde.
+2. **El material.** El alumnado trabaja las **cuatro lecciones** del curso de su
+   asignatura, que cubren las cuatro dimensiones con un mínimo común para toda la red, y
+   el docente lleva a clase la actividad de cada una, con el reparto de pesos de su ficha
+   y siempre dentro del horario de la asignatura. Véase la
    [guía del profesorado](../docencia/).
+3. **Medida final.** Terminada la intervención, el alumnado repite **los mismos dos
+   instrumentos**, en las mismas condiciones. La comparación pre/post es la primera vía de
+   evaluación del proyecto.
+
+Cada asignatura aporta sus ejemplos, sus fuentes y sus reglas, de modo que el curso se lea
+como propio de la materia. Véase
+[cómo añadir una asignatura](../docencia/anadir-asignatura.md).
+
+Los detalles de aplicación —código de emparejamiento, consentimiento y condiciones— están
+en el [protocolo](../instrumentos/protocolo-aplicacion.md).
 
 ## 5. Cómo se observa
 

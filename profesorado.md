@@ -34,6 +34,10 @@ tu asignatura, con qué se mide y cómo se analiza.
 
 ## En el aula
 
+La secuencia completa es: **medida inicial → material → medida final**. El cuestionario y
+el test van antes de que el alumnado vea ninguna lección; si llega con el material visto,
+la medida de partida se pierde.
+
 Cada lección que lee el alumnado tiene su sesión presencial. Unas tres horas en total,
 repartidas por el cuatrimestre y dentro del horario de clase.
 
