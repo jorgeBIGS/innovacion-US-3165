@@ -32,10 +32,11 @@ ordinaria. La convocatoria excluye cualquier actividad fuera del horario de clas
    cuatro.
 4. **Al terminar, la medida final.** El alumnado repite el mismo cuestionario, en las
    mismas condiciones.
-5. **Y la rúbrica.** Valoras con la
-   [rúbrica común](../instrumentos/rubrica-calidad-uso-ia.md) una entrega real de cada
-   estudiante, ponderando las dimensiones con los pesos de tu ficha. La aplicas igual en
-   tus grupos intervenidos y en los de control, y así puedes agregar y compararlos.
+5. **Y tu rúbrica.** Valoras una entrega real con
+   [la rúbrica que construyas](../instrumentos/rubrica-calidad-uso-ia.md), con los ítems
+   que te interesen. Solo tienes que declarar a qué dimensión va cada ítem y con qué peso.
+   La aplicas igual en tus grupos intervenidos y en los de control, y así puedes
+   compararlos.
 
 El orden de las lecciones importa: la 2 se apoya en el modelo mental de la 1, y la 3 en el
 hábito de la 2. La 4 puede adelantarse si necesitas fijar reglas desde el primer día. Lo

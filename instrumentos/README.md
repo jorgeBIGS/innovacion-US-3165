@@ -11,7 +11,7 @@ que fija cómo y cuándo se aplican.
 | Instrumento | Uso | Estado |
 | --- | --- | --- |
 | [Cuestionario de autopercepción y actitudes](cuestionario-autopercepcion.md) · **[Word]({{ '/descargas/cuestionario-autopercepcion.docx' | relative_url }})** | Pre y post, en grupos intervenidos | Bloques A, B y D redactados; bloque C de actitudes, pendiente |
-| [Rúbrica de calidad de uso de la IA](rubrica-calidad-uso-ia.md) | Al final, en todos los grupos | Lista para calibrar |
+| [Tu rúbrica de calidad de uso](rubrica-calidad-uso-ia.md) | La construye cada docente; al final, en todos sus grupos | Guía y ejemplo publicados |
 | [Protocolo de aplicación y consentimiento](protocolo-aplicacion.md) | Todas las aplicaciones | Listo, pendiente de revisión institucional |
 
 ## Prueba de conocimientos
@@ -40,8 +40,11 @@ que se haga traducción y retrotraducción y se documente el proceso. Si no se h
 declararlo al difundir los resultados y tratar esas puntuaciones como orientativas. Es una
 decisión del equipo, y conviene dejarla escrita aquí antes de la primera aplicación.
 
-## Calibración previa
+## Qué es común y qué no
 
-La rúbrica solo produce datos comparables si los docentes puntúan de forma parecida. Antes
-de aplicarla, el equipo valora dos producciones de ejemplo comunes y discute los criterios
-donde haya discrepancia de más de un nivel.
+**Común:** el cuestionario de autopercepción, que se aplica igual en toda la red, y el
+marco de cuatro dimensiones.
+
+**De cada docente:** la rúbrica de calidad de uso y, si la quiere, una prueba de
+conocimientos. Lo que sí debe comunicar de su rúbrica es a qué dimensión pertenece cada
+ítem y qué peso le ha dado; con eso los resultados se agregan a nivel de dimensión.

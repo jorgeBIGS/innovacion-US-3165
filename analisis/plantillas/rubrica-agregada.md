@@ -4,33 +4,41 @@ title: "Plantilla de entrega de la rúbrica agregada"
 
 # Plantilla de entrega de la rúbrica agregada
 
-Resultados de la [rúbrica de calidad de uso](../../instrumentos/rubrica-calidad-uso-ia.md),
-**agregados por grupo**. Nunca filas por estudiante.
+Cada docente usa **su propia rúbrica**. Lo que se entrega al proyecto es siempre lo mismo:
+la declaración de qué mide esa rúbrica y los resultados **agregados por grupo**, nunca por
+estudiante.
 
-## Por grupo
+## 1. Declaración de la rúbrica
 
-| Asignatura | Grupo | Tipo (intervenido/control) | N valorado | Producción valorada | Media total (6–24) | Desv. típica | Media ponderada (1–4) | Desv. típica |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| | | | | | | | | |
+Sin esto, los resultados no se pueden agregar con los del resto de la red.
 
-## Por dimensión, para ver dónde está la diferencia
+| Ítem | Dimensión (D1–D4) | Peso | Escala (mín–máx) |
+| --- | --- | --- | --- |
+| | | | |
 
-| Asignatura | Grupo | Tipo | D2 usar y aplicar | D3 evaluar y crear | D4 cuestiones éticas |
-| --- | --- | --- | --- | --- | --- |
-| | | | | | |
+**Peso total por dimensión:** D1 ___ · D2 ___ · D3 ___ · D4 ___
 
-## Distribución por niveles
+## 2. Resultados por grupo y dimensión
 
-Cuántos estudiantes en cada nivel, por criterio. Dos grupos con la misma media pueden tener
-distribuciones muy distintas, y eso es lo interesante.
+Puntuaciones **normalizadas a 0–1**: divide por el máximo de tu escala. Deja en blanco las
+dimensiones que tu rúbrica no observe.
 
-| Asignatura | Grupo | Tipo | Criterio | Nivel 1 | Nivel 2 | Nivel 3 | Nivel 4 |
+| Asignatura | Grupo | Tipo (intervenido/control) | N valorado | D1 | D2 | D3 | D4 | Global | Desv. típica |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | | | | | | | | | |
+
+## 3. Distribución
+
+Dos grupos con la misma media pueden tener distribuciones muy distintas, y ahí suele estar
+lo interesante. Reparte tu escala en los tramos que uses.
+
+| Asignatura | Grupo | Tipo | Dimensión | Tramo bajo | Tramo medio-bajo | Tramo medio-alto | Tramo alto |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | | | | | | | | |
 
-## Al entregar, indica también
+## 4. Al entregar, indica también
 
-- Los **pesos** de tu ficha de calibración, para poder reproducir la ponderada.
-- Qué producción valoraste en cada grupo y si era equivalente entre ellos.
-- Si algún criterio no era observable y lo dejaste sin puntuar.
+- Qué producción valoraste en cada grupo, y si era equivalente entre ellos.
+- Cuándo la valoraste, en relación con la medida final del cuestionario.
+- Si algún ítem no era observable y lo dejaste sin puntuar.
 - Cualquier diferencia de partida conocida entre los grupos que compares.

@@ -79,7 +79,7 @@ Tres vías independientes, todas agregadas y anónimas.
 | Vía | Instrumento | A quién | Cuándo |
 | --- | --- | --- | --- |
 | Competencia percibida y actitudes | [Cuestionario de autopercepción](instrumentos/cuestionario-autopercepcion.md) ([Word]({{ '/descargas/cuestionario-autopercepcion.docx' | relative_url }})) | Grupos intervenidos | Antes y después |
-| Calidad del uso de la IA | [Rúbrica común](instrumentos/rubrica-calidad-uso-ia.md), ponderada con los pesos de tu asignatura | Todos los grupos que tuteles, intervenidos y de control | Después de la medida final |
+| Calidad del uso de la IA | [Tu propia rúbrica](instrumentos/rubrica-calidad-uso-ia.md), con cada ítem asignado a una dimensión y su peso declarado | Todos los grupos que tuteles, intervenidos y de control | Después de la medida final |
 | Calificaciones | [Distribuciones agregadas](analisis/README.md) | Intervenidos y de control | Al cerrar actas |
 
 Antes de aplicar nada, lee el [protocolo](instrumentos/protocolo-aplicacion.md): código

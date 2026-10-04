@@ -10,9 +10,9 @@ alumnado y no debe contenerlos nunca.**
 
 - [`plantillas/distribucion-calificaciones.md`](plantillas/distribucion-calificaciones.md):
   distribuciones agregadas de la evaluación continua.
-- [`plantillas/rubrica-agregada.md`](plantillas/rubrica-agregada.md): resultados de la
-  rúbrica por grupo, con el total sin ponderar y la puntuación ponderada según los pesos
-  de cada asignatura.
+- [`plantillas/rubrica-agregada.md`](plantillas/rubrica-agregada.md): declaración de la
+  rúbrica de cada docente —ítems, dimensión y peso— y sus resultados por grupo,
+  normalizados para poder agregarlos.
 
 El análisis previsto incluye la variación pre/post de la competencia percibida y los
 conocimientos, la comparación de distribuciones de calificaciones entre grupos

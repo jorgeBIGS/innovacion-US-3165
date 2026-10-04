@@ -108,12 +108,12 @@ La secuencia es siempre la misma, y el orden es lo que hace comparables los dato
 3. **Medida final.** Terminada la intervención, el alumnado repite **el mismo
    cuestionario**, en las mismas condiciones. La comparación pre/post es la primera vía de
    evaluación del proyecto.
-4. **Valoración del docente.** Después, el docente valora con la
-   [rúbrica común](../instrumentos/rubrica-calidad-uso-ia.md) la calidad del uso de la IA
-   en una entrega real, estudiante a estudiante, **ponderando las dimensiones según el
-   peso que tienen en su asignatura**. La rúbrica se aplica igual en los grupos
-   intervenidos y en los de control que tutele, de modo que pueda agregar y comparar unos
-   con otros.
+4. **Valoración del docente.** Después, el docente valora la calidad del uso de la IA en
+   una entrega real con **su propia rúbrica**, construida según lo que le interese
+   observar. Para que los resultados se puedan agregar, declara a qué dimensión pertenece
+   cada ítem y qué peso le ha dado. La aplica igual en los grupos intervenidos y en los de
+   control que tutele, de modo que pueda compararlos. Véase
+   [tu rúbrica de calidad de uso](../instrumentos/rubrica-calidad-uso-ia.md).
 
 Cada asignatura aporta sus ejemplos, sus fuentes y sus reglas, de modo que el curso se lea
 como propio de la materia. Véase
@@ -124,10 +124,10 @@ en el [protocolo](../instrumentos/protocolo-aplicacion.md).
 
 ## 5. Cómo se observa
 
-| Dimensión | Instrumento principal |
+| Dimensión | Instrumento |
 | --- | --- |
-| Todas, en autopercepción | [Cuestionario de autopercepción y actitudes](../instrumentos/cuestionario-autopercepcion.md), pre y post |
-| D2, D3 y D4, desempeño | [Rúbrica común de calidad de uso](../instrumentos/rubrica-calidad-uso-ia.md), al final, en todos los grupos |
+| Todas, en autopercepción | [Cuestionario de autopercepción y actitudes](../instrumentos/cuestionario-autopercepcion.md), común a la red, pre y post |
+| Las que decida cada docente, en desempeño | [Su propia rúbrica](../instrumentos/rubrica-calidad-uso-ia.md), al final, en todos sus grupos, con los ítems asignados a dimensiones |
 
 Los códigos de descriptor (D1.1, D2.3…) son la costura entre las piezas: las actividades y
 los criterios de la rúbrica remiten a ellos, de modo que se puede saber qué dimensión
