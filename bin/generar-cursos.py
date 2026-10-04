@@ -50,8 +50,8 @@ def main():
             f.write(INDICE.format(**a))
         escritos += 1
 
-        if a.get("estado") != "completo":
-            # Sin datos no hay lecciones que generar; la portada del curso avisa.
+        if a.get("estado") not in ("completo", "borrador"):
+            # Sin curso publicado no hay lecciones; la portada del curso avisa.
             for n in range(1, 5):
                 suelta = os.path.join(carpeta, "leccion-%d.md" % n)
                 if os.path.exists(suelta):

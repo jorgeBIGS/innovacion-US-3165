@@ -11,7 +11,9 @@ title: null
 </header>
 
 <h2>Entra en tu curso</h2>
-<p>Busca tu asignatura. Cada curso está adaptado a lo que se hace en ella.</p>
+<p>Busca tu asignatura. Cada curso está adaptado a lo que se hace en ella. Los que
+indican «pendientes de ajuste» ya son utilizables: usan los ejemplos comunes de su rama
+mientras su docente los afina.</p>
 <div class="grid">
   {% for a in site.data.asignaturas %}
   {% if a.estado == 'completo' %}
@@ -20,6 +22,14 @@ title: null
     <p class="card-title">{{ a.nombre }}</p>
     <p class="card-desc">{{ a.titulacion }}</p>
     <a class="card-link" href="{{ '/cursos/' | append: a.slug | append: '/' | relative_url }}">Entrar al curso →</a>
+  </div>
+  {% elsif a.estado == 'borrador' %}
+  <div class="card">
+    <span class="card-num">{{ a.curso }} · {{ a.centro }}</span>
+    <p class="card-title">{{ a.nombre }}</p>
+    <p class="card-desc">{{ a.titulacion }}</p>
+    <a class="card-link" href="{{ '/cursos/' | append: a.slug | append: '/' | relative_url }}">Entrar al curso →</a>
+    <span class="card-nota">Ejemplos de {{ a.rama }}, pendientes de ajuste</span>
   </div>
   {% else %}
   <div class="card card-pendiente">

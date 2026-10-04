@@ -4,7 +4,8 @@
 # aporta sus ejemplos, sus fuentes y sus reglas. Para añadir o completar una asignatura,
 # edita este fichero y ejecuta  python3 bin/generar-cursos.py
 #
-# estado: completo | preparacion
+# estado: completo (revisado por su docente) | borrador (usa los ejemplos de su rama,
+#         definidos en _data/ramas.yml) | preparacion (sin curso publicado)
 
 - slug: fundamentos-programacion
   nombre: Fundamentos de Programación
@@ -77,7 +78,7 @@
   centro: ETSII
   rama: Informática
   docente: Pablo Neira Ayuso
-  estado: preparacion
+  estado: borrador
 
 - slug: proceso-software-gestion
   nombre: Proceso Software y Gestión I
@@ -86,7 +87,7 @@
   centro: ETSII
   rama: Informática
   docente: M.ª Dolores Acuña Garrido
-  estado: preparacion
+  estado: borrador
 
 - slug: evolucion-gestion-configuracion
   nombre: Evolución y Gestión de la Configuración
@@ -95,7 +96,7 @@
   centro: ETSII
   rama: Informática
   docente: Jesús Moreno León
-  estado: preparacion
+  estado: borrador
 
 - slug: procesadores-lenguajes
   nombre: Procesadores de Lenguajes
@@ -104,7 +105,7 @@
   centro: ETSII
   rama: Informática
   docente: Francisco José Galán Morillo
-  estado: preparacion
+  estado: borrador
 
 - slug: mineria-datos-mercados
   nombre: Aplicaciones de la Minería de Datos a la Investigación de Mercados
@@ -113,7 +114,7 @@
   centro: Facultad de Ciencias Económicas y Empresariales
   rama: Economía y Empresa
   docente: José Antonio Troyano Jiménez
-  estado: preparacion
+  estado: borrador
 
 - slug: contabilidad-directivos
   nombre: Contabilidad para Directivos de Empresas
@@ -122,7 +123,7 @@
   centro: Facultad de Turismo y Finanzas
   rama: Economía y Empresa
   docente: M.ª Teresa Duarte Atoche
-  estado: preparacion
+  estado: borrador
 
 - slug: derecho-privado
   nombre: Instituciones Básicas de Derecho Privado
@@ -131,7 +132,7 @@
   centro: Facultad de Ciencias Económicas y Empresariales
   rama: Derecho
   docente: M.ª Isabel Medina Suárez
-  estado: preparacion
+  estado: borrador
 
 - slug: anatomia-patologica-medicina
   nombre: Anatomía Patológica (Medicina)
@@ -140,7 +141,7 @@
   centro: Facultad de Medicina
   rama: Ciencias de la Salud
   docente: Laura Macías García
-  estado: preparacion
+  estado: borrador
 
 - slug: anatomia-patologica-odontologia
   nombre: Anatomía Patológica (Odontología)
@@ -149,4 +150,4 @@
   centro: Facultad de Odontología
   rama: Ciencias de la Salud
   docente: Manuel Pérez Pérez
-  estado: preparacion
+  estado: borrador

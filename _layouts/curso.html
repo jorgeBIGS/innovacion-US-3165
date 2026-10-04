@@ -10,7 +10,16 @@ layout: base
   <p class="lead">{{ a.curso }} · {{ a.titulacion }}{% if a.docente %} · {{ a.docente }}{% endif %}</p>
 </header>
 
-{% if a.estado == 'completo' %}
+{% if a.estado == 'completo' or a.estado == 'borrador' %}
+{% if a.estado == 'borrador' %}
+<div class="aviso">
+  <p><b>Vista previa para el profesorado.</b> Este curso está publicado con los ejemplos
+  comunes a {{ a.rama }}, a la espera de que {{ a.docente }} los ajuste a la asignatura.
+  Para adaptarlo, mira <a href="{{ '/docencia/anadir-asignatura.html' | relative_url }}">cómo
+  añadir tu asignatura</a>: basta con rellenar sus datos.</p>
+</div>
+{% endif %}
+
 <h2>El curso</h2>
 <p>Cuatro lecciones cortas. Léelas en orden: cada una se apoya en la anterior.</p>
 <div class="grid">
@@ -54,7 +63,7 @@ a toda la red, aparte de tu calificación.</p>
     <tr>
       <td><a href="{{ '/cursos/' | append: o.slug | append: '/' | relative_url }}">{{ o.nombre }}</a></td>
       <td>{{ o.rama }}</td><td>{{ o.centro }}</td>
-      <td>{% if o.estado == 'completo' %}Disponible{% else %}En preparación{% endif %}</td>
+      <td>{% if o.estado == 'completo' %}Disponible{% elsif o.estado == 'borrador' %}Ejemplos de la rama{% else %}En preparación{% endif %}</td>
     </tr>
   {% endunless %}{% endfor %}
   </tbody>

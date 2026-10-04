@@ -1,0 +1,208 @@
+# Valores por rama de conocimiento.
+#
+# Cadena de búsqueda en las lecciones: lo que define la ASIGNATURA, si no lo que define su
+# RAMA, y si no, nada. Permite que una asignatura publique un curso coherente desde el
+# primer día y que su docente sólo tenga que corregir lo que no encaje.
+#
+# Esto es un punto de partida redactado por la coordinación del proyecto, no la posición
+# de cada docente. Las reglas de uso de cada asignatura las fija quien la imparte.
+
+Informática:
+  contexto: >-
+    En Informática la IA escribe código en segundos, y lo escribe razonablemente bien. El
+    riesgo no es solo que se equivoque: es que acierte, y que apruebes sin haber aprendido
+    a construir lo que entregas. Lo que se evalúa en estas asignaturas es exactamente lo
+    que la IA te puede ahorrar.
+  tareas:
+    - Escribir código a partir de un enunciado
+    - Entender un mensaje de error
+    - Depurar algo que no se comporta como esperas
+    - Explicar qué hace un fragmento de código ajeno
+    - Generar casos de prueba o documentación
+  fallo:
+    pregunta: >-
+      Pídele que resuelva un ejercicio de la asignatura usando solo lo visto en clase hasta
+      hoy, o que use una herramienta o biblioteca concreta en la versión exacta que usamos.
+    esperado: >-
+      Suele recurrir a construcciones que aún no se han dado, inventar funciones u opciones
+      que no existen en esa versión, o saltarse una restricción del enunciado.
+  peticiones:
+    - pobre: "Hazme el ejercicio."
+      mejor: >-
+        "Estoy con este ejercicio. He pensado este enfoque y creo que falla en un caso
+        concreto. No me des el código: dime qué caso no estoy contemplando."
+    - pobre: "¿Por qué no funciona?"
+      mejor: >-
+        "Me da este error en esta línea. Creo que viene de aquí. ¿Voy bien encaminado? Dame
+        una pista sobre dónde mirar, no la corrección."
+  verificacion: >-
+    En Informática tienes una ventaja: **puedes ejecutar**. Que compile no significa que
+    sea correcto, así que prueba el caso vacío, el límite y el que rompe la precondición.
+    Si te propone una función o una opción de configuración, compruébala en la
+    documentación oficial de la versión que usas.
+  fuentes:
+    - El enunciado y lo visto en clase
+    - La documentación oficial de la herramienta o el lenguaje
+    - La ejecución: prueba y comprueba
+  riesgos:
+    - Entregar código que funciona sin saber explicarlo, que es justo lo que se te preguntará
+    - Usar funciones, opciones o dependencias inventadas, que fallan al ejecutar
+    - No desarrollar tu propia lectura de errores por delegarla siempre
+    - Introducir en un sistema externo código sujeto a confidencialidad
+  casos:
+    - Pedirle que te explique un concepto que no entendiste en clase
+    - Pedirle que traduzca un mensaje de error
+    - Pedirle que escriba una parte sustancial de la entrega evaluable
+    - Pedirle casos de prueba para tu propio código
+    - Pedirle que revise tu solución y sugiera mejoras
+    - Pedirle que documente tu código porque no te da tiempo
+
+Derecho:
+  contexto: >-
+    En Derecho la IA redacta con una seguridad que engaña. Produce escritos bien
+    estructurados citando normas y resoluciones que a veces no existen, o que no dicen lo
+    que afirma. Aquí el error no se detecta al ejecutar: se detecta cuando ya ha hecho daño.
+  tareas:
+    - Entender una figura o una institución jurídica
+    - Redactar o mejorar la estructura de un texto
+    - Buscar la norma aplicable a un supuesto
+    - Resumir una resolución o un texto legal
+    - Fundamentar una postura
+  fallo:
+    pregunta: >-
+      Pídele el contenido exacto de un artículo concreto, o que te cite resoluciones sobre
+      un supuesto muy específico, con sus referencias.
+    esperado: >-
+      Es frecuente que parafrasee mal el artículo, que mezcle redacciones derogadas con las
+      vigentes o que cite resoluciones inexistentes con una apariencia perfectamente creíble.
+  peticiones:
+    - pobre: "Hazme el caso práctico."
+      mejor: >-
+        "He identificado estas dos instituciones como aplicables al supuesto y he descartado
+        una tercera por este motivo. ¿Qué no estoy teniendo en cuenta? No me resuelvas el
+        caso."
+    - pobre: "Resúmeme el tema."
+      mejor: >-
+        "He escrito este esquema del tema para estudiarlo. ¿Qué he simplificado en exceso o
+        qué distinción importante me he saltado?"
+  verificacion: >-
+    Ninguna cita vale hasta que la has visto en la fuente. Comprueba el texto literal de la
+    norma en el boletín oficial y su vigencia a día de hoy, y localiza cada resolución por
+    su referencia. Comprueba también el marco: una respuesta correcta en otro ordenamiento
+    es inservible aquí.
+  fuentes:
+    - El texto consolidado de la norma en el boletín oficial
+    - Las bases de datos de jurisprudencia
+    - El manual y los materiales de la asignatura
+  riesgos:
+    - Citar normas o resoluciones inexistentes, con consecuencias profesionales serias
+    - Razonar sobre una redacción derogada o sobre otro ordenamiento
+    - Introducir datos de un cliente o de un expediente en un sistema externo
+    - Perder la capacidad de fundamentar por tu cuenta, que es el núcleo del oficio
+  casos:
+    - Pedirle que te explique una figura jurídica que no has entendido
+    - Pedirle que mejore la redacción de un texto tuyo
+    - Pedirle que te localice la norma aplicable y luego comprobarla
+    - Pedirle que redacte el fundamento jurídico de tu trabajo
+    - Pedirle que resuma una sentencia larga que sí has leído
+    - Pedirle que te invente ejemplos de supuestos para practicar
+
+Ciencias de la Salud:
+  contexto: >-
+    En Ciencias de la Salud una afirmación sin verificar puede acabar en una decisión sobre
+    una persona. La IA resume bibliografía y explica conceptos muy bien, y también afirma
+    con aplomo cosas desactualizadas o falsas. Lo que aquí se entrena no es solo el
+    conocimiento: es el criterio para no trasladar nada que no hayas comprobado.
+  tareas:
+    - Entender un concepto o un mecanismo
+    - Resumir bibliografía o una guía
+    - Preparar y organizar el estudio
+    - Apoyar la interpretación de un caso o de una imagen
+    - Redactar informes o trabajos académicos
+  fallo:
+    pregunta: >-
+      Pídele criterios diagnósticos concretos con la referencia de la guía vigente, o
+      detalles de una entidad poco frecuente.
+    esperado: >-
+      Suele mezclar criterios de versiones distintas de la clasificación, dar cifras que no
+      aparecen en ninguna guía o citar referencias que no existen.
+  peticiones:
+    - pobre: "Explícame todo el tema."
+      mejor: >-
+        "He resumido así este mecanismo para estudiarlo. ¿Qué he dicho mal, qué paso me he
+        saltado y qué estoy simplificando demasiado?"
+    - pobre: "¿Qué tiene este paciente?"
+      mejor: >-
+        "En este caso de clase he pensado estas tres posibilidades y las he ordenado así por
+        estos motivos. ¿Qué criterio no estoy usando para distinguirlas?"
+  verificacion: >-
+    Toda afirmación con consecuencias clínicas se comprueba en la fuente primaria: la guía
+    vigente, el manual de la asignatura o la literatura revisada. Comprueba siempre de qué
+    versión de la clasificación habla y de qué año son los datos, porque ahí es donde más
+    se equivoca.
+  fuentes:
+    - Las guías clínicas vigentes y la clasificación actual
+    - El manual y los materiales de la asignatura
+    - La literatura científica revisada por pares
+  riesgos:
+    - Trasladar a un contexto clínico una afirmación no verificada
+    - Estudiar sobre criterios de una versión antigua de la clasificación
+    - Introducir datos de un paciente o imágenes identificables en un sistema externo
+    - Sustituir el razonamiento clínico propio, que es lo que se te va a exigir siempre
+  casos:
+    - Pedirle que te explique un mecanismo que no has entendido
+    - Pedirle que te haga preguntas de repaso sobre el tema
+    - Pedirle que resuma un artículo que vas a citar sin leerlo tú
+    - Pedirle que redacte la discusión de tu trabajo
+    - Pedirle ayuda con la descripción de una imagen de clase
+    - Pedirle que te ordene el plan de estudio del bloque
+
+Economía y Empresa:
+  contexto: >-
+    En Economía y Empresa la IA produce análisis, informes y cifras con una presentación
+    impecable. El problema son los supuestos: los que da por hechos sin decírtelo y los que
+    tú no fijaste. Un informe con una cifra mal sostenida llega a una decisión real.
+  tareas:
+    - Entender un concepto, un criterio o un modelo
+    - Analizar o transformar datos
+    - Redactar informes y memorias
+    - Interpretar resultados y elaborar conclusiones
+    - Preparar presentaciones
+  fallo:
+    pregunta: >-
+      Pídele el tratamiento concreto de una operación según la normativa vigente, con su
+      referencia, o que calcule un indicador con unos datos que le des.
+    esperado: >-
+      Es habitual que aplique un criterio que no corresponde a la normativa vigente aquí,
+      que cambie unidades o periodos sin avisar, o que arrastre un error de cálculo
+      presentado con total seguridad.
+  peticiones:
+    - pobre: "Hazme el informe."
+      mejor: >-
+        "He llegado a estas conclusiones con estos datos y bajo estos supuestos. ¿Qué
+        supuesto mío es más discutible y qué dato debería contrastar antes de defenderlo?"
+    - pobre: "Analiza estos datos."
+      mejor: >-
+        "He hecho este análisis y obtengo este resultado, que me parece raro. ¿Qué
+        comprobaría yo antes de darlo por bueno?"
+  verificacion: >-
+    Reproduce los cálculos: si no puedes rehacer una cifra, no la uses. Comprueba las
+    unidades, el periodo y la fuente de cada dato, y haz explícitos los supuestos, sobre
+    todo los que la respuesta dio por hechos sin decirlo. Para el tratamiento normativo, ve
+    siempre al texto vigente.
+  fuentes:
+    - La normativa y el plan vigentes
+    - Los datos originales y sus fuentes estadísticas
+    - El manual y los materiales de la asignatura
+  riesgos:
+    - Sostener conclusiones sobre cifras que no puedes reproducir
+    - Aceptar supuestos ocultos que cambian por completo el resultado
+    - Aplicar criterios de otra normativa o de otro periodo
+    - Introducir información confidencial de una empresa en un sistema externo
+  casos:
+    - Pedirle que te explique un criterio que no has entendido
+    - Pedirle que revise la estructura de tu informe
+    - Pedirle que redacte las conclusiones a partir de tu análisis
+    - Pedirle que haga los cálculos y copiarlos sin rehacerlos
+    - Pedirle que te sugiera qué indicadores mirar, y decidir tú
+    - Pedirle que mejore tus gráficos y su interpretación

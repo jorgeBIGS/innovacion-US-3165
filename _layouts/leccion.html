@@ -4,6 +4,7 @@ ancho: page-doc
 ---
 {% assign a = site.data.asignaturas | where: "slug", page.asignatura | first %}
 {% include lecciones/titulos.html %}
+{% include datos-asignatura.html %}
 {% assign i = page.leccion | minus: 1 %}
 {% assign ant = page.leccion | minus: 1 %}
 {% assign sig = page.leccion | plus: 1 %}
@@ -13,6 +14,14 @@ ancho: page-doc
 <p class="eyebrow"><a href="{{ base | append: '/' | relative_url }}">← {{ a.nombre }}</a></p>
 <h1>{{ page.leccion }}. <strong>{{ titulos[i] }}</strong></h1>
 <p class="lead">{{ resumenes[i] }}</p>
+
+{% if a.estado == 'borrador' %}
+<div class="aviso">
+  <p><b>Versión provisional.</b> Los ejemplos de esta lección son los comunes a
+  {{ a.rama }}: {{ a.docente }} todavía no los ha ajustado a {{ a.nombre }}. El contenido
+  general es válido; los ejemplos concretos pueden cambiar.</p>
+</div>
+{% endif %}
 
 {% capture texto %}{% include {{ fichero }} %}{% endcapture %}
 {{ texto | markdownify }}

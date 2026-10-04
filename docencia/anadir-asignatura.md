@@ -10,6 +10,20 @@ mejoramos una explicación, mejora en las diez asignaturas a la vez.
 
 Tú rellenas un bloque de datos. El sitio hace el resto.
 
+## Tu asignatura ya tiene curso
+
+Las diez asignaturas de la red tienen su curso publicado. Las que aún no has tocado usan
+los **ejemplos comunes de tu rama de conocimiento**, definidos en
+[`_data/ramas.yml`](https://github.com/jorgeBIGS/innovacion-US-3165/blob/main/_data/ramas.yml),
+y lo advierten en la página.
+
+Eso significa que no partes de cero: entra en tu curso, léelo y **corrige lo que no
+encaje**. Cuando esté a tu gusto, cambia `estado: borrador` por `estado: completo` y
+desaparecerá el aviso.
+
+La precedencia es simple: lo que defines en tu asignatura gana; lo que no defines, lo
+pone tu rama.
+
 ## 1. Edita `_data/asignaturas.yml`
 
 Busca tu asignatura —ya están las diez— y completa los campos. Toma como modelo la de

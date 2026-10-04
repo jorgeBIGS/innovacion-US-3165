@@ -1,0 +1,14 @@
+{%- comment -%}
+Resuelve el contenido de la asignatura: lo suyo si lo tiene, si no lo de su rama.
+Define: contexto, tareas, fallo, peticiones, verificacion, fuentes, riesgos, casos.
+Requiere que 'a' sea la asignatura.
+{%- endcomment -%}
+{%- assign r = site.data.ramas[a.rama] -%}
+{%- if a.contexto -%}{%- assign contexto = a.contexto -%}{%- else -%}{%- assign contexto = r.contexto -%}{%- endif -%}
+{%- if a.tareas -%}{%- assign tareas = a.tareas -%}{%- else -%}{%- assign tareas = r.tareas -%}{%- endif -%}
+{%- if a.fallo -%}{%- assign fallo = a.fallo -%}{%- else -%}{%- assign fallo = r.fallo -%}{%- endif -%}
+{%- if a.peticiones -%}{%- assign peticiones = a.peticiones -%}{%- else -%}{%- assign peticiones = r.peticiones -%}{%- endif -%}
+{%- if a.verificacion -%}{%- assign verificacion = a.verificacion -%}{%- else -%}{%- assign verificacion = r.verificacion -%}{%- endif -%}
+{%- if a.fuentes -%}{%- assign fuentes = a.fuentes -%}{%- else -%}{%- assign fuentes = r.fuentes -%}{%- endif -%}
+{%- if a.riesgos -%}{%- assign riesgos = a.riesgos -%}{%- else -%}{%- assign riesgos = r.riesgos -%}{%- endif -%}
+{%- if a.casos -%}{%- assign casos = a.casos -%}{%- else -%}{%- assign casos = r.casos -%}{%- endif -%}
