@@ -80,3 +80,7 @@ footer a { color:var(--muted); }
 .eyebrow-doc { color:var(--muted); }
 .eyebrow-doc::after { content:" ·"; }
 body.doc { --paper:#f1eee6; }
+
+/* Las tablas del contenido también deben poder desplazarse en pantallas estrechas */
+.page-doc table { display:block; overflow-x:auto; }
+.page-doc table th, .page-doc table td { min-width:14rem; }
