@@ -47,12 +47,12 @@ Fundamentos de Programación, que está completa.
 | --- | --- | --- |
 | `contexto` | Dos o tres frases sobre qué está en juego con la IA en tu materia | Lección 1 |
 | `tareas` | Lista de tareas en las que tu alumnado ya usa la IA | Lección 1 |
-| `fallo` | `pregunta` que provoca un fallo comprobable y qué cabe `esperado` | Lección 1 y guía de aula 1 |
+| `fallo` | `pregunta` que provoca un fallo comprobable y qué cabe `esperado` | Lección 1 |
 | `peticiones` | Pares `pobre` / `mejor` con peticiones reales de tu materia | Lección 2 |
 | `riesgos` | Qué se pierde o qué daño hace un mal uso en tu disciplina | Lecciones 2 y 4 |
 | `verificacion` | Cómo se comprueba en tu materia, en un párrafo | Lección 3 |
 | `fuentes` | Tus fuentes de verdad, por orden | Lección 3 |
-| `casos` | Seis situaciones ambiguas para clasificar | Lección 4 y guía de aula 4 |
+| `casos` | Seis situaciones ambiguas para clasificar | Lección 4 |
 | `entrega` | Qué producción valorarás con la rúbrica | Uso interno |
 
 Escribe los ejemplos **como hablarías a tu alumnado**. Van a leerlos ellos.

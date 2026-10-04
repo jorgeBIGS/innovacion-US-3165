@@ -100,10 +100,9 @@ La secuencia es siempre la misma, y el orden es lo que hace comparables los dato
 1. **Medida inicial.** Antes de ver nada del material, el alumnado responde al
    cuestionario de autopercepción, con consentimiento informado. Si ya ha visto las
    lecciones, la medida de partida se pierde.
-2. **El material.** El alumnado trabaja las **cuatro lecciones** del curso de su
-   asignatura, que cubren las cuatro dimensiones con un mínimo común para toda la red, y
-   el docente lleva a clase la actividad de cada una, con el reparto de pesos de su ficha
-   y siempre dentro del horario de la asignatura. Véase la
+2. **El material.** El alumnado trabaja por su cuenta las **cuatro lecciones** del curso
+   de su asignatura, que cubren las cuatro dimensiones con un mínimo común para toda la
+   red. No se imparten en clase: el docente las pone a su disposición. Véase la
    [guía del profesorado](../docencia/).
 3. **Medida final.** Terminada la intervención, el alumnado repite **el mismo
    cuestionario**, en las mismas condiciones. La comparación pre/post es la primera vía de

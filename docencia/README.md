@@ -5,52 +5,76 @@ permalink: /docencia/
 
 # Guía del profesorado
 
-Parte del [área del profesorado](../profesorado.md). El contenido de estudio está en los cursos del alumnado, uno por asignatura. Esta guía
-cubre lo otro: **qué haces tú en clase** con cada lección, qué tienes que preparar y qué
-suele salir mal.
+Parte del [área del profesorado](../profesorado.md).
 
-| Lección del alumnado | Guía de aula | Dimensión | En clase |
+**Esto no se imparte.** El alumnado se forma por su cuenta con el curso de su asignatura, y
+tu papel es otro: poner el material a su disposición, aplicar el cuestionario antes y
+después, y registrar los datos.
+
+Tu dedicación real son unos **20 minutos de clase** para los dos cuestionarios, más el rato
+que te lleve valorar una entrega con tu rúbrica.
+
+## Lo que tienes que hacer
+
+| | Qué | Cuándo | Dónde |
 | --- | --- | --- | --- |
-| Qué es esto que estás usando | [1. El fallo provocado](01-el-fallo-provocado.md) | D1, conocer y entender | 30–40 min |
-| Preguntar para aprender | [2. Reescribir peticiones](02-reescribir-peticiones.md) | D2, usar y aplicar | 50–60 min |
-| Comprobar antes de entregar | [3. La respuesta envenenada](03-la-respuesta-envenenada.md) | D3, evaluar y crear | 45 min |
-| Tu responsabilidad | [4. La línea](04-la-linea.md) | D4, cuestiones éticas | 40 min |
+| **1** | Consentimiento y **cuestionario inicial** | Antes de dar a conocer el curso | En clase, unos 10 min |
+| **2** | Dar a conocer el curso de tu asignatura | Justo después | Un enlace y dos frases |
+| **3** | **Cuestionario final**, el mismo | Al terminar el periodo que hayas fijado | En clase, unos 10 min |
+| **4** | Tu rúbrica sobre una entrega real | Después del cuestionario final | Donde ya corriges |
+| **5** | Enviar los datos agregados | Al cerrar | Plantillas de [análisis](../analisis/) |
 
-Unas tres horas en total, repartidas por el cuatrimestre e integradas en la docencia
-ordinaria. La convocatoria excluye cualquier actividad fuera del horario de clase.
+### 1. Cuestionario inicial
 
-## Cómo funciona
+Va **antes de que el alumnado vea nada del material**. Si llega con las lecciones leídas,
+la medida de partida ya no mide el punto de partida, y la comparación pre/post pierde
+sentido.
 
-1. **Antes de nada, la medida inicial.** El alumnado responde al
-   [cuestionario de autopercepción](../instrumentos/cuestionario-autopercepcion.md), con
-   consentimiento informado y **antes de ver ninguna lección**. Si llega con el material
-   visto, esa medida ya no sirve.
-2. **El alumnado lee la lección** de su curso, fuera de clase. Es corta y está escrita para
-   leerse sola.
-3. **Tú haces la actividad en clase**, con material de tu materia. Ahí está el valor:
-   la lección explica el principio, la actividad lo ancla en lo que hacéis. Igual con las
-   cuatro.
-4. **Al terminar, la medida final.** El alumnado repite el mismo cuestionario, en las
-   mismas condiciones.
-5. **Y tu rúbrica.** Valoras una entrega real con
-   [la rúbrica que construyas](../instrumentos/rubrica-calidad-uso-ia.md), con los ítems
-   que te interesen. Solo tienes que declarar a qué dimensión va cada ítem y con qué peso.
-   La aplicas igual en tus grupos intervenidos y en los de control, y así puedes
-   compararlos.
+Descárgalo [en Word]({{ '/descargas/cuestionario-autopercepcion.docx' | relative_url }}) o
+vuélcalo en un formulario. Lee antes el
+[protocolo](../instrumentos/protocolo-aplicacion.md): consentimiento, código de
+emparejamiento y condiciones de aplicación.
 
-El orden de las lecciones importa: la 2 se apoya en el modelo mental de la 1, y la 3 en el
-hábito de la 2. La 4 puede adelantarse si necesitas fijar reglas desde el primer día. Lo
-que no puede moverse es el paso 1: va antes que cualquier contacto con el material.
+### 2. Dar a conocer el curso
 
-Todo esto, con sus condiciones de aplicación, está en el
-[protocolo](../instrumentos/protocolo-aplicacion.md).
+El curso de tu asignatura está publicado y el alumnado lo lee cuando quiere. Basta con
+pasar el enlace, decir de qué va y que es voluntario y no se califica.
+
+Si quieres que los ejemplos sean los de tu materia y no los comunes de tu rama,
+[rellena los datos de tu asignatura](anadir-asignatura.md). Es lo único que cambia de
+verdad la experiencia de tu alumnado.
+
+### 3. Cuestionario final
+
+El mismo, en las mismas condiciones. Con el mismo código de emparejamiento, para poder
+cruzar las dos respuestas sin identificar a nadie.
+
+### 4. Tu rúbrica
+
+Valoras con [la rúbrica que construyas](../instrumentos/rubrica-calidad-uso-ia.md) una
+entrega real. La única condición es declarar a qué dimensión pertenece cada ítem y con qué
+peso. Aplícala igual en tus grupos intervenidos y en los de control, que es lo que permite
+compararlos.
+
+### 5. Enviar los datos
+
+Agregados por grupo, nunca por estudiante, con las
+[plantillas de análisis](../analisis/).
 
 ## Antes de empezar
 
-- [Añade tu asignatura](anadir-asignatura.md) para que su curso se publique con tus
-  ejemplos, tus fuentes y tus reglas.
 - Rellena la [ficha de calibración](../marco/PLANTILLA-ficha-calibracion.md), en pantalla
   o **[en Word]({{ '/descargas/ficha-calibracion.docx' | relative_url }})**: el peso de
   cada dimensión en tu materia.
-- Acuerda con el equipo las pruebas comunes, si tu asignatura tiene grupos paralelos.
-- Participa en la calibración de la rúbrica: media hora que salva la comparabilidad.
+- Decide si tu asignatura tiene **grupos de control**, y acuerda con el equipo las pruebas
+  comunes si vas a comparar distribuciones de calificaciones.
+- Ten escritas tus **reglas de uso de la IA**: qué permites, qué no y qué hay que
+  declarar. El alumnado las necesita antes de empezar, y la lección 4 da por hecho que
+  existen.
+
+## Si quieres llevarlo a clase
+
+No hace falta, pero si en tu asignatura encaja, lo que mejor funciona es traer algo tuyo:
+una pregunta de la materia donde el sistema falle, una respuesta con errores mezclados
+para auditarla, o los casos ambiguos de la lección 4 para discutir dónde está la línea.
+Son los mismos elementos que ya rellenas en los datos de tu asignatura.

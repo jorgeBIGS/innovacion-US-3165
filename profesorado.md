@@ -20,7 +20,7 @@ tu asignatura, con qué se mide y cómo se analiza.
 | **¿Nunca has visto esto?** | Lee el [marco común](marco/marco-comun.md); diez minutos y entiendes el resto |
 | **¿Vas a calibrar tu asignatura?** | Descarga la [ficha en Word]({{ '/descargas/ficha-calibracion.docx' | relative_url }}) y rellénala |
 | **¿Vas a pasar el cuestionario?** | Descarga el [cuestionario en Word]({{ '/descargas/cuestionario-autopercepcion.docx' | relative_url }}), ya sin la parte metodológica |
-| **¿Vas a darlo en clase?** | [Guía del profesorado](docencia/README.md), una página por lección |
+| **¿Qué tengo que hacer exactamente?** | La [guía del profesorado](docencia/README.md): cinco pasos y 20 minutos de clase |
 | **¿Quieres adaptar tu curso?** | [Cómo añadir tu asignatura](docencia/anadir-asignatura.md) |
 | **¿Vas a medir?** | [Instrumentos](instrumentos/README.md) y su [protocolo](instrumentos/protocolo-aplicacion.md) |
 
@@ -33,21 +33,17 @@ tu asignatura, con qué se mide y cómo se analiza.
   puntos entre dimensiones en tu asignatura, y las tareas reales en que tu alumnado usa la
   IA. Descargable **[en Word]({{ '/descargas/ficha-calibracion.docx' | relative_url }})**.
 
-## En el aula
+## Tu papel
 
-La secuencia completa es: **medida inicial → material → medida final**. El cuestionario y
-el test van antes de que el alumnado vea ninguna lección; si llega con el material visto,
-la medida de partida se pierde.
+**El curso no se imparte: el alumnado se autoforma.** Tú pones el material a su
+disposición, aplicas el cuestionario antes y después, y registras los datos. Unos 20
+minutos de clase en total, más valorar una entrega con tu rúbrica.
 
-Cada lección que lee el alumnado tiene su sesión presencial. Unas tres horas en total,
-repartidas por el cuatrimestre y dentro del horario de clase.
+La secuencia es **medida inicial → el alumnado trabaja el curso → medida final → tu
+rúbrica**. El cuestionario inicial va antes de que vea ninguna lección; si llega con el
+material visto, la medida de partida se pierde.
 
-| Lección del alumnado | Guía de aula | En clase |
-| --- | --- | --- |
-| Qué es esto que estás usando | [El fallo provocado](docencia/01-el-fallo-provocado.md) | 30–40 min |
-| Preguntar para aprender | [Reescribir peticiones](docencia/02-reescribir-peticiones.md) | 50–60 min |
-| Comprobar antes de entregar | [La respuesta envenenada](docencia/03-la-respuesta-envenenada.md) | 45 min |
-| Tu responsabilidad | [La línea](docencia/04-la-linea.md) | 40 min |
+Los pasos, uno a uno, en la [guía del profesorado](docencia/README.md).
 
 ## Los cursos de la red
 

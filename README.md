@@ -14,7 +14,7 @@ reutilizarlos y adaptarlos a su asignatura.
 - **Alumnado:** entra por la portada y elige tu asignatura. Cuatro lecciones cortas con los
   ejemplos de tu materia.
 - **Profesorado:** <https://jorgebigs.github.io/innovacion-US-3165/profesorado/> reúne el
-  marco, la guía de aula, los instrumentos y cómo adaptar tu curso.
+  marco, lo que tiene que hacer el docente, los instrumentos y cómo adaptar tu curso.
 
 ## Punto de partida
 
@@ -55,21 +55,25 @@ Diez asignaturas de cuatro ramas de conocimiento:
 | [`cursos/`](cursos/) | Una carpeta por asignatura. Son solo cabeceras: el curso se genera a partir de los datos y de las lecciones comunes. |
 | [`_data/asignaturas.yml`](_data/asignaturas.yml) | **El contenido propio de cada asignatura**: contexto, tareas, ejemplos de peticiones, fuentes de verdad, riesgos y casos. |
 | [`_includes/lecciones/`](_includes/lecciones/) | Las cuatro lecciones del alumnado, comunes a toda la red, con los huecos que rellena cada asignatura. |
-| [`docencia/`](docencia/) | [Guía del profesorado](docencia/README.md): qué se hace en clase con cada lección y [cómo añadir una asignatura](docencia/anadir-asignatura.md). |
+| [`docencia/`](docencia/) | [Guía del profesorado](docencia/README.md): los cinco pasos del docente y [cómo añadir una asignatura](docencia/anadir-asignatura.md). |
 | [`marco/`](marco/) | El [marco común](marco/marco-comun.md) con los descriptores observables, y las fichas de calibración. |
 | [`instrumentos/`](instrumentos/) | [Rúbrica](instrumentos/rubrica-calidad-uso-ia.md), [cuestionario](instrumentos/cuestionario-autopercepcion.md) y [protocolo con consentimiento](instrumentos/protocolo-aplicacion.md). |
 | [`analisis/`](analisis/) | Plantillas de entrega agregada. Sin datos. |
 
 ### Las cuatro lecciones
 
-Comunes a todas las asignaturas; los ejemplos, las fuentes y las reglas, no.
+Las trabaja el alumnado por su cuenta. Son comunes a todas las asignaturas; los ejemplos,
+las fuentes y las reglas, no.
 
-| Lección | Dimensión | Guía de aula |
-| --- | --- | --- |
-| 1. Qué es esto que estás usando | Conocer y entender | [El fallo provocado](docencia/01-el-fallo-provocado.md) |
-| 2. Preguntar para aprender | Usar y aplicar | [Reescribir peticiones](docencia/02-reescribir-peticiones.md) |
-| 3. Comprobar antes de entregar | Evaluar y crear | [La respuesta envenenada](docencia/03-la-respuesta-envenenada.md) |
-| 4. Tu responsabilidad | Cuestiones éticas | [La línea](docencia/04-la-linea.md) |
+| Lección | Dimensión |
+| --- | --- |
+| 1. Qué es esto que estás usando | Conocer y entender |
+| 2. Preguntar para aprender | Usar y aplicar |
+| 3. Comprobar antes de entregar | Evaluar y crear |
+| 4. Tu responsabilidad | Cuestiones éticas |
+
+El profesorado no imparte el curso: aplica el cuestionario antes y después y registra los
+datos. Véase la [guía del profesorado](docencia/README.md).
 
 ## Cómo llevarlo a tu asignatura
 
