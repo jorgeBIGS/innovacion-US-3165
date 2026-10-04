@@ -22,16 +22,16 @@ ordinaria. La convocatoria excluye cualquier actividad fuera del horario de clas
 ## Cómo funciona
 
 1. **Antes de nada, la medida inicial.** El alumnado responde al
-   [cuestionario de autopercepción](../instrumentos/cuestionario-autopercepcion.md) y al
-   test de conocimientos, con consentimiento informado y **antes de ver ninguna lección**.
-   Si llega con el material visto, esa medida ya no sirve.
+   [cuestionario de autopercepción](../instrumentos/cuestionario-autopercepcion.md), con
+   consentimiento informado y **antes de ver ninguna lección**. Si llega con el material
+   visto, esa medida ya no sirve.
 2. **El alumnado lee la lección** de su curso, fuera de clase. Es corta y está escrita para
    leerse sola.
 3. **Tú haces la actividad en clase**, con material de tu materia. Ahí está el valor:
    la lección explica el principio, la actividad lo ancla en lo que hacéis. Igual con las
    cuatro.
-4. **Al terminar, la medida final.** El alumnado repite los mismos dos instrumentos, en
-   las mismas condiciones.
+4. **Al terminar, la medida final.** El alumnado repite el mismo cuestionario, en las
+   mismas condiciones.
 5. **Y la rúbrica.** Valoras con la
    [rúbrica común](../instrumentos/rubrica-calidad-uso-ia.md) una entrega real de cada
    estudiante, ponderando las dimensiones con los pesos de tu ficha. La aplicas igual en

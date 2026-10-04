@@ -10,16 +10,19 @@ que fija cómo y cuándo se aplican.
 
 | Instrumento | Uso | Estado |
 | --- | --- | --- |
-| [Cuestionario de autopercepción y actitudes](cuestionario-autopercepcion.md) | Pre y post, en grupos intervenidos | Bloques A, B y D redactados; bloque C de actitudes, pendiente |
-| Test de conocimientos en IA | Pre y post, en grupos intervenidos | Publicación diferida |
+| [Cuestionario de autopercepción y actitudes](cuestionario-autopercepcion.md) · **[Word]({{ '/descargas/cuestionario-autopercepcion.docx' | relative_url }})** | Pre y post, en grupos intervenidos | Bloques A, B y D redactados; bloque C de actitudes, pendiente |
 | [Rúbrica de calidad de uso de la IA](rubrica-calidad-uso-ia.md) | Al final, en todos los grupos | Lista para calibrar |
 | [Protocolo de aplicación y consentimiento](protocolo-aplicacion.md) | Todas las aplicaciones | Listo, pendiente de revisión institucional |
 
-## Publicación diferida del test de conocimientos
+## Prueba de conocimientos
 
-El test **no se publica mientras dure el proyecto**: si el alumnado accede a los ítems
-antes del post-test, la medición queda contaminada. Se depositará aquí una vez concluida
-la recogida de datos.
+La red **no comparte** por ahora una prueba de conocimientos. Quien quiera medir el
+conocimiento efectivo de su alumnado, además de su autopercepción, puede hacerlo con la
+prueba que considere adecuada a su materia.
+
+Dos indicaciones si la usas: aplícala **antes y después**, en las mismas condiciones que
+el cuestionario, y **no publiques sus ítems** mientras dure la intervención, porque el
+alumnado podría verlos antes de la medida final.
 
 ## Instrumentos de terceros
 

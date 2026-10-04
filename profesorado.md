@@ -19,6 +19,7 @@ tu asignatura, con qué se mide y cómo se analiza.
 | --- | --- |
 | **¿Nunca has visto esto?** | Lee el [marco común](marco/marco-comun.md); diez minutos y entiendes el resto |
 | **¿Vas a calibrar tu asignatura?** | Descarga la [ficha en Word]({{ '/descargas/ficha-calibracion.docx' | relative_url }}) y rellénala |
+| **¿Vas a pasar el cuestionario?** | Descarga el [cuestionario en Word]({{ '/descargas/cuestionario-autopercepcion.docx' | relative_url }}), ya sin la parte metodológica |
 | **¿Vas a darlo en clase?** | [Guía del profesorado](docencia/README.md), una página por lección |
 | **¿Quieres adaptar tu curso?** | [Cómo añadir tu asignatura](docencia/anadir-asignatura.md) |
 | **¿Vas a medir?** | [Instrumentos](instrumentos/README.md) y su [protocolo](instrumentos/protocolo-aplicacion.md) |
@@ -77,8 +78,7 @@ Tres vías independientes, todas agregadas y anónimas.
 
 | Vía | Instrumento | A quién | Cuándo |
 | --- | --- | --- | --- |
-| Competencia percibida y actitudes | [Cuestionario de autopercepción](instrumentos/cuestionario-autopercepcion.md) | Grupos intervenidos | Antes y después |
-| Conocimiento efectivo | Test de conocimientos *(publicación diferida)* | Grupos intervenidos | Antes y después |
+| Competencia percibida y actitudes | [Cuestionario de autopercepción](instrumentos/cuestionario-autopercepcion.md) ([Word]({{ '/descargas/cuestionario-autopercepcion.docx' | relative_url }})) | Grupos intervenidos | Antes y después |
 | Calidad del uso de la IA | [Rúbrica común](instrumentos/rubrica-calidad-uso-ia.md), ponderada con los pesos de tu asignatura | Todos los grupos que tuteles, intervenidos y de control | Después de la medida final |
 | Calificaciones | [Distribuciones agregadas](analisis/README.md) | Intervenidos y de control | Al cerrar actas |
 

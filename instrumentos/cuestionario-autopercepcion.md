@@ -8,9 +8,13 @@ Instrumento de la **dimensión 1 de la evaluación**: la variación de la compet
 percibida y de las actitudes del alumnado. Se aplica **al inicio y al final** de la
 intervención, en los grupos intervenidos.
 
-Mide lo que el alumnado **cree** de sí mismo y lo que **opina** de la IA. No mide su
-competencia real: eso corresponde al test de conocimientos. Las lecturas se limitan a ese
-plano.
+Mide lo que el alumnado **cree** de sí mismo y lo que **opina** de la IA, no su
+competencia real. Las lecturas se limitan a ese plano. Quien quiera medir además el
+conocimiento efectivo puede usar la prueba que estime oportuna; la red no comparte una.
+
+**[Descargar en Word]({{ '/descargas/cuestionario-autopercepcion.docx' | relative_url }})**
+la versión para el alumnado, lista para imprimir o para volcar en un formulario. Contiene
+sólo los bloques que se le entregan, sin esta ficha metodológica.
 
 ## Estructura
 
@@ -24,6 +28,8 @@ plano.
 Duración estimada: 10–12 minutos. Se administra en clase, con
 [consentimiento informado](protocolo-aplicacion.md), y se responde de forma anónima con
 código de emparejamiento.
+
+<!-- alumnado:inicio -->
 
 ## Bloque A. Contexto
 
@@ -71,6 +77,8 @@ código de emparejamiento.
 > replican los descriptores del marco común, de modo que la autopercepción y la rúbrica
 > hablan de lo mismo.
 
+<!-- alumnado:fin -->
+
 ## Bloque C. Actitudes hacia la IA
 
 *Pendiente de cierre.* El equipo valora incorporar una escala de actitudes ya publicada,
@@ -88,6 +96,8 @@ Antes de incorporarla hay que resolver dos cosas, y dejarlas escritas aquí:
 Mientras tanto, la referencia de la escala candidata se registrará en el
 [README de instrumentos](README.md).
 
+<!-- alumnado:inicio -->
+
 ## Bloque D. Uso declarado
 
 17. ¿En cuáles de estas tareas has usado IA generativa este cuatrimestre? *(varias
@@ -97,6 +107,8 @@ Mientras tanto, la referencia de la escala candidata se registrará en el
     Depende de la tarea.
 19. ¿Compruebas lo que te responde? Nunca · A veces · Casi siempre · Siempre.
 20. ¿Declaras su uso en tus entregas? Nunca · Solo si lo piden · Siempre.
+
+<!-- alumnado:fin -->
 
 ## Análisis previsto
 

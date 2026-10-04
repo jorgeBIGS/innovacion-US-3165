@@ -86,9 +86,10 @@ una. Cada criterio observa una dimensión:
 | C5 Transparencia e integridad | D4, cuestiones éticas |
 | C6 Juicio disciplinar | D4, cuestiones éticas |
 
-**D1, conocer y entender, no aparece.** No se observa en una entrega: la mide el test de
-conocimientos. Por eso la ponderación se reparte solo entre D2, D3 y D4, renormalizando
-los pesos de tu [ficha de calibración](../marco/PLANTILLA-ficha-calibracion.md).
+**D1, conocer y entender, no aparece.** No se observa en una entrega, sino en lo que el
+alumnado sabe explicar. Por eso la ponderación se reparte solo entre D2, D3 y D4,
+renormalizando los pesos de tu
+[ficha de calibración](../marco/PLANTILLA-ficha-calibracion.md).
 
 ### Cómo se calcula
 

@@ -98,15 +98,15 @@ trabajen con intensidad distinta.
 La secuencia es siempre la misma, y el orden es lo que hace comparables los datos:
 
 1. **Medida inicial.** Antes de ver nada del material, el alumnado responde al
-   cuestionario de autopercepción y al test de conocimientos, con consentimiento
-   informado. Si ya ha visto las lecciones, la medida de partida se pierde.
+   cuestionario de autopercepción, con consentimiento informado. Si ya ha visto las
+   lecciones, la medida de partida se pierde.
 2. **El material.** El alumnado trabaja las **cuatro lecciones** del curso de su
    asignatura, que cubren las cuatro dimensiones con un mínimo común para toda la red, y
    el docente lleva a clase la actividad de cada una, con el reparto de pesos de su ficha
    y siempre dentro del horario de la asignatura. Véase la
    [guía del profesorado](../docencia/).
-3. **Medida final.** Terminada la intervención, el alumnado repite **los mismos dos
-   instrumentos**, en las mismas condiciones. La comparación pre/post es la primera vía de
+3. **Medida final.** Terminada la intervención, el alumnado repite **el mismo
+   cuestionario**, en las mismas condiciones. La comparación pre/post es la primera vía de
    evaluación del proyecto.
 4. **Valoración del docente.** Después, el docente valora con la
    [rúbrica común](../instrumentos/rubrica-calidad-uso-ia.md) la calidad del uso de la IA
@@ -127,7 +127,6 @@ en el [protocolo](../instrumentos/protocolo-aplicacion.md).
 | Dimensión | Instrumento principal |
 | --- | --- |
 | Todas, en autopercepción | [Cuestionario de autopercepción y actitudes](../instrumentos/cuestionario-autopercepcion.md), pre y post |
-| D1, conocimiento efectivo | Test de conocimientos, pre y post (publicación diferida) |
 | D2, D3 y D4, desempeño | [Rúbrica común de calidad de uso](../instrumentos/rubrica-calidad-uso-ia.md), al final, en todos los grupos |
 
 Los códigos de descriptor (D1.1, D2.3…) son la costura entre las piezas: las actividades y

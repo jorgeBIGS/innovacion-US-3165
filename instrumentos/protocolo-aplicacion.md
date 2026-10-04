@@ -11,9 +11,9 @@ el tratamiento sea correcto.
 
 | Momento | Qué se aplica | A quién |
 | --- | --- | --- |
-| Antes de la primera actividad | Consentimiento · Cuestionario de autopercepción · Test de conocimientos | Grupos intervenidos |
+| Antes de la primera actividad | Consentimiento · Cuestionario de autopercepción | Grupos intervenidos |
 | Durante el cuatrimestre | Actividades de alfabetización | Grupos intervenidos |
-| Al final | Cuestionario y test de nuevo | Grupos intervenidos |
+| Al final | El mismo cuestionario de nuevo | Grupos intervenidos |
 | Al final | Rúbrica de calidad de uso | **Todos** los grupos |
 | Al cerrar actas | Distribuciones agregadas de calificaciones | Grupos intervenidos y de control, con pruebas comunes |
 
@@ -55,8 +55,8 @@ La asignatura [asignatura] participa en el proyecto *Alfabetización en IA gener
 recurso docente transversal*, del IV Plan Propio de Docencia de la Universidad de Sevilla.
 
 **Qué te pedimos.** Responder dos veces, al principio y al final del cuatrimestre, a un
-cuestionario sobre tu competencia percibida y tus actitudes hacia la IA generativa, y a un
-test breve de conocimientos. En total, unos 20 minutos por aplicación.
+cuestionario sobre tu competencia percibida y tus actitudes hacia la IA generativa. Unos
+10 minutos cada vez.
 
 **Para qué.** Para saber si las actividades de alfabetización que haremos en clase cambian
 la forma en que el alumnado usa la IA. Los resultados se analizan de forma agregada y
