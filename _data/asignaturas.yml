@@ -51,7 +51,7 @@
   fuentes:
     - El enunciado de la práctica y lo visto en clase
     - La documentación oficial del lenguaje
-    - El propio intérprete: ejecuta y comprueba
+    - "El propio intérprete: ejecuta y comprueba"
   verificacion: >-
     En programación tienes una ventaja que otras materias no tienen: **puedes ejecutar**.
     Un código que compila no es un código correcto, así que prueba el caso vacío, el de un

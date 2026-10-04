@@ -43,7 +43,7 @@ Informática:
   fuentes:
     - El enunciado y lo visto en clase
     - La documentación oficial de la herramienta o el lenguaje
-    - La ejecución: prueba y comprueba
+    - "La ejecución: prueba y comprueba"
   riesgos:
     - Entregar código que funciona sin saber explicarlo, que es justo lo que se te preguntará
     - Usar funciones, opciones o dependencias inventadas, que fallan al ejecutar
