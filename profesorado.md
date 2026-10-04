@@ -39,8 +39,8 @@ tu asignatura, con qué se mide y cómo se analiza.
 disposición, aplicas el cuestionario antes y después, y registras los datos. Unos 20
 minutos de clase en total, más valorar una entrega con tu rúbrica.
 
-La secuencia es **medida inicial → el alumnado trabaja el curso → medida final → tu
-rúbrica**. El cuestionario inicial va antes de que vea ninguna lección; si llega con el
+La secuencia es **medida inicial → el alumnado trabaja el curso → medida final →
+evaluación con tu rúbrica, comparando grupo intervenido y grupo de control**. El cuestionario inicial va antes de que vea ninguna lección; si llega con el
 material visto, la medida de partida se pierde.
 
 Los pasos, uno a uno, en la [guía del profesorado](docencia/README.md).
@@ -75,7 +75,7 @@ Tres vías independientes, todas agregadas y anónimas.
 | Vía | Instrumento | A quién | Cuándo |
 | --- | --- | --- | --- |
 | Competencia percibida y actitudes | [Cuestionario de autopercepción](instrumentos/cuestionario-autopercepcion.md) ([Word]({{ '/descargas/cuestionario-autopercepcion.docx' | relative_url }})) | Grupos intervenidos | Antes y después |
-| Calidad del uso de la IA | [Tu propia rúbrica](instrumentos/rubrica-calidad-uso-ia.md), con cada ítem asignado a una dimensión y su peso declarado | Todos los grupos que tuteles, intervenidos y de control | Después de la medida final |
+| Calidad del uso de la IA | [Tu propia rúbrica](instrumentos/rubrica-calidad-uso-ia.md), con cada ítem asignado a una dimensión y su peso declarado | Resultado agregado del grupo intervenido frente al de control | Después de la medida final |
 | Calificaciones | [Distribuciones agregadas](analisis/README.md) | Intervenidos y de control | Al cerrar actas |
 
 Antes de aplicar nada, lee el [protocolo](instrumentos/protocolo-aplicacion.md): código

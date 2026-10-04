@@ -21,7 +21,7 @@ que te lleve valorar una entrega con tu rúbrica.
 | **1** | Consentimiento y **cuestionario inicial** | Antes de dar a conocer el curso | En clase, unos 10 min |
 | **2** | Dar a conocer el curso de tu asignatura | Justo después | Un enlace y dos frases |
 | **3** | **Cuestionario final**, el mismo | Al terminar el periodo que hayas fijado | En clase, unos 10 min |
-| **4** | Tu rúbrica sobre una entrega real | Después del cuestionario final | Donde ya corriges |
+| **4** | Evaluar con tu rúbrica al grupo intervenido y al de control | Después del cuestionario final | Donde ya evalúas |
 | **5** | Enviar los datos agregados | Al cerrar | Plantillas de [análisis](../analisis/) |
 
 ### 1. Cuestionario inicial
@@ -51,10 +51,12 @@ cruzar las dos respuestas sin identificar a nadie.
 
 ### 4. Tu rúbrica
 
-Valoras con [la rúbrica que construyas](../instrumentos/rubrica-calidad-uso-ia.md) una
-entrega real. La única condición es declarar a qué dimensión pertenece cada ítem y con qué
-peso. Aplícala igual en tus grupos intervenidos y en los de control, que es lo que permite
-compararlos.
+Evalúas a tu alumnado con [la rúbrica que construyas](../instrumentos/rubrica-calidad-uso-ia.md).
+La única condición es declarar a qué dimensión pertenece cada ítem y con qué peso.
+
+Lo que aporta al proyecto no es la valoración individual, sino **el resultado del
+conjunto**: evalúas igual a un grupo que haya trabajado el curso y a otro de control que
+no, y comparas ambos.
 
 ### 5. Enviar los datos
 

@@ -50,21 +50,25 @@ Rellena esta tabla y entrégala junto con los resultados.
 
 Entrégalo con la [plantilla de rúbrica agregada](../analisis/plantillas/rubrica-agregada.md).
 
-## Cómo se aplica
+## Qué se compara
 
-- **Al final**, después de la medida final del cuestionario, sobre una producción real ya
-  entregada.
-- **Igual en todos tus grupos**, intervenidos y de control, sobre una producción
-  equivalente. Ahí está la comparación que te interesa.
-- **Independiente de la calificación oficial.** Si puntuase, el alumnado adaptaría su
-  declaración de uso a lo que le conviene y el dato dejaría de informar.
+La rúbrica es **tu instrumento de evaluación**: con ella evalúas a tu alumnado, y el dato
+que interesa al proyecto no es la valoración de nadie en particular, sino **el resultado
+del conjunto**.
 
-Puedes valorar estudiante a estudiante —te sirve como información docente—, pero al
-proyecto va agregado por grupo.
+- **Evalúas a tu grupo intervenido** con tu rúbrica, y obtienes su resultado agregado por
+  dimensión.
+- **Evalúas igual a un grupo de control** que tuteles y que no haya trabajado el curso.
+- **Comparas ambos conjuntos.** Esa diferencia es la que aporta información sobre el
+  efecto de la intervención.
 
-**Dos limitaciones** que conviene recordar al interpretar: infieres la calidad del uso a
-partir del producto entregado, no de observar el proceso; y eres a la vez quien imparte la
-intervención y quien puntúa. Por eso este dato se lee junto a las otras vías, no solo.
+Para que la comparación signifique algo, las dos evaluaciones tienen que ser equivalentes:
+la misma rúbrica, los mismos pesos, el mismo tipo de trabajo evaluado y, en la medida de
+lo posible, las mismas condiciones.
+
+**Dos limitaciones** que conviene recordar al interpretar: los grupos pueden no ser
+equivalentes de partida, y eres a la vez quien propone la intervención y quien evalúa. Por
+eso este dato se lee junto al cuestionario pre/post, no solo.
 
 ## Un ejemplo del que partir
 
