@@ -11,8 +11,8 @@ Parte del [área del profesorado](../profesorado.md).
 tu papel es otro: poner el material a su disposición, aplicar el cuestionario antes y
 después, y registrar los datos.
 
-Tu dedicación real son unos **20 minutos de clase** para los dos cuestionarios, más el rato
-que te lleve valorar una entrega con tu rúbrica.
+Tu dedicación real son unos **20 minutos de clase** para los dos cuestionarios, más
+evaluar a tu alumnado con tu rúbrica, que es algo que ya haces.
 
 ## Lo que tienes que hacer
 
