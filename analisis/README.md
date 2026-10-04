@@ -8,8 +8,11 @@ permalink: /analisis/
 Plantillas y scripts para el análisis agregado. **Esta carpeta no contiene datos del
 alumnado y no debe contenerlos nunca.**
 
-- `plantillas/`: formatos comunes para que cada asignatura entregue sus distribuciones
-  agregadas.
+- [`plantillas/distribucion-calificaciones.md`](plantillas/distribucion-calificaciones.md):
+  distribuciones agregadas de la evaluación continua.
+- [`plantillas/rubrica-agregada.md`](plantillas/rubrica-agregada.md): resultados de la
+  rúbrica por grupo, con el total sin ponderar y la puntuación ponderada según los pesos
+  de cada asignatura.
 
 El análisis previsto incluye la variación pre/post de la competencia percibida y los
 conocimientos, la comparación de distribuciones de calificaciones entre grupos

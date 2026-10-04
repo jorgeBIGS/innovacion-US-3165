@@ -79,7 +79,7 @@ Tres vías independientes, todas agregadas y anónimas.
 | --- | --- | --- | --- |
 | Competencia percibida y actitudes | [Cuestionario de autopercepción](instrumentos/cuestionario-autopercepcion.md) | Grupos intervenidos | Antes y después |
 | Conocimiento efectivo | Test de conocimientos *(publicación diferida)* | Grupos intervenidos | Antes y después |
-| Calidad del uso de la IA | [Rúbrica común](instrumentos/rubrica-calidad-uso-ia.md) | Todos los grupos | Al final |
+| Calidad del uso de la IA | [Rúbrica común](instrumentos/rubrica-calidad-uso-ia.md), ponderada con los pesos de tu asignatura | Todos los grupos que tuteles, intervenidos y de control | Después de la medida final |
 | Calificaciones | [Distribuciones agregadas](analisis/README.md) | Intervenidos y de control | Al cerrar actas |
 
 Antes de aplicar nada, lee el [protocolo](instrumentos/protocolo-aplicacion.md): código

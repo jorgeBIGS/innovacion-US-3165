@@ -72,14 +72,61 @@ criterios observables compartidos mitigan lo primero, no lo segundo.
 | --- | --- | --- | --- |
 | No advierte los riesgos propios de la materia | Los menciona sin consecuencias prácticas | Adapta su uso a los riesgos de la disciplina | Anticipa efectos sobre terceros y actúa conforme a los criterios profesionales del ámbito |
 
+## Ponderación según tu asignatura
+
+Los seis criterios no pesan igual en todas las materias: el mismo marco se calibra en cada
+una. Cada criterio observa una dimensión:
+
+| Criterio | Dimensión |
+| --- | --- |
+| C1 Pertinencia del uso | D2, usar y aplicar |
+| C2 Calidad de la petición | D2, usar y aplicar |
+| C3 Verificación | D3, evaluar y crear |
+| C4 Elaboración propia | D3, evaluar y crear |
+| C5 Transparencia e integridad | D4, cuestiones éticas |
+| C6 Juicio disciplinar | D4, cuestiones éticas |
+
+**D1, conocer y entender, no aparece.** No se observa en una entrega: la mide el test de
+conocimientos. Por eso la ponderación se reparte solo entre D2, D3 y D4, renormalizando
+los pesos de tu [ficha de calibración](../marco/PLANTILLA-ficha-calibracion.md).
+
+### Cómo se calcula
+
+1. **Media por dimensión**, en la escala 1–4: D2 = (C1+C2)/2, D3 = (C3+C4)/2,
+   D4 = (C5+C6)/2.
+2. **Renormaliza tus pesos** sobre la suma de los tres: `w_d = peso_d / (d2+d3+d4)`.
+3. **Puntuación ponderada** = w₂·D2 + w₃·D3 + w₄·D4. Queda en la escala 1–4, comparable
+   entre grupos de **tu** asignatura.
+
+> *Ejemplo.* Una asignatura con pesos 20/40/25/15 renormaliza a 0,50 para D2, 0,31 para D3
+> y 0,19 para D4. Un estudiante con C1–C6 = 3,4,2,3,4,3 obtiene D2 = 3,5, D3 = 2,5 y
+> D4 = 3,5, y una ponderada de 0,50·3,5 + 0,31·2,5 + 0,19·3,5 = **3,19**.
+
+Registra **siempre las dos**: la ponderada, que respeta el énfasis de tu materia, y el
+total sin ponderar, que es lo único comparable en el conjunto de la red.
+
 ## Registro
 
-| Asignatura | Grupo | Tipo | Producción valorada | C1 | C2 | C3 | C4 | C5 | C6 | Total (6–24) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| | | | | | | | | | | |
+| Asignatura | Grupo | Tipo | Producción valorada | C1 | C2 | C3 | C4 | C5 | C6 | Total (6–24) | Ponderada (1–4) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | | | | | | | | | | | |
 
-Se entrega **agregado por grupo**, nunca fila por estudiante. Véase la
-[plantilla de entrega](../analisis/plantillas/distribucion-calificaciones.md).
+Puedes valorar a cada estudiante individualmente —te sirve como información docente—, pero
+lo que se entrega al proyecto va **agregado por grupo**, nunca fila por estudiante.
+
+## Comparar tus grupos
+
+Si tutelas varios grupos de la misma asignatura y solo has intervenido en algunos, la
+rúbrica te da una comparación directa: se aplica **igual en todos**, intervenidos y de
+control, sobre una producción equivalente.
+
+Para cada grupo, agrega media, desviación típica y distribución por niveles, tanto del
+total sin ponderar como de la ponderada, y entrégalo con la
+[plantilla de rúbrica agregada](../analisis/plantillas/rubrica-agregada.md).
+
+Dos cautelas al leer esa comparación: los grupos pueden no ser equivalentes de partida, y
+eres tú quien imparte la intervención y quien puntúa. Por eso el dato se interpreta junto
+a las otras dos vías, y no por sí solo.
 
 ## Calibración entre docentes
 

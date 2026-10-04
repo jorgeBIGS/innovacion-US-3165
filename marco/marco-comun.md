@@ -108,6 +108,12 @@ La secuencia es siempre la misma, y el orden es lo que hace comparables los dato
 3. **Medida final.** Terminada la intervención, el alumnado repite **los mismos dos
    instrumentos**, en las mismas condiciones. La comparación pre/post es la primera vía de
    evaluación del proyecto.
+4. **Valoración del docente.** Después, el docente valora con la
+   [rúbrica común](../instrumentos/rubrica-calidad-uso-ia.md) la calidad del uso de la IA
+   en una entrega real, estudiante a estudiante, **ponderando las dimensiones según el
+   peso que tienen en su asignatura**. La rúbrica se aplica igual en los grupos
+   intervenidos y en los de control que tutele, de modo que pueda agregar y comparar unos
+   con otros.
 
 Cada asignatura aporta sus ejemplos, sus fuentes y sus reglas, de modo que el curso se lea
 como propio de la materia. Véase
