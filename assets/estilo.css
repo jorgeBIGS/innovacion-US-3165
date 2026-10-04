@@ -8,15 +8,15 @@ body { margin:0; background:var(--paper); color:var(--ink); font:16px/1.6 system
 .page-doc { width:min(78ch,calc(100% - 2rem)); }
 a { color:var(--brand); }
 
-header.sitio { border-bottom:3px solid var(--ink); padding-bottom:1.5rem; }
-.eyebrow { color:var(--brand); font:700 .75rem/1.2 ui-monospace,monospace; letter-spacing:.12em; text-transform:uppercase; }
+header.sitio { border-bottom:3px solid var(--ink); padding-bottom:2.5rem; margin-bottom:.5rem; }
+.eyebrow { color:var(--brand); font:700 .75rem/1.2 ui-monospace,monospace; letter-spacing:.12em; text-transform:uppercase; margin:0 0 1.25rem; }
 .eyebrow a { color:inherit; text-decoration:none; }
 .eyebrow a:hover { text-decoration:underline; }
-h1 { margin:.5rem 0; font:300 clamp(2.1rem,6vw,4rem)/1.02 Georgia,serif; }
-header.sitio h1 strong { display:block; font-weight:700; }  /* solo en los titulares de portada */
-.lead { color:var(--muted); max-width:62ch; }
+h1 { margin:0 0 1.5rem; font:300 clamp(2.1rem,6vw,4rem)/1.12 Georgia,serif; }
+header.sitio h1 strong { display:block; font-weight:700; margin-top:.15em; }  /* solo en los titulares de portada */
+.lead { color:var(--muted); max-width:58ch; font-size:1.05rem; line-height:1.7; margin:0; }
 
-h2 { margin:2.5rem 0 .25rem; font:700 1.5rem Georgia,serif; }
+h2 { margin:3rem 0 .35rem; font:700 1.5rem Georgia,serif; }
 h2 + p { margin-top:0; color:var(--muted); }
 h3 { margin:2rem 0 .25rem; font:700 1.15rem Georgia,serif; }
 h4 { margin:1.5rem 0 .25rem; font:700 .95rem ui-monospace,monospace; letter-spacing:.04em; text-transform:uppercase; color:var(--brand); }
