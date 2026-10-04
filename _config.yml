@@ -19,6 +19,16 @@ defaults:
       path: ""
     values:
       layout: pagina
+  # Las secciones del profesorado se marcan para que su navegación y su cabecera
+  # no se confundan con el material del alumnado.
+  - scope: { path: "docencia" }
+    values: { seccion: profesorado }
+  - scope: { path: "marco" }
+    values: { seccion: profesorado }
+  - scope: { path: "instrumentos" }
+    values: { seccion: profesorado }
+  - scope: { path: "analisis" }
+    values: { seccion: profesorado }
 
 exclude:
   - bin/

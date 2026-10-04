@@ -2,6 +2,25 @@
 layout: base
 ancho: page-doc
 ---
-<p class="eyebrow"><a href="{{ '/' | relative_url }}">← Alfabetización en IA · Proyecto 3165</a></p>
+{% if page.seccion == 'profesorado' %}
+  <p class="eyebrow eyebrow-doc">
+    {% if page.portada_seccion %}
+      <a href="{{ '/' | relative_url }}">← Alfabetización en IA</a> · Para el profesorado
+    {% else %}
+      <a href="{{ '/profesorado/' | relative_url }}">← Área del profesorado</a>
+    {% endif %}
+  </p>
+{% else %}
+  <p class="eyebrow"><a href="{{ '/' | relative_url }}">← Alfabetización en IA · Proyecto 3165</a></p>
+{% endif %}
+
 {{ content }}
-<p class="migas"><a href="{{ '/' | relative_url }}">Volver al índice</a> · <a href="{{ site.github_url }}/blob/main/{{ page.path }}">Ver el original en GitHub</a></p>
+
+<p class="migas">
+  {% if page.seccion == 'profesorado' %}
+    <a href="{{ '/profesorado/' | relative_url }}">Área del profesorado</a>
+  {% else %}
+    <a href="{{ '/' | relative_url }}">Volver al índice</a>
+  {% endif %}
+  · <a href="{{ site.github_url }}/blob/main/{{ page.path }}">Ver el original en GitHub</a>
+</p>

@@ -8,7 +8,7 @@
 <link rel="stylesheet" href="{{ '/assets/estilo.css' | relative_url }}">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><text y='13' font-size='13'>🧠</text></svg>">
 </head>
-<body>
+<body{% if page.seccion == "profesorado" %} class="doc"{% endif %}>
 <div class="page {{ page.ancho }}">
 {{ content }}
 <footer>

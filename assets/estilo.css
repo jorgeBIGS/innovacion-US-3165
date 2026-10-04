@@ -75,3 +75,8 @@ footer a { color:var(--muted); }
 .video figcaption b { color:var(--ink); }
 
 .mas { margin-top:1.5rem; font-weight:700; }
+
+/* Marca de sección: el material del profesorado se distingue del del alumnado */
+.eyebrow-doc { color:var(--muted); }
+.eyebrow-doc::after { content:" ·"; }
+body.doc { --paper:#f1eee6; }

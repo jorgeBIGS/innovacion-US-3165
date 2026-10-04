@@ -5,7 +5,7 @@ permalink: /docencia/
 
 # Guía del profesorado
 
-El contenido de estudio está en los cursos del alumnado, uno por asignatura. Esta guía
+Parte del [área del profesorado](../profesorado.md). El contenido de estudio está en los cursos del alumnado, uno por asignatura. Esta guía
 cubre lo otro: **qué haces tú en clase** con cada lección, qué tienes que preparar y qué
 suele salir mal.
 

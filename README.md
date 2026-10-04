@@ -11,6 +11,11 @@ reutilizarlos y adaptarlos a su asignatura.
 
 **Sitio web:** <https://jorgebigs.github.io/innovacion-US-3165/>
 
+- **Alumnado:** entra por la portada y elige tu asignatura. Cuatro lecciones cortas con los
+  ejemplos de tu materia.
+- **Profesorado:** <https://jorgebigs.github.io/innovacion-US-3165/profesorado/> reúne el
+  marco, la guía de aula, los instrumentos y cómo adaptar tu curso.
+
 ## Punto de partida
 
 El alumnado universitario ya emplea la IA generativa, esté o no regulada en cada
