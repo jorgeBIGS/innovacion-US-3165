@@ -9,7 +9,8 @@ permalink: /marco/
   dimensiones con sus descriptores observables, las reglas de calibración disciplinar y la
   correspondencia entre dimensiones e instrumentos.
 - **[PLANTILLA-ficha-calibracion.md](PLANTILLA-ficha-calibracion.md)** — plantilla que
-  rellena cada docente (actividad A2 del proyecto).
+  rellena cada docente (actividad A2 del proyecto), también
+  **[descargable en Word]({{ '/descargas/ficha-calibracion.docx' | relative_url }})**.
 
 Las fichas cumplimentadas se añaden aquí como `ficha-<asignatura>.md`.
 

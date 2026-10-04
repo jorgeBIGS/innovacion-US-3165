@@ -35,7 +35,8 @@ La 4 puede adelantarse si necesitas fijar reglas desde el primer día.
 
 - [Añade tu asignatura](anadir-asignatura.md) para que su curso se publique con tus
   ejemplos, tus fuentes y tus reglas.
-- Rellena la [ficha de calibración](../marco/PLANTILLA-ficha-calibracion.md): el peso de
+- Rellena la [ficha de calibración](../marco/PLANTILLA-ficha-calibracion.md), en pantalla
+  o **[en Word]({{ '/descargas/ficha-calibracion.docx' | relative_url }})**: el peso de
   cada dimensión en tu materia.
 - Acuerda con el equipo las pruebas comunes, si tu asignatura tiene grupos paralelos.
 - Participa en la calibración de la rúbrica: media hora que salva la comparabilidad.

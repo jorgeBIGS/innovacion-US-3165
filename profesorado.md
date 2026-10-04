@@ -18,6 +18,7 @@ tu asignatura, con qué se mide y cómo se analiza.
 | | |
 | --- | --- |
 | **¿Nunca has visto esto?** | Lee el [marco común](marco/marco-comun.md); diez minutos y entiendes el resto |
+| **¿Vas a calibrar tu asignatura?** | Descarga la [ficha en Word]({{ '/descargas/ficha-calibracion.docx' | relative_url }}) y rellénala |
 | **¿Vas a darlo en clase?** | [Guía del profesorado](docencia/README.md), una página por lección |
 | **¿Quieres adaptar tu curso?** | [Cómo añadir tu asignatura](docencia/anadir-asignatura.md) |
 | **¿Vas a medir?** | [Instrumentos](instrumentos/README.md) y su [protocolo](instrumentos/protocolo-aplicacion.md) |
@@ -29,7 +30,7 @@ tu asignatura, con qué se mide y cómo se analiza.
   reglas de calibración.
 - [Ficha de calibración](marco/PLANTILLA-ficha-calibracion.md) — el reparto de 100
   puntos entre dimensiones en tu asignatura, y las tareas reales en que tu alumnado usa la
-  IA.
+  IA. Descargable **[en Word]({{ '/descargas/ficha-calibracion.docx' | relative_url }})**.
 
 ## En el aula
 
