@@ -1,0 +1,39 @@
+# Recursos externos de profundización, enlazados desde las lecciones.
+#
+# Regla: aquí sólo se ENLAZA. No se copia ni se reproduce material de terceros en este
+# repositorio. Antes de añadir un recurso, anota su autoría y, si la conoces, su licencia.
+
+- id: programamos-ia
+  titulo: "Introducción a la inteligencia artificial"
+  autor: "Programamos"
+  url: "https://programamos.es/ia-ilunion/"
+  tipo: "Ocho vídeos y artículos"
+  duracion: "Menos de 1 hora"
+  idioma: "Español"
+  dimension: "D1 · Conocer y entender"
+  descripcion: >-
+    Qué es la IA, cómo perciben los ordenadores, cómo entienden el texto, cómo razonan,
+    cómo aprenden con y sin datos etiquetados, cómo funcionan los sistemas generativos y
+    qué impacto social y educativo tienen. Cada vídeo lleva un artículo que lo desarrolla.
+  nota: >-
+    Versión preparada para un evento de Ilunion, con lenguaje claro y cercano. Es la
+    continuación natural de la lección 1 para quien quiera entender el mecanismo con más
+    detalle.
+  licencia: "Sin licencia declarada en la página: se enlaza, no se reproduce."
+
+- id: google-fundamentos-ia
+  titulo: "Fundamentos de la IA de Google"
+  autor: "Google, en Coursera"
+  url: "https://programamos.es/ia-ilunion/#itinerario-google"
+  tipo: "Especialización de cinco cursos"
+  duracion: "Unas 5 horas"
+  idioma: "Español"
+  dimension: "D1 y D2 · Conocer y usar"
+  descripcion: >-
+    Itinerario de introducción a la IA generativa orientado a tareas cotidianas, con
+    certificado al terminar.
+  nota: >-
+    Requiere crear una cuenta en una plataforma externa y aceptar sus condiciones. Es
+    **completamente opcional** y queda fuera del horario de clase: nunca forma parte de la
+    evaluación de ninguna asignatura de la red.
+  licencia: "Plataforma de terceros. Se enlaza a través de la página de Programamos."

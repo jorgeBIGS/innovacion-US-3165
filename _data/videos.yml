@@ -1,0 +1,42 @@
+# Vídeos de profundización que acompañan a cada lección.
+#
+# Son de la asociación Programamos (https://programamos.es/ia-ilunion/) y se INCRUSTAN
+# desde YouTube con el dominio sin cookies: no hay copia alojada aquí. Cada ficha enlaza
+# también al artículo que desarrolla el vídeo.
+#
+# Una asignatura puede sustituir esta selección definiendo su propio bloque 'videos' en
+# _data/asignaturas.yml, con la misma estructura.
+
+autoria: "Asociación Programamos"
+fuente: "https://programamos.es/ia-ilunion/"
+
+lecciones:
+  "1":
+    - yt: W3zgVCkZnG8
+      titulo: "¿Qué es la IA?"
+      duracion: "6 min"
+      por_que: "Sitúa qué es y qué no es la inteligencia artificial, antes de entrar en lo que tú vas a usar."
+      articulo: "https://programamos.es/curso-inteligencia-artificial-y-educacion-que-es-la-ia/"
+    - yt: gkfqeFU-5Ts
+      titulo: "¿Cómo funcionan los sistemas que generan textos o imágenes?"
+      duracion: "7 min"
+      por_que: "El mecanismo de la predicción, que es la clave de por qué se inventa cosas."
+      articulo: "https://programamos.es/curso-inteligencia-artificial-y-educacion-como-funcionan-los-sistemas-de-ia-generativa/"
+  "2":
+    - yt: Q68zFJOXZ08
+      titulo: "¿Cómo entienden el texto los ordenadores?"
+      duracion: "6 min"
+      por_que: "Si entiendes cómo procesa lo que le escribes, entiendes por qué el contexto de tu petición cambia tanto la respuesta."
+      articulo: "https://programamos.es/curso-inteligencia-artificial-y-educacion-como-entienden-el-texto-los-ordenadores/"
+  "3":
+    - yt: J6O_uNXB97Q
+      titulo: "¿Cómo aprenden los ordenadores a partir de datos?"
+      duracion: "6 min"
+      por_que: "Lo que sabe viene de sus datos de entrenamiento. Ahí está el origen de sus lagunas y de sus sesgos, y por eso hay que verificar."
+      articulo: "https://programamos.es/curso-inteligencia-artificial-y-educacion-como-aprenden-los-ordenadores-a-partir-de-datos/"
+  "4":
+    - yt: 0vjj6bzhD10
+      titulo: "El impacto social y educativo de la IA"
+      duracion: "7 min"
+      por_que: "Amplía el plano colectivo de la lección: qué cambia la IA más allá de tu entrega."
+      articulo: "https://programamos.es/curso-inteligencia-artificial-y-educacion-el-impacto-social-y-educativo-de-la-ia/"

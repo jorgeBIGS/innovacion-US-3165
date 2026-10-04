@@ -62,6 +62,27 @@ git push
 
 En un par de minutos está en línea.
 
+## Los vídeos
+
+Cada lección incluye uno o dos vídeos cortos de la asociación Programamos, definidos en
+`_data/videos.yml` y comunes a toda la red. Se incrustan desde YouTube con el dominio sin
+cookies; no hay ninguna copia alojada aquí.
+
+Si en tu materia prefieres otra selección, añade un bloque `videos` a tu asignatura con la
+misma estructura y sustituirá a la común en las lecciones que indiques:
+
+```yaml
+  videos:
+    "1":
+      - yt: IDENTIFICADOR
+        titulo: "Título del vídeo"
+        duracion: "6 min"
+        por_que: "Por qué le conviene verlo a tu alumnado"
+        articulo: "https://…"
+```
+
+Son opcionales para el alumnado y no evaluables.
+
 ## Si no te encaja la lección común
 
 Los datos cubren la personalización habitual. Si tu materia necesita algo que no encaja,

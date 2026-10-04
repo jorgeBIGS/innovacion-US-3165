@@ -17,6 +17,10 @@ ancho: page-doc
 {% capture texto %}{% include {{ fichero }} %}{% endcapture %}
 {{ texto | markdownify }}
 
+{% include videos.html leccion=page.leccion %}
+
+<p class="mas"><a href="{{ '/recursos/' | relative_url }}">Más recursos para profundizar →</a></p>
+
 <div class="paginacion">
   {% if ant > 0 %}
     <a href="{{ base | append: '/leccion-' | append: ant | append: '.html' | relative_url }}">← Lección {{ ant }}</a>
