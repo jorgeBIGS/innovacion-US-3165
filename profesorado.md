@@ -43,10 +43,25 @@ repartidas por el cuatrimestre y dentro del horario de clase.
 | Comprobar antes de entregar | [La respuesta envenenada](docencia/03-la-respuesta-envenenada.md) | 45 min |
 | Tu responsabilidad | [La línea](docencia/04-la-linea.md) | 40 min |
 
-## Tu curso
+## Los cursos de la red
 
-Los diez cursos están publicados. Los que su docente aún no ha revisado usan los ejemplos
-comunes de su rama y lo advierten en la página.
+Los diez están publicados. Los que su docente aún no ha revisado usan los ejemplos comunes
+de su rama y lo advierten en la página.
+
+<div class="tabla-envoltorio">
+<table>
+  <thead><tr><th>Asignatura</th><th>Rama</th><th>Centro</th><th>Docente</th><th>Estado</th></tr></thead>
+  <tbody>
+  {% for o in site.data.asignaturas %}
+    <tr>
+      <td><a href="{{ '/cursos/' | append: o.slug | append: '/' | relative_url }}">{{ o.nombre }}</a></td>
+      <td>{{ o.rama }}</td><td>{{ o.centro }}</td><td>{{ o.docente }}</td>
+      <td>{% if o.estado == 'completo' %}Revisado{% elsif o.estado == 'borrador' %}Ejemplos de la rama{% else %}En preparación{% endif %}</td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+</div>
 
 Para adaptarlo no escribes páginas: rellenas los datos de tu asignatura y el sitio genera
 el curso. Lo explica [cómo añadir tu asignatura](docencia/anadir-asignatura.md).

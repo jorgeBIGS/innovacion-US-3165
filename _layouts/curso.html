@@ -52,19 +52,3 @@ entrega, con los mismos criterios en toda la red.</p>
   publicado de otra asignatura desde la <a href="{{ '/' | relative_url }}">portada</a>.</p>
 </div>
 {% endif %}
-
-<h2>Otros cursos de la red</h2>
-<div class="tabla-envoltorio">
-<table>
-  <thead><tr><th>Asignatura</th><th>Rama</th><th>Centro</th><th>Estado</th></tr></thead>
-  <tbody>
-  {% for o in site.data.asignaturas %}{% unless o.slug == a.slug %}
-    <tr>
-      <td><a href="{{ '/cursos/' | append: o.slug | append: '/' | relative_url }}">{{ o.nombre }}</a></td>
-      <td>{{ o.rama }}</td><td>{{ o.centro }}</td>
-      <td>{% if o.estado == 'completo' %}Disponible{% elsif o.estado == 'borrador' %}Ejemplos de la rama{% else %}En preparación{% endif %}</td>
-    </tr>
-  {% endunless %}{% endfor %}
-  </tbody>
-</table>
-</div>
