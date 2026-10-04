@@ -10,8 +10,8 @@ Usa la selección propia de la asignatura si la define; si no, la común de _dat
   <h2>Verlo explicado</h2>
   <p>{% if lista.size == 1 %}Un vídeo corto{% else %}Dos vídeos cortos{% endif %} de
   <a href="{{ site.data.videos.fuente }}">{{ site.data.videos.autoria }}</a> que
-  {% if lista.size == 1 %}desarrolla{% else %}desarrollan{% endif %} lo anterior. Opcional:
-  no cuenta para tu nota.</p>
+  {% if lista.size == 1 %}desarrolla{% else %}desarrollan{% endif %} lo anterior. Verlos es
+  opcional.</p>
   {% for v in lista %}
   <figure class="video">
     <div class="video-marco">

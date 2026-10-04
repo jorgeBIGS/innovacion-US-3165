@@ -18,8 +18,9 @@
   pesos: { d1: 20, d2: 40, d3: 25, d4: 15 }
   contexto: >-
     En programación la IA genera código en segundos. El riesgo no es que se equivoque:
-    es que acierte, y que tú apruebes la práctica sin haber aprendido a construirla.
-    En primero, lo que se evalúa es exactamente eso que la IA te puede ahorrar.
+    es que acierte, y que termines la práctica sin haber aprendido a construirla. En
+    primero, lo que tienes que llevarte de la asignatura es exactamente eso que la IA te
+    puede ahorrar.
   tareas:
     - Escribir una función a partir del enunciado
     - Entender un error del compilador o del intérprete

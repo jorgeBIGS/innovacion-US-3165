@@ -8,8 +8,7 @@ permalink: /recursos/
 Las cuatro lecciones de tu curso te dan lo imprescindible. Si quieres entender mejor cómo
 funcionan estos sistemas, estos recursos externos están bien hechos y son gratuitos.
 
-**Nada de esto es obligatorio ni cuenta para tu nota.** Son para quien quiera ir un paso
-más allá.
+**Nada de esto es obligatorio.** Son para quien quiera ir un paso más allá.
 
 {% for r in site.data.recursos %}
 ## {{ r.titulo }}

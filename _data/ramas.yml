@@ -10,9 +10,9 @@
 Informática:
   contexto: >-
     En Informática la IA escribe código en segundos, y lo escribe razonablemente bien. El
-    riesgo no es solo que se equivoque: es que acierte, y que apruebes sin haber aprendido
-    a construir lo que entregas. Lo que se evalúa en estas asignaturas es exactamente lo
-    que la IA te puede ahorrar.
+    riesgo no es solo que se equivoque: es que acierte, y que termines sin haber aprendido a
+    construir lo que entregas. Lo que tienes que llevarte de estas asignaturas es
+    exactamente lo que la IA te puede ahorrar.
   tareas:
     - Escribir código a partir de un enunciado
     - Entender un mensaje de error
