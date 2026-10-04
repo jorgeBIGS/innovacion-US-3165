@@ -30,10 +30,11 @@ Va **antes de que el alumnado vea nada del material**. Si llega con las leccione
 la medida de partida ya no mide el punto de partida, y la comparación pre/post pierde
 sentido.
 
-Descárgalo [en Word]({{ '/descargas/cuestionario-autopercepcion.docx' | relative_url }}) o
-vuélcalo en un formulario. Lee antes el
-[protocolo](../instrumentos/protocolo-aplicacion.md): consentimiento, código de
-emparejamiento y condiciones de aplicación.
+Descarga el [cuestionario en Word]({{ '/descargas/cuestionario-autopercepcion.docx' | relative_url }})
+y el [consentimiento informado]({{ '/descargas/consentimiento-informado.docx' | relative_url }}),
+o vuélcalos en un formulario. Lee antes el
+[protocolo](../instrumentos/protocolo-aplicacion.md): código de emparejamiento y
+condiciones de aplicación.
 
 ### 2. Dar a conocer el curso
 

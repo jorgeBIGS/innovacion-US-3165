@@ -25,6 +25,9 @@ DOCUMENTOS = [
     ("instrumentos/cuestionario-autopercepcion.md",
      "descargas/cuestionario-autopercepcion.docx",
      "Cuestionario de autopercepción y actitudes", True),
+    ("instrumentos/consentimiento-informado.md",
+     "descargas/consentimiento-informado.docx",
+     "Información y consentimiento informado", True),
 ]
 
 # Cabecera del cuestionario que recibe el alumnado, en lugar de la ficha metodológica.

@@ -43,45 +43,19 @@ reidentificar por sí solo y se usa exclusivamente para cruzar ambas medidas.
 
 ## Modelo de información y consentimiento
 
-> *Plantilla. Cada docente sustituye lo que va entre corchetes. Conviene revisarla con la
-> Secretaría General o con el Comité de Ética de la Universidad de Sevilla antes de la
-> primera aplicación, sobre todo si se prevé publicar los resultados.*
+El modelo **no se publica en esta web**: se descarga, se adapta y se entrega en papel o
+dentro del formulario.
 
----
+**[Descargar el consentimiento en Word]({{ '/descargas/consentimiento-informado.docx' | relative_url }})**
 
-**Participación en el proyecto de innovación docente nº 3165**
+Cada docente sustituye lo que va entre corchetes: la asignatura y quién es el responsable.
+Conviene revisarlo con la Secretaría General o con el Comité de Ética de la Universidad de
+Sevilla antes de la primera aplicación, sobre todo si se prevé publicar los resultados.
 
-La asignatura [asignatura] participa en el proyecto *Alfabetización en IA generativa como
-recurso docente transversal*, del IV Plan Propio de Docencia de la Universidad de Sevilla.
-
-**Qué te pedimos.** Responder dos veces, al principio y al final del cuatrimestre, a un
-cuestionario sobre tu competencia percibida y tus actitudes hacia la IA generativa. Unos
-10 minutos cada vez.
-
-**Para qué.** Para saber si las actividades de alfabetización que haremos en clase cambian
-la forma en que el alumnado usa la IA. Los resultados se analizan de forma agregada y
-sirven para mejorar la docencia.
-
-**Qué datos se tratan.** Tus respuestas, asociadas a un código que tú mismo construyes y
-que solo sirve para emparejar el cuestionario inicial con el final. No se recoge tu nombre,
-tu matrícula ni tu correo. También se usarán, de forma agregada por grupo, las
-distribuciones de calificaciones de la evaluación continua, sin identificar a nadie.
-
-**Voluntariedad.** Participar es voluntario. Puedes no hacerlo, o dejar de hacerlo en
-cualquier momento, sin ninguna consecuencia sobre tu calificación ni sobre tu relación con
-la asignatura.
-
-**Difusión.** Los resultados podrán presentarse en foros docentes y publicarse, siempre de
-forma agregada y sin que sea posible identificar a ninguna persona.
-
-**Responsable del tratamiento.** Universidad de Sevilla. Coordinación del proyecto:
-[docente responsable de la asignatura]. Puedes ejercer tus derechos de acceso,
-rectificación, supresión, limitación, portabilidad y oposición ante la Universidad de
-Sevilla, y dirigirte a su Delegación de Protección de Datos.
-
-- [ ] He leído esta información y acepto participar.
-
----
+Recoge, en una página: qué se le pide al alumnado y cuánto tiempo le lleva, para qué, qué
+datos se tratan y con qué código de emparejamiento, que participar es voluntario y sin
+consecuencias, cómo se difundirán los resultados, y quién es el responsable del
+tratamiento a efectos de ejercer sus derechos.
 
 ## Qué no se hace nunca
 

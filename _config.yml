@@ -32,6 +32,8 @@ defaults:
 
 exclude:
   - bin/
+  # Origen del consentimiento: se descarga en Word, no se publica como página
+  - instrumentos/consentimiento-informado.md
   - LICENSE
   - LICENSE-CODE
   - CITATION.cff
