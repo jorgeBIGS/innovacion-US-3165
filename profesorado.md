@@ -81,7 +81,10 @@ usan los ejemplos comunes de su rama de conocimiento, y lo advierten en la pági
 
 Si quieres que los ejemplos sean los de tu materia —las tareas en las que tu alumnado usa
 la IA, una pregunta donde el sistema falle, tus fuentes de verdad, los casos dudosos de tu
-disciplina—, dímelo y lo cambio. No tienes que escribir ninguna página.
+disciplina—, mándamelo por correo y lo publico yo.
+
+**Los cambios del sitio los centraliza la coordinación.** No tienes que escribir ninguna
+página ni tocar nada: basta con que me digas qué quieres que diga tu curso.
 
 ## El proyecto
 

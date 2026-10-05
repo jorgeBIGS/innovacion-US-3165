@@ -16,11 +16,12 @@ ancho: page-doc
 
 {{ content }}
 
+{% unless page.portada_seccion %}
 <p class="migas">
   {% if page.seccion == 'profesorado' %}
     <a href="{{ '/profesorado/' | relative_url }}">Área del profesorado</a>
   {% else %}
     <a href="{{ '/' | relative_url }}">Volver al índice</a>
   {% endif %}
-  · <a href="{{ site.github_url }}/blob/main/{{ page.path }}">Ver el original en GitHub</a>
 </p>
+{% endunless %}
