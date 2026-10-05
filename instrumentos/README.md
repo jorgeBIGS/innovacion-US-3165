@@ -5,7 +5,7 @@ que fija cómo y cuándo se aplican.
 
 | Instrumento | Uso | Estado |
 | --- | --- | --- |
-| [Cuestionario de autopercepción y actitudes](cuestionario-autopercepcion.md) · **[Word](https://jorgebigs.github.io/innovacion-US-3165/descargas/cuestionario-autopercepcion.docx)** | Pre y post, en grupos intervenidos | Bloques A, B y D redactados; bloque C de actitudes, pendiente |
+| [Cuestionario de autopercepción y actitudes](cuestionario-autopercepcion.md) · **[Word](https://jorgebigs.github.io/innovacion-US-3165/descargas/cuestionario-autopercepcion.docx)** | Pre y post, en grupos intervenidos | Completo: contexto, competencia percibida y uso declarado |
 | [Tu rúbrica de calidad de uso](rubrica-calidad-uso-ia.md) | La construye cada docente y evalúa con ella; se compara el grupo intervenido con uno de control | Guía y ejemplo publicados |
 | [Montar el cuestionario en Microsoft Forms](formulario-microsoft.md) | Medida final, en línea | Guía publicada |
 | [Protocolo de aplicación](protocolo-aplicacion.md) · consentimiento **[en Word](https://jorgebigs.github.io/innovacion-US-3165/descargas/consentimiento-informado.docx)** | Todas las aplicaciones | Listo, pendiente de revisión institucional |

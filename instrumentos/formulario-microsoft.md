@@ -25,8 +25,8 @@ siguiendo el [cuestionario](cuestionario-autopercepcion.md).
 | A | Formación previa en IA | Opción, Sí / No |
 | A | Frecuencia de uso | Opción |
 | B | Los 16 ítems de competencia percibida | **Likert**, escala 1–5 |
-| D | Tareas en las que has usado IA | Opción, varias respuestas |
-| D | Qué sueles pedirle · Si compruebas · Si lo declaras | Opción |
+| C | Tareas en las que has usado IA | Opción, varias respuestas |
+| C | Qué sueles pedirle · Si compruebas · Si lo declaras | Opción |
 
 El tipo **Likert** permite meter varias afirmaciones en una sola pregunta con la misma
 escala: monta cuatro, una por dimensión, con sus cuatro ítems. El cuestionario queda en
@@ -39,8 +39,10 @@ una pantalla por bloque y se responde en diez minutos.
   el nombre, el cuestionario deja de ser anónimo y el consentimiento que firmaron deja de
   ser cierto.
 - **Una respuesta por persona: desactivado.** Esa opción obliga a identificar.
-- **No marques preguntas como obligatorias**, salvo el código. Participar es voluntario, y
-  eso incluye saltarse una pregunta.
+- **Marca todas las preguntas como obligatorias.** No hay ninguna que no se pueda
+  responder, y las respuestas incompletas estropean la comparación pre/post. La
+  voluntariedad está en participar o no, no en dejar huecos: quien no quiera participar,
+  no envía el formulario.
 - **Orden fijo:** no barajes preguntas ni opciones, o las dos medidas dejan de ser
   comparables.
 

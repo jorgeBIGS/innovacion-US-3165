@@ -4,9 +4,9 @@ Instrumento de la **dimensión 1 de la evaluación**: la variación de la compet
 percibida y de las actitudes del alumnado. Se aplica **al inicio y al final** de la
 intervención, en los grupos intervenidos.
 
-Mide lo que el alumnado **cree** de sí mismo y lo que **opina** de la IA, no su
-competencia real. Las lecturas se limitan a ese plano. Quien quiera medir además el
-conocimiento efectivo puede usar la prueba que estime oportuna; la red no comparte una.
+Mide lo que el alumnado **cree** de sí mismo y lo que **declara** hacer, no su competencia
+real. Las lecturas se limitan a ese plano. Quien quiera medir además el conocimiento
+efectivo puede usar la prueba que estime oportuna; la red no comparte una.
 
 **[Descargar en Word](https://jorgebigs.github.io/innovacion-US-3165/descargas/cuestionario-autopercepcion.docx)**
 la versión para el alumnado, lista para imprimir o para volcar en un formulario. Contiene
@@ -18,8 +18,7 @@ sólo los bloques que se le entregan, sin esta ficha metodológica.
 | --- | --- | --- |
 | A | Datos de contexto | 5 |
 | B | Competencia percibida, por dimensión del marco | 16 |
-| C | Actitudes hacia la IA | escala externa, pendiente |
-| D | Uso declarado | 4 |
+| C | Uso declarado | 4 |
 
 Duración estimada: 10–12 minutos. Se administra en clase, con
 [consentimiento informado](protocolo-aplicacion.md), y se responde de forma anónima con
@@ -74,28 +73,9 @@ código de emparejamiento.
 > replican los descriptores del marco común, de modo que la autopercepción y la rúbrica
 > hablan de lo mismo.
 
-<!-- alumnado:fin -->
-
-## Bloque C. Actitudes hacia la IA
-
-*Pendiente de cierre.* El equipo valora incorporar una escala de actitudes ya publicada,
-con sus subescalas positiva y negativa, en lugar de redactar uno propio, para poder
-comparar con otros estudios.
-
-Antes de incorporarla hay que resolver dos cosas, y dejarlas escritas aquí:
-
-1. **La licencia** del artículo de origen, que determina si podemos publicar nuestra
-   traducción o solo enlazarla.
-2. **La traducción.** Traducir una escala validada invalida su validación salvo que se
-   haga traducción y retrotraducción y se documente. Si no se hace, hay que decirlo al
-   difundir los resultados y tratar las puntuaciones como orientativas.
-
-Mientras tanto, la referencia de la escala candidata se registrará en el
-[README de instrumentos](README.md).
-
 <!-- alumnado:inicio -->
 
-## Bloque D. Uso declarado
+## Bloque C. Uso declarado
 
 17. ¿En cuáles de estas tareas has usado IA generativa este cuatrimestre? *(varias
     respuestas)* Entender un enunciado · Buscar información · Redactar · Programar ·

@@ -38,7 +38,9 @@ el análisis.
 
 - **En horario de clase.** La convocatoria excluye actividades fuera del horario de las
   asignaturas implicadas.
-- **Voluntario.** No responder no tiene ninguna consecuencia académica.
+- **Voluntario.** Participar o no no tiene ninguna consecuencia académica. Quien
+  participa responde el cuestionario entero: no hay preguntas que no se puedan contestar,
+  y las respuestas incompletas no sirven para comparar.
 - **Sin efecto en la nota.** Ni el cuestionario, ni el test, ni la rúbrica puntúan.
 - **Mismas condiciones en pre y post**, para que la comparación tenga sentido.
 - **Registrar las incidencias**: fecha, número de respuestas y cualquier cosa que se salga
