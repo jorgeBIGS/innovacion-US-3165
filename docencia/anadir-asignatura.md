@@ -53,7 +53,8 @@ el curso**. Aparece como una tarjeta al final de las cuatro lecciones.
 Prepáralo con las mismas preguntas del
 [cuestionario de autopercepción](../instrumentos/cuestionario-autopercepcion.md) y pide en
 él el mismo código de emparejamiento que usaste en la medida inicial; sin ese código, las
-dos respuestas no se pueden cruzar. Mientras no lo pongas, la tarjeta avisa de que el
+dos respuestas no se pueden cruzar. Si lo montas con la cuenta institucional, sigue
+[montar el cuestionario en Microsoft Forms](../instrumentos/formulario-microsoft.md). Mientras no lo pongas, la tarjeta avisa de que el
 enlace está pendiente.
 
 La medida **inicial** no va aquí: esa se pasa en clase, antes de que el alumnado vea

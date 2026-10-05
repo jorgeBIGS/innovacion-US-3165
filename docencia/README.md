@@ -54,6 +54,11 @@ Si lo publicas como **formulario en línea**, añade su enlace al campo `formula
 asignatura y aparecerá como una tarjeta al final del curso, para que cada estudiante lo
 repita al terminar. Lo explica [cómo añadir tu asignatura](anadir-asignatura.md).
 
+Para montarlo con la cuenta institucional, sigue
+[montar el cuestionario en Microsoft Forms](../instrumentos/formulario-microsoft.md):
+qué tipo de pregunta usar en cada bloque y, sobre todo, qué ajustes garantizan que las
+respuestas sean anónimas.
+
 ### 4. Tu rúbrica
 
 Evalúas a tu alumnado con [la rúbrica que construyas](../instrumentos/rubrica-calidad-uso-ia.md).

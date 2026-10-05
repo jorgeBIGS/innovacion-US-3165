@@ -20,6 +20,7 @@ tu asignatura, con qué se mide y cómo se analiza.
 | **¿Nunca has visto esto?** | Lee el [marco común](marco/marco-comun.md); diez minutos y entiendes el resto |
 | **¿Vas a calibrar tu asignatura?** | Descarga la [ficha en Word]({{ '/descargas/ficha-calibracion.docx' | relative_url }}) y rellénala |
 | **¿Vas a pasar el cuestionario?** | Descarga el [cuestionario]({{ '/descargas/cuestionario-autopercepcion.docx' | relative_url }}) y el [consentimiento]({{ '/descargas/consentimiento-informado.docx' | relative_url }}), los dos en Word |
+| **¿Lo quieres en línea?** | [Móntalo en Microsoft Forms](instrumentos/formulario-microsoft.md) con tu cuenta institucional |
 | **¿Qué tengo que hacer exactamente?** | La [guía del profesorado](docencia/README.md): cinco pasos y 20 minutos de clase |
 | **¿Quieres adaptar tu curso?** | [Cómo añadir tu asignatura](docencia/anadir-asignatura.md) |
 | **¿Vas a medir?** | [Instrumentos](instrumentos/README.md) y su [protocolo](instrumentos/protocolo-aplicacion.md) |
