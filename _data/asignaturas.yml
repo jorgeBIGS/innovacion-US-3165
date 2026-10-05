@@ -18,6 +18,7 @@
   rama: Informática
   docente: Jorge García Gutiérrez
   estado: completo
+  formulario: https://forms.cloud.microsoft/e/Dk5YGCDZEs
   pesos: { d1: 20, d2: 40, d3: 25, d4: 15 }
   contexto: >-
     En programación la IA genera código en segundos. El riesgo no es que se equivoque:
