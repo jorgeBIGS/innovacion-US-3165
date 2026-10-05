@@ -21,15 +21,22 @@ Las asignaturas sin grupos paralelos participan solo con la medición pre/post.
 
 ## Código de emparejamiento
 
-Para emparejar el pre y el post sin identificar a nadie, cada estudiante construye siempre
-el mismo código:
+Para emparejar el pre y el post sin identificar a nadie, **el docente asigna un código a
+cada estudiante** y se lo entrega junto con el consentimiento. El mismo código se usa en
+las dos medidas.
 
-> **Dos primeras letras del nombre de tu madre + día de tu cumpleaños (dos dígitos) + dos
-> últimas letras de tu primer apellido.**
-> *Ejemplo:* Carmen, 7 de marzo, apellido Ruiz → `CA07IZ`.
+Sirve cualquier código corto que no derive de datos personales: una secuencia por grupo
+(`FP-A-017`) basta. Lo que no puede faltar es que el estudiante **conserve el suyo** hasta
+la medida final; recuérdaselo al entregarlo y repítelo al abrir el formulario.
 
-No se recogen nombres, matrículas ni correos junto a las respuestas. El código no permite
-reidentificar por sí solo y se usa exclusivamente para cruzar ambas medidas.
+No se recogen nombres, matrículas ni correos junto a las respuestas: el código es lo único
+que viaja con ellas.
+
+**Custodia de la correspondencia.** Si guardas la lista que relaciona códigos con
+estudiantes —y la necesitas, al menos mientras repartes los códigos—, consérvala separada
+de las respuestas, no la compartas con el equipo y destrúyela cuando termines la recogida.
+Mientras exista, los datos son reidentificables por ti, y eso es lo que hay que evitar en
+el análisis.
 
 ## Condiciones de aplicación
 
@@ -44,11 +51,12 @@ reidentificar por sí solo y se usa exclusivamente para cruzar ambas medidas.
 ## Modelo de información y consentimiento
 
 El modelo **no se publica en esta web**: se descarga, se adapta y se entrega en papel o
-dentro del formulario.
+dentro del formulario. El documento en Word que mantiene la coordinación es la versión de
+referencia.
 
 **[Descargar el consentimiento en Word]({{ '/descargas/consentimiento-informado.docx' | relative_url }})**
 
-Cada docente sustituye lo que va entre corchetes: la asignatura y quién es el responsable.
+Cada docente sustituye lo que va entre corchetes: el nombre de su asignatura.
 Conviene revisarlo con la Secretaría General o con el Comité de Ética de la Universidad de
 Sevilla antes de la primera aplicación, sobre todo si se prevé publicar los resultados.
 

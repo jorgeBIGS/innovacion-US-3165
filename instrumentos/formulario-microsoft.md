@@ -60,13 +60,14 @@ Quien responda «No» no continúa.
 
 ## 5. El código de emparejamiento
 
-Repite en el formulario la **misma instrucción** que diste en la medida inicial:
+El código **se lo asignaste tú** al entregar el consentimiento. En el formulario pídelo
+tal cual, con una pregunta de texto corto y obligatoria:
 
-> Dos primeras letras del nombre de tu madre + día de tu cumpleaños (dos dígitos) + dos
-> últimas letras de tu primer apellido.
+> Escribe el código que te dieron al principio del curso.
 
-Sin el mismo código, las respuestas del principio y del final no se pueden cruzar y la
-comparación pre/post se pierde. Es el error más caro de todo el proceso.
+Sin ese código, las respuestas del principio y del final no se pueden cruzar y la
+comparación pre/post se pierde. Es el error más caro de todo el proceso, y no tiene
+arreglo después, así que recuérdaselo también en clase antes de abrir el formulario.
 
 ## 6. Publicar el enlace
 

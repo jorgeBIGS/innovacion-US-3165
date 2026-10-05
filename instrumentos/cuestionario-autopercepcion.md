@@ -33,7 +33,8 @@ código de emparejamiento.
 
 ## Bloque A. Contexto
 
-1. Código de emparejamiento (véase el protocolo; **no** nombre ni matrícula).
+1. El código que te dio tu docente al principio del curso (**no** tu nombre ni tu
+   matrícula).
 2. Asignatura y grupo.
 3. Curso más alto en el que estás matriculado.
 4. ¿Has recibido antes formación específica sobre IA generativa? Sí / No.

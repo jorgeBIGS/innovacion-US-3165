@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """Genera las versiones Word descargables a partir de los Markdown del repositorio.
 
+El consentimiento informado no está aquí: su original lo mantiene la coordinación en
+Word y se copia tal cual a descargas/.
+
 Las plantillas que cada docente tiene que rellenar a mano se publican también en .docx,
 para que pueda escribir en ellas sin pasar por el repositorio.
 
@@ -25,9 +28,6 @@ DOCUMENTOS = [
     ("instrumentos/cuestionario-autopercepcion.md",
      "descargas/cuestionario-autopercepcion.docx",
      "Cuestionario de autopercepción y actitudes", True),
-    ("instrumentos/consentimiento-informado.md",
-     "descargas/consentimiento-informado.docx",
-     "Información y consentimiento informado", True),
 ]
 
 # Cabecera del cuestionario que recibe el alumnado, en lugar de la ficha metodológica.
