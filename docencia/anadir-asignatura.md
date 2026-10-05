@@ -1,4 +1,9 @@
-# Añadir tu asignatura al sitio
+# Añadir una asignatura al sitio
+
+> **Procedimiento interno.** En esta red los cambios los centraliza la coordinación: si
+> eres docente del proyecto, manda los ejemplos de tu materia y se publican por ti. Esta
+> página es para quien mantiene el sitio, y para quien reutilice el repositorio por su
+> cuenta.
 
 Los cursos no se escriben uno a uno: se **generan**. Las cuatro lecciones son comunes a
 toda la red y cada asignatura aporta sus ejemplos, sus fuentes y sus reglas. Así, cuando
@@ -6,19 +11,18 @@ mejoramos una explicación, mejora en las diez asignaturas a la vez.
 
 Tú rellenas un bloque de datos. El sitio hace el resto.
 
-## Tu asignatura ya tiene curso
+## Todas las asignaturas tienen ya curso
 
-Las diez asignaturas de la red tienen su curso publicado. Las que aún no has tocado usan
-los **ejemplos comunes de tu rama de conocimiento**, definidos en
+Las que nadie ha revisado usan los **ejemplos comunes de su rama de conocimiento**,
+definidos en
 [`_data/ramas.yml`](https://github.com/jorgeBIGS/innovacion-US-3165/blob/main/_data/ramas.yml),
 y lo advierten en la página.
 
-Eso significa que no partes de cero: entra en tu curso, léelo y **corrige lo que no
-encaje**. Cuando esté a tu gusto, cambia `estado: borrador` por `estado: completo` y
-desaparecerá el aviso.
+Así que nunca se parte de cero: se corrige lo que no encaje y, cuando el docente da el
+visto bueno, `estado: borrador` pasa a `estado: completo` y desaparece el aviso.
 
-La precedencia es simple: lo que defines en tu asignatura gana; lo que no defines, lo
-pone tu rama.
+La precedencia es simple: lo que define la asignatura gana; lo que no define, lo pone su
+rama.
 
 ## 1. Edita `_data/asignaturas.yml`
 

@@ -79,13 +79,20 @@ datos. Véase la [guía del profesorado](docencia/README.md).
 
 ## Cómo llevarlo a tu asignatura
 
-1. Lee el [marco común](marco/marco-comun.md) y la [guía del profesorado](docencia/README.md).
-2. Rellena una [ficha de calibración](marco/PLANTILLA-ficha-calibracion.md)
-   ([versión Word](descargas/ficha-calibracion.docx)): el peso de
+**Si eres docente de la red:** no tienes que tocar este repositorio. El procedimiento y
+los documentos que necesitas están en
+<https://jorgebigs.github.io/innovacion-US-3165/profesorado/>, y los cambios en tu curso
+los centraliza la coordinación: basta con que le mandes los ejemplos de tu materia.
+
+**Si vienes de fuera y quieres reutilizarlo**, todo está bajo CC BY-SA 4.0:
+
+1. Lee el [marco común](marco/marco-comun.md).
+2. Rellena una [ficha de calibración](marco/PLANTILLA-ficha-calibracion.md): el peso de
    cada dimensión según el perfil de uso y de riesgo de tu materia.
-3. Completa tus datos en [`_data/asignaturas.yml`](_data/asignaturas.yml) y ejecuta
-   `python3 bin/generar-cursos.py`. Los pasos, en
-   [cómo añadir tu asignatura](docencia/anadir-asignatura.md).
+3. Clona el repositorio, completa tus datos en
+   [`_data/asignaturas.yml`](_data/asignaturas.yml) y ejecuta
+   `python3 bin/generar-cursos.py`. El detalle, en
+   [cómo añadir una asignatura](docencia/anadir-asignatura.md).
 4. Si quieres medir el efecto, aplica los [instrumentos](instrumentos/) siguiendo el
    [protocolo](instrumentos/protocolo-aplicacion.md), antes y después.
 
