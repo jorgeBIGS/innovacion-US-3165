@@ -1,7 +1,3 @@
----
-title: "Plantilla de entrega de la rúbrica agregada"
----
-
 # Plantilla de entrega de la rúbrica agregada
 
 Cada docente usa **su propia rúbrica** para evaluar a su alumnado. Lo que se entrega al

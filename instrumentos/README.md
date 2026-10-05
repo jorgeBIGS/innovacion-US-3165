@@ -1,8 +1,3 @@
----
-title: "Instrumentos compartidos"
-permalink: /instrumentos/
----
-
 # Instrumentos compartidos
 
 Los tres instrumentos que la red aplica por igual en todas las asignaturas, y el protocolo
@@ -10,10 +5,10 @@ que fija cómo y cuándo se aplican.
 
 | Instrumento | Uso | Estado |
 | --- | --- | --- |
-| [Cuestionario de autopercepción y actitudes](cuestionario-autopercepcion.md) · **[Word]({{ '/descargas/cuestionario-autopercepcion.docx' | relative_url }})** | Pre y post, en grupos intervenidos | Bloques A, B y D redactados; bloque C de actitudes, pendiente |
+| [Cuestionario de autopercepción y actitudes](cuestionario-autopercepcion.md) · **[Word](https://jorgebigs.github.io/innovacion-US-3165/descargas/cuestionario-autopercepcion.docx)** | Pre y post, en grupos intervenidos | Bloques A, B y D redactados; bloque C de actitudes, pendiente |
 | [Tu rúbrica de calidad de uso](rubrica-calidad-uso-ia.md) | La construye cada docente y evalúa con ella; se compara el grupo intervenido con uno de control | Guía y ejemplo publicados |
 | [Montar el cuestionario en Microsoft Forms](formulario-microsoft.md) | Medida final, en línea | Guía publicada |
-| [Protocolo de aplicación](protocolo-aplicacion.md) · consentimiento **[en Word]({{ '/descargas/consentimiento-informado.docx' | relative_url }})** | Todas las aplicaciones | Listo, pendiente de revisión institucional |
+| [Protocolo de aplicación](protocolo-aplicacion.md) · consentimiento **[en Word](https://jorgebigs.github.io/innovacion-US-3165/descargas/consentimiento-informado.docx)** | Todas las aplicaciones | Listo, pendiente de revisión institucional |
 
 ## Prueba de conocimientos
 

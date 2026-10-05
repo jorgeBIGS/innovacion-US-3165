@@ -1,7 +1,3 @@
----
-title: "Montar el cuestionario en Microsoft Forms"
----
-
 # Montar el cuestionario en Microsoft Forms
 
 El formulario en línea sirve para la **medida final**, la que el alumnado repite al
@@ -15,7 +11,7 @@ respuestas quedan en el entorno de la Universidad.
 
 En [Microsoft Forms](https://forms.office.com), *Nuevo formulario*. Si tu versión ofrece
 **importar preguntas desde un documento**, dale el
-[cuestionario en Word]({{ '/descargas/cuestionario-autopercepcion.docx' | relative_url }})
+[cuestionario en Word](https://jorgebigs.github.io/innovacion-US-3165/descargas/cuestionario-autopercepcion.docx)
 y te creará el esqueleto; luego revisa los tipos de pregunta. Si no, créalas a mano
 siguiendo el [cuestionario](cuestionario-autopercepcion.md).
 
@@ -51,7 +47,7 @@ una pantalla por bloque y se responde en diez minutos.
 ## 4. El consentimiento, al principio
 
 La primera página recoge la información y el consentimiento. Copia el texto del
-[modelo en Word]({{ '/descargas/consentimiento-informado.docx' | relative_url }}) y cierra
+[modelo en Word](https://jorgebigs.github.io/innovacion-US-3165/descargas/consentimiento-informado.docx) y cierra
 con una pregunta de opción única:
 
 > He leído esta información y acepto participar. · **Sí** / **No**

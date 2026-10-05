@@ -1,7 +1,3 @@
----
-title: "Tu rúbrica de calidad de uso"
----
-
 # Tu rúbrica de calidad de uso de la IA
 
 La red **no impone una rúbrica**. Cada docente construye la suya según lo que le interese

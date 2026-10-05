@@ -1,7 +1,3 @@
----
-title: "Cuestionario de autopercepción y actitudes"
----
-
 # Cuestionario de autopercepción y actitudes
 
 Instrumento de la **dimensión 1 de la evaluación**: la variación de la competencia
@@ -12,7 +8,7 @@ Mide lo que el alumnado **cree** de sí mismo y lo que **opina** de la IA, no su
 competencia real. Las lecturas se limitan a ese plano. Quien quiera medir además el
 conocimiento efectivo puede usar la prueba que estime oportuna; la red no comparte una.
 
-**[Descargar en Word]({{ '/descargas/cuestionario-autopercepcion.docx' | relative_url }})**
+**[Descargar en Word](https://jorgebigs.github.io/innovacion-US-3165/descargas/cuestionario-autopercepcion.docx)**
 la versión para el alumnado, lista para imprimir o para volcar en un formulario. Contiene
 sólo los bloques que se le entregan, sin esta ficha metodológica.
 

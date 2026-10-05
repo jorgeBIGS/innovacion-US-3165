@@ -1,8 +1,3 @@
----
-title: "Marco común de alfabetización en IA"
-permalink: /marco/
----
-
 # Marco común de alfabetización en IA
 
 - **[marco-comun.md](marco-comun.md)** — el documento de referencia de la red: las cuatro
@@ -10,7 +5,7 @@ permalink: /marco/
   correspondencia entre dimensiones e instrumentos.
 - **[PLANTILLA-ficha-calibracion.md](PLANTILLA-ficha-calibracion.md)** — plantilla que
   rellena cada docente (actividad A2 del proyecto), también
-  **[descargable en Word]({{ '/descargas/ficha-calibracion.docx' | relative_url }})**.
+  **[descargable en Word](https://jorgebigs.github.io/innovacion-US-3165/descargas/ficha-calibracion.docx)**.
 
 Las fichas cumplimentadas se añaden aquí como `ficha-<asignatura>.md`.
 

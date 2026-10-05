@@ -1,7 +1,3 @@
----
-title: "Añadir tu asignatura"
----
-
 # Añadir tu asignatura al sitio
 
 Los cursos no se escriben uno a uno: se **generan**. Las cuatro lecciones son comunes a

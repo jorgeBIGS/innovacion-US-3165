@@ -1,7 +1,3 @@
----
-title: "Marco común de alfabetización en IA generativa"
----
-
 # Marco común de alfabetización en IA generativa
 
 Documento de referencia de la red. Fija qué entendemos por alfabetización en IA, con qué

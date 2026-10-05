@@ -1,7 +1,3 @@
----
-title: "Protocolo de aplicación y consentimiento"
----
-
 # Protocolo de aplicación y consentimiento
 
 Cómo se recogen los datos del proyecto, de modo que todas las asignaturas lo hagan igual y
@@ -54,7 +50,7 @@ El modelo **no se publica en esta web**: se descarga, se adapta y se entrega en 
 dentro del formulario. El documento en Word que mantiene la coordinación es la versión de
 referencia.
 
-**[Descargar el consentimiento en Word]({{ '/descargas/consentimiento-informado.docx' | relative_url }})**
+**[Descargar el consentimiento en Word](https://jorgebigs.github.io/innovacion-US-3165/descargas/consentimiento-informado.docx)**
 
 Cada docente sustituye lo que va entre corchetes: el nombre de su asignatura.
 Conviene revisarlo con la Secretaría General o con el Comité de Ética de la Universidad de

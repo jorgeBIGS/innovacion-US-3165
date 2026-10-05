@@ -1,8 +1,3 @@
----
-title: "Guía del profesorado"
-permalink: /docencia/
----
-
 # Guía del profesorado
 
 Parte del [área del profesorado](../profesorado.md).
@@ -30,8 +25,8 @@ Va **antes de que el alumnado vea nada del material**. Si llega con las leccione
 la medida de partida ya no mide el punto de partida, y la comparación pre/post pierde
 sentido.
 
-Descarga el [cuestionario en Word]({{ '/descargas/cuestionario-autopercepcion.docx' | relative_url }})
-y el [consentimiento informado]({{ '/descargas/consentimiento-informado.docx' | relative_url }}),
+Descarga el [cuestionario en Word](https://jorgebigs.github.io/innovacion-US-3165/descargas/cuestionario-autopercepcion.docx)
+y el [consentimiento informado](https://jorgebigs.github.io/innovacion-US-3165/descargas/consentimiento-informado.docx),
 o vuélcalos en un formulario. Lee antes el
 [protocolo](../instrumentos/protocolo-aplicacion.md): código de emparejamiento y
 condiciones de aplicación.
@@ -76,7 +71,7 @@ Agregados por grupo, nunca por estudiante, con las
 ## Antes de empezar
 
 - Rellena la [ficha de calibración](../marco/PLANTILLA-ficha-calibracion.md), en pantalla
-  o **[en Word]({{ '/descargas/ficha-calibracion.docx' | relative_url }})**: el peso de
+  o **[en Word](https://jorgebigs.github.io/innovacion-US-3165/descargas/ficha-calibracion.docx)**: el peso de
   cada dimensión en tu materia.
 - Decide si tu asignatura tiene **grupos de control**, y acuerda con el equipo las pruebas
   comunes si vas a comparar distribuciones de calificaciones.

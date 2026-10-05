@@ -1,13 +1,9 @@
----
-title: "Ficha de calibración disciplinar"
----
-
 # Ficha de calibración disciplinar
 
 > Actividad A2 del proyecto. Una ficha por asignatura. Todas las asignaturas comparten
 > el marco común; la ficha recoge en qué se diferencia el énfasis de cada una.
 
-**[Descargar en Word]({{ '/descargas/ficha-calibracion.docx' | relative_url }})** para
+**[Descargar en Word](https://jorgebigs.github.io/innovacion-US-3165/descargas/ficha-calibracion.docx)** para
 rellenarla a mano. Esta página es la misma ficha en pantalla.
 
 ## Identificación
