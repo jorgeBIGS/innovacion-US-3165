@@ -19,19 +19,15 @@ defaults:
       path: ""
     values:
       layout: pagina
-  # Las secciones del profesorado se marcan para que su navegación y su cabecera
-  # no se confundan con el material del alumnado.
-  - scope: { path: "docencia" }
-    values: { seccion: profesorado }
-  - scope: { path: "marco" }
-    values: { seccion: profesorado }
-  - scope: { path: "instrumentos" }
-    values: { seccion: profesorado }
-  - scope: { path: "analisis" }
-    values: { seccion: profesorado }
 
 exclude:
   - bin/
+  # Documentación detallada: vive en el repositorio, no en el sitio. La parte del
+  # profesorado se resume en una sola página, /profesorado/.
+  - docencia/
+  - marco/
+  - instrumentos/
+  - analisis/
   - LICENSE
   - LICENSE-CODE
   - CITATION.cff

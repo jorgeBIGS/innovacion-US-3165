@@ -13,8 +13,10 @@ reutilizarlos y adaptarlos a su asignatura.
 
 - **Alumnado:** entra por la portada y elige tu asignatura. Cuatro lecciones cortas con los
   ejemplos de tu materia.
-- **Profesorado:** <https://jorgebigs.github.io/innovacion-US-3165/profesorado/> reúne el
-  marco, lo que tiene que hacer el docente, los instrumentos y cómo adaptar tu curso.
+- **Profesorado:** <https://jorgebigs.github.io/innovacion-US-3165/profesorado/>, una sola
+  página con lo que hay que hacer y los ficheros que hacen falta. La documentación
+  detallada —marco, protocolo, rúbrica, análisis— no se publica en el sitio: está en este
+  repositorio, en las carpetas correspondientes.
 
 ## Punto de partida
 

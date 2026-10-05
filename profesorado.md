@@ -1,64 +1,83 @@
 ---
-title: "Área del profesorado"
+title: "Para el profesorado"
 permalink: /profesorado/
 seccion: profesorado
 portada_seccion: true
 ---
 
-# Área del profesorado
+# Para el profesorado
 
-Todo lo que no ve el alumnado: cómo se lleva cada lección a clase, cómo adaptar el curso a
-tu asignatura, con qué se mide y cómo se analiza.
+El alumnado se forma por su cuenta con el curso de su asignatura. **Tú no impartes nada**:
+pasas un cuestionario antes, le das el enlace al curso, pasas el mismo cuestionario
+después y envías los datos agregados.
 
-> El contenido de estudio está en los [cursos del alumnado](/). Si solo quieres ver qué
-> leen tus estudiantes, entra por ahí.
+Son unos **20 minutos de clase** en todo el cuatrimestre.
 
-## Empieza aquí
+## Qué hacer, por orden
 
-| | |
+1. **Consentimiento y cuestionario inicial**, en clase, **antes de que el alumnado vea
+   nada del curso**. Si llega con las lecciones leídas, la medida de partida ya no mide el
+   punto de partida y la comparación se pierde.
+2. **Entrega a cada estudiante su código** de emparejamiento y dile que lo conserve: es lo
+   único que permite cruzar su respuesta inicial con la final sin identificarlo.
+3. **Pasa el enlace de tu curso.** Está publicado y es voluntario; no se califica.
+4. **Cuestionario final**, el mismo, cuando hayan terminado. Si lo montas en línea, su
+   enlace aparece como la tarjeta «Autoevalúate» al final del curso.
+5. **Envía los datos agregados por grupo.** Nunca respuestas individuales.
+
+Si además evalúas a tu alumnado con una rúbrica propia, puedes aportar esa comparación
+entre un grupo que haya hecho el curso y otro que no. La única condición para que sea
+agregable: que cada ítem de tu rúbrica esté asignado a una de las cuatro dimensiones y
+tenga un peso declarado.
+
+## Los ficheros que necesitas
+
+| | Para qué |
 | --- | --- |
-| **¿Nunca has visto esto?** | Lee el [marco común](marco/marco-comun.md); diez minutos y entiendes el resto |
-| **¿Vas a calibrar tu asignatura?** | Descarga la [ficha en Word]({{ '/descargas/ficha-calibracion.docx' | relative_url }}) y rellénala |
-| **¿Vas a pasar el cuestionario?** | Descarga el [cuestionario]({{ '/descargas/cuestionario-autopercepcion.docx' | relative_url }}) y el [consentimiento]({{ '/descargas/consentimiento-informado.docx' | relative_url }}), los dos en Word |
-| **¿Lo quieres en línea?** | [Móntalo en Microsoft Forms](instrumentos/formulario-microsoft.md) con tu cuenta institucional |
-| **¿Qué tengo que hacer exactamente?** | La [guía del profesorado](docencia/README.md): cinco pasos y 20 minutos de clase |
-| **¿Quieres adaptar tu curso?** | [Cómo añadir tu asignatura](docencia/anadir-asignatura.md) |
-| **¿Vas a medir?** | [Instrumentos](instrumentos/README.md) y su [protocolo](instrumentos/protocolo-aplicacion.md) |
+| **[Consentimiento informado]({{ '/descargas/consentimiento-informado.docx' | relative_url }})** | Se entrega y se firma antes del cuestionario inicial. Sustituye el nombre de tu asignatura |
+| **[Cuestionario de autoevaluación]({{ '/descargas/cuestionario-autopercepcion.docx' | relative_url }})** | El mismo al principio y al final. 16 ítems de competencia percibida más contexto y uso declarado |
+| **[Ficha de calibración]({{ '/descargas/ficha-calibracion.docx' | relative_url }})** | El peso de cada dimensión en tu materia y las tareas en que tu alumnado usa la IA |
+| **[Plantilla de calificaciones]({{ '/descargas/plantilla-distribucion-calificaciones.docx' | relative_url }})** | Distribuciones agregadas, si comparas grupos |
+| **[Plantilla de rúbrica]({{ '/descargas/plantilla-rubrica-agregada.docx' | relative_url }})** | Resultados de tu rúbrica por grupo, con sus ítems y pesos |
 
-## El marco
+## Dos cosas que no pueden fallar
 
-- [Marco común de alfabetización en IA](marco/marco-comun.md) — las cuatro dimensiones
-  con sus descriptores observables (D1.1 a D4.5), los perfiles de riesgo por rama y las
-  reglas de calibración.
-- [Ficha de calibración](marco/PLANTILLA-ficha-calibracion.md) — el reparto de 100
-  puntos entre dimensiones en tu asignatura, y las tareas reales en que tu alumnado usa la
-  IA. Descargable **[en Word]({{ '/descargas/ficha-calibracion.docx' | relative_url }})**.
+**El anonimato.** No se recogen nombres, matrículas ni correos junto a las respuestas. Si
+montas el cuestionario en Microsoft Forms con la cuenta institucional, comprueba en los
+ajustes que **no registra el nombre** y desactiva «una respuesta por persona»: ambas
+identifican. Si guardas la lista que relaciona códigos con estudiantes, consérvala
+separada de las respuestas y destrúyela al terminar la recogida.
 
-## Tu papel
+**El código de emparejamiento.** El mismo al principio y al final, y pedido con las mismas
+palabras. Sin él no hay comparación pre/post, y no tiene arreglo después.
 
-**El curso no se imparte: el alumnado se autoforma.** Tú pones el material a su
-disposición, aplicas el cuestionario antes y después, y registras los datos. Unos 20
-minutos de clase en total, más valorar una entrega con tu rúbrica.
+## El marco, en cuatro dimensiones
 
-La secuencia es **medida inicial → el alumnado trabaja el curso → medida final →
-evaluación con tu rúbrica, comparando grupo intervenido y grupo de control**. El cuestionario inicial va antes de que vea ninguna lección; si llega con el
-material visto, la medida de partida se pierde.
+Es lo que miden el cuestionario y, si la usas, tu rúbrica.
 
-Los pasos, uno a uno, en la [guía del profesorado](docencia/README.md).
+| Dimensión | Qué observa |
+| --- | --- |
+| **Conocer y entender** | Sabe explicar, a alto nivel, qué hace el sistema y por qué falla |
+| **Usar y aplicar** | Pide ayuda a su proceso, con contexto, en vez del producto terminado |
+| **Evaluar y crear** | Verifica, detecta invenciones y reelabora en lugar de entregar la salida en bruto |
+| **Cuestiones éticas** | Declara su uso, responde de lo que entrega y protege los datos |
 
-## Los cursos de la red
+Cada asignatura decide cuánto pesa cada dimensión según su perfil de uso y de riesgo. Eso
+es lo que recoge la ficha de calibración.
 
-Los diez están publicados. Los que su docente aún no ha revisado usan los ejemplos comunes
-de su rama y lo advierten en la página.
+## Tu curso
+
+Los diez cursos están publicados. Los que su docente aún no ha revisado usan los ejemplos
+comunes de su rama de conocimiento y lo advierten en la página.
 
 <div class="tabla-envoltorio">
 <table>
-  <thead><tr><th>Asignatura</th><th>Rama</th><th>Centro</th><th>Docente</th><th>Estado</th></tr></thead>
+  <thead><tr><th>Asignatura</th><th>Docente</th><th>Estado</th></tr></thead>
   <tbody>
   {% for o in site.data.asignaturas %}
     <tr>
       <td><a href="{{ '/cursos/' | append: o.slug | append: '/' | relative_url }}">{{ o.nombre }}</a></td>
-      <td>{{ o.rama }}</td><td>{{ o.centro }}</td><td>{{ o.docente }}</td>
+      <td>{{ o.docente }}</td>
       <td>{% if o.estado == 'completo' %}Revisado{% elsif o.estado == 'borrador' %}Ejemplos de la rama{% else %}En preparación{% endif %}</td>
     </tr>
   {% endfor %}
@@ -66,48 +85,26 @@ de su rama y lo advierten en la página.
 </table>
 </div>
 
-Para adaptarlo no escribes páginas: rellenas los datos de tu asignatura y el sitio genera
-el curso. Lo explica [cómo añadir tu asignatura](docencia/anadir-asignatura.md).
+**Para que los ejemplos sean los de tu materia**, no hay que escribir páginas: se rellenan
+los datos de tu asignatura y la web genera su curso. Dime qué quieres cambiar, o hazlo
+directamente en
+[`_data/asignaturas.yml`]({{ site.github_url }}/blob/main/_data/asignaturas.yml) siguiendo
+[estas instrucciones]({{ site.github_url }}/blob/main/docencia/anadir-asignatura.md).
 
-## Medir
+## Si necesitas el detalle
 
-Tres vías independientes, todas agregadas y anónimas.
-
-| Vía | Instrumento | A quién | Cuándo |
-| --- | --- | --- | --- |
-| Competencia percibida y actitudes | [Cuestionario de autopercepción](instrumentos/cuestionario-autopercepcion.md) ([Word]({{ '/descargas/cuestionario-autopercepcion.docx' | relative_url }})) | Grupos intervenidos | Antes y después |
-| Calidad del uso de la IA | [Tu propia rúbrica](instrumentos/rubrica-calidad-uso-ia.md), con cada ítem asignado a una dimensión y su peso declarado | Resultado agregado del grupo intervenido frente al de control | Después de la medida final |
-| Calificaciones | [Distribuciones agregadas](analisis/README.md) | Intervenidos y de control | Al cerrar actas |
-
-Antes de aplicar nada, lee el [protocolo](instrumentos/protocolo-aplicacion.md): código
-de emparejamiento anónimo, consentimiento informado y condiciones de aplicación.
-
-**Sin datos del alumnado en el repositorio**, nunca. Solo distribuciones agregadas.
-
-## Recursos externos
-
-La página [Para saber más](recursos.md) reúne los recursos de profundización que ve el
-alumnado. Dos reglas al añadir uno nuevo a
-[`_data/recursos.yml`](https://github.com/jorgeBIGS/innovacion-US-3165/blob/main/_data/recursos.yml):
-
-- **Se enlaza, no se reproduce.** No alojamos material de terceros. Anota su autoría y su
-  licencia si la declara.
-- **Siempre opcional.** La convocatoria excluye las actividades fuera del horario de clase,
-  así que nada externo puede ser exigible ni evaluable. Si obliga a crear cuenta en una
-  plataforma, con más motivo: ofrece alternativa.
-
-Los vídeos que acompañan a cada lección se definen en
-[`_data/videos.yml`](https://github.com/jorgeBIGS/innovacion-US-3165/blob/main/_data/videos.yml)
-y se incrustan sin cookies.
+En el repositorio está toda la documentación larga: el
+[marco común]({{ site.github_url }}/blob/main/marco/marco-comun.md) con sus descriptores
+observables, el [protocolo de aplicación]({{ site.github_url }}/blob/main/instrumentos/protocolo-aplicacion.md),
+la [guía para montar el cuestionario en Microsoft Forms]({{ site.github_url }}/blob/main/instrumentos/formulario-microsoft.md)
+y la [guía para construir tu rúbrica]({{ site.github_url }}/blob/main/instrumentos/rubrica-calidad-uso-ia.md).
 
 ## Sobre el proyecto
 
 Proyecto de innovación docente **nº 3165** del IV Plan Propio de Docencia de la Universidad
-de Sevilla, Acción 221, Modalidad B, Redes de Colaboración, curso 2026/2027. Una red de
-diez asignaturas de cuatro ramas que comparte marco e instrumentos y calibra el peso de
-cada dimensión según su disciplina.
+de Sevilla, Acción 221, Modalidad B, Redes de Colaboración, curso 2026/2027. Diez
+asignaturas de cuatro ramas con un marco común y un mismo cuestionario.
 
-Los materiales están bajo [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.es)
-y son obra original de la red. Para citarlos,
-[CITATION.cff](https://github.com/jorgeBIGS/innovacion-US-3165/blob/main/CITATION.cff).
-Los recursos externos se enlazan, no se reproducen.
+Materiales bajo [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.es),
+obra original de la red. Para citarlos,
+[CITATION.cff]({{ site.github_url }}/blob/main/CITATION.cff).

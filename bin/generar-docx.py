@@ -28,6 +28,12 @@ DOCUMENTOS = [
     ("instrumentos/cuestionario-autopercepcion.md",
      "descargas/cuestionario-autopercepcion.docx",
      "Cuestionario de autopercepción y actitudes", True),
+    ("analisis/plantillas/distribucion-calificaciones.md",
+     "descargas/plantilla-distribucion-calificaciones.docx",
+     "Entrega de distribuciones de calificaciones", False),
+    ("analisis/plantillas/rubrica-agregada.md",
+     "descargas/plantilla-rubrica-agregada.docx",
+     "Entrega de la rúbrica agregada", False),
 ]
 
 # Cabecera del cuestionario que recibe el alumnado, en lugar de la ficha metodológica.
