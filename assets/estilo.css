@@ -14,7 +14,7 @@ header.sitio { border-bottom:3px solid var(--ink); padding-bottom:2.5rem; margin
 .eyebrow a:hover { text-decoration:underline; }
 h1 { margin:0 0 1.5rem; font:300 clamp(2.1rem,6vw,4rem)/1.12 Georgia,serif; }
 header.sitio h1 strong { display:block; font-weight:700; margin-top:.15em; }  /* solo en los titulares de portada */
-.lead { color:var(--muted); max-width:58ch; font-size:1.05rem; line-height:1.7; margin:0; }
+.lead { color:var(--muted); font-size:1.05rem; line-height:1.7; margin:0; }
 
 h2 { margin:3rem 0 .35rem; font:700 1.5rem Georgia,serif; }
 h2 + p { margin-top:0; color:var(--muted); }
