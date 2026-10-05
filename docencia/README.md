@@ -47,8 +47,12 @@ verdad la experiencia de tu alumnado.
 
 ### 3. Cuestionario final
 
-El mismo, en las mismas condiciones. Con el mismo código de emparejamiento, para poder
-cruzar las dos respuestas sin identificar a nadie.
+El mismo, con el mismo código de emparejamiento, para poder cruzar las dos respuestas sin
+identificar a nadie.
+
+Si lo publicas como **formulario en línea**, añade su enlace al campo `formulario` de tu
+asignatura y aparecerá como una tarjeta al final del curso, para que cada estudiante lo
+repita al terminar. Lo explica [cómo añadir tu asignatura](anadir-asignatura.md).
 
 ### 4. Tu rúbrica
 

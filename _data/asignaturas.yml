@@ -6,6 +6,9 @@
 #
 # estado: completo (revisado por su docente) | borrador (usa los ejemplos de su rama,
 #         definidos en _data/ramas.yml) | preparacion (sin curso publicado)
+#
+# formulario: URL del formulario en línea donde el alumnado repite la autoevaluación al
+#             terminar el curso. Sin este campo, la tarjeta aparece como pendiente.
 
 - slug: fundamentos-programacion
   nombre: Fundamentos de Programación

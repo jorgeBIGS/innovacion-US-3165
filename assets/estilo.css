@@ -84,3 +84,7 @@ body.doc { --paper:#f1eee6; }
 /* Las tablas del contenido también deben poder desplazarse en pantallas estrechas */
 .page-doc table { display:block; overflow-x:auto; }
 .page-doc table th, .page-doc table td { min-width:14rem; }
+
+/* La tarjeta de cierre del curso: no es una lección, es la acción final */
+.card-cierre { background:var(--realce); box-shadow:inset 3px 0 0 var(--brand); }
+.card-cierre:hover { background:#fff6e8; }

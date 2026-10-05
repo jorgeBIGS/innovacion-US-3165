@@ -38,6 +38,24 @@ layout: base
     <a class="card-link" href="{{ '/cursos/' | append: a.slug | append: '/leccion-' | append: n | append: '.html' | relative_url }}">Empezar →</a>
   </div>
   {% endfor %}
+  {% if a.formulario %}
+  <div class="card card-cierre">
+    <span class="card-num">Al terminar</span>
+    <p class="card-title">Autoevalúate</p>
+    <p class="card-desc">Cuando hayas trabajado las cuatro lecciones, repite el
+    cuestionario que respondiste al principio. Unos 10 minutos, anónimo y sin
+    calificación: sirve para ver qué ha cambiado.</p>
+    <a class="card-link" href="{{ a.formulario }}">Abrir el formulario →</a>
+  </div>
+  {% else %}
+  <div class="card card-pendiente">
+    <span class="card-num">Al terminar</span>
+    <p class="card-title">Autoevalúate</p>
+    <p class="card-desc">Al acabar las cuatro lecciones repetirás el cuestionario del
+    principio, para ver qué ha cambiado.</p>
+    <span class="card-nota">Tu docente publicará aquí el enlace</span>
+  </div>
+  {% endif %}
 </div>
 
 <h2>Lo que se espera de ti al terminar</h2>

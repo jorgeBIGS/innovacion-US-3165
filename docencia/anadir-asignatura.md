@@ -41,6 +41,24 @@ Fundamentos de Programación, que está completa.
   pesos: { d1: 20, d2: 40, d3: 25, d4: 15 }
 ```
 
+### El formulario de autoevaluación
+
+```yaml
+  formulario: https://…
+```
+
+Es el enlace al formulario en línea donde tu alumnado **repite el cuestionario al terminar
+el curso**. Aparece como una tarjeta al final de las cuatro lecciones.
+
+Prepáralo con las mismas preguntas del
+[cuestionario de autopercepción](../instrumentos/cuestionario-autopercepcion.md) y pide en
+él el mismo código de emparejamiento que usaste en la medida inicial; sin ese código, las
+dos respuestas no se pueden cruzar. Mientras no lo pongas, la tarjeta avisa de que el
+enlace está pendiente.
+
+La medida **inicial** no va aquí: esa se pasa en clase, antes de que el alumnado vea
+ninguna lección.
+
 ### Los campos que dan contenido
 
 | Campo | Qué es | Dónde sale |
