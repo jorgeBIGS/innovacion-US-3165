@@ -116,6 +116,32 @@ misma estructura y sustituirá a la común en las lecciones que indiques:
 
 Son opcionales para el alumnado y no evaluables.
 
+## Textos a medida
+
+Los campos anteriores cubren la personalización habitual. Cuando una asignatura necesita
+cambiar además algún párrafo de las lecciones, se añade un bloque `textos` con las claves
+que quiera sobrescribir; las que no estén, usan el texto común:
+
+```yaml
+  textos:
+    l1_comprobacion: |        # lista de comprobación de la lección 1
+    l2_cierre: >-             # cierre de la tabla de peticiones
+    l2_riesgos_intro: >-      # entradilla de 'Cuándo no usarla'
+    l2_comprobacion: |
+    l3_entrega: >-            # párrafo de 'Lo que entregas es tuyo'
+    l3_comprobacion: |
+    l4_colectivo: >-          # el plano colectivo, más allá de la asignatura
+    l4_casos_contraste: …     # contra qué se contrastan los casos dudosos
+    l4_casos_cierre: >-
+    l4_comprobacion: |
+```
+
+Las claves `_comprobacion` son listas numeradas en Markdown, así que usan `|` para
+conservar los saltos de línea. Las demás son texto corrido con `>-`.
+
+Añadir una clave nueva exige tocar la lección correspondiente en `_includes/lecciones/`:
+envuelve el texto común en `{% raw %}{% if t.clave %}…{% else %}…{% endif %}{% endraw %}`.
+
 ## Si no te encaja la lección común
 
 Los datos cubren la personalización habitual. Si tu materia necesita algo que no encaja,

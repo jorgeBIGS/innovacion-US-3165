@@ -119,7 +119,97 @@
   centro: Facultad de Ciencias Económicas y Empresariales
   rama: Economía y Empresa
   docente: José Antonio Troyano Jiménez
-  estado: borrador
+  estado: completo
+  contexto: >-
+    En esta asignatura la IA es una herramienta fundamental y te animamos a usarla: te
+    permite llevar una idea de marketing hasta una prueba de concepto, pero el mayor
+    riesgo es que la IA decida por ti. Tú conoces el dominio y detectas la necesidad; la
+    IA, como el profesorado en clase, hace de consultor técnico y analiza si es viable.
+  tareas:
+    - Traducir una necesidad de marketing a un problema de datos
+    - Explorar qué técnica encaja con tu idea de trabajo
+    - Escribir y adaptar código con pandas o scikit-learn
+    - Entender un error o un concepto técnico
+    - Interpretar resultados y convertirlos en recomendaciones
+  fallo:
+    pregunta: >-
+      Describe en dos frases una idea para tu trabajo de curso y, sin darle ningún dato,
+      pregúntale si es viable y qué porcentaje de acierto conseguirás.
+    esperado: >-
+      Suele responder que sí, proponer una técnica y hasta adelantar una cifra, sin haber
+      visto un solo dato. Repite la pregunta en otra conversación: es fácil que cambien la
+      técnica y la cifra.
+  peticiones:
+    - pobre: "Hazme el trabajo de curso."
+      mejor: >-
+        "Un gimnasio quiere anticipar qué socios se darán de baja; tengo su asistencia y
+        sus cuotas. Como consultor técnico: ¿qué tipo de problema es y qué me falta para
+        que sea viable?"
+    - pobre: "Dame el código para segmentar clientes."
+      mejor: >-
+        "Escribe el código para segmentar a estos clientes y dime, sin jerga, qué hace
+        cada bloque y qué has decidido por mí."
+    - pobre: "¿Está bien mi modelo?"
+      mejor: >-
+        "Mi modelo acierta el 94 % al predecir bajas, pero solo se va el 6 % de los
+        socios. ¿Qué comprobarías antes de fiarte?"
+  verificacion: >-
+    Tienes una ventaja: **puedes ejecutar**, y el código que falla se delata solo.
+    Comprueba qué datos entran en el modelo y con cuáles se evalúa, y desconfía de lo
+    demasiado bueno: un 99 % de acierto suele ser un error.
+  fuentes:
+    - Tus datos y lo que ocurre al ejecutar el código
+    - Los materiales y los ejemplos de las sesiones prácticas
+    - La documentación oficial de pandas, scikit-learn y matplotlib
+    - Tu propio conocimiento del mercado
+  riesgos:
+    - Dejar que elija por ti la necesidad de marketing
+    - Quedarte con la primera técnica que propone, sin comparar alternativas
+    - Presentar una prueba de concepto que no sabes explicar
+    - Sacar conclusiones de negocio de un resultado sin comprobar
+  casos:
+    - Pedirle que compare qué técnicas podrían resolver la necesidad que has detectado
+    - Pedirle que elija por ti el tema del trabajo
+    - Pedirle que escriba el código de tu prueba de concepto
+    - Pedirle datos sintéticos porque no consigues datos reales
+    - Subirle el fichero de clientes de la empresa donde haces prácticas
+    - Presentar una cifra de acierto que te dio la IA sin ejecutar el modelo
+  entrega: El trabajo de curso
+  textos:
+    l1_comprobacion: |
+      1. ¿Por qué un asistente de IA puede darte el porcentaje de acierto de un modelo que
+         nadie ha entrenado todavía?
+      2. Pon un ejemplo de tu trabajo de curso en el que te fiarías de la respuesta, y
+         otro en el que no.
+    l2_cierre: >-
+      **tú pones el problema y te reservas las decisiones**; la IA pone la técnica. Ese es
+      el criterio para saber si has pedido bien.
+    l2_riesgos_intro: >-
+      Aquí promovemos su uso, así que la pregunta es qué no debes cederle. Tu papel es el
+      de especialista en el dominio, y eso significa, sobre todo, evitar:
+    l2_comprobacion: |
+      1. Reescribir una petición tuya del tipo "hazme el trabajo" como un encargo a un
+         consultor técnico.
+      2. Explicar en qué punto de tu trabajo de curso te has atascado, y qué le pedirías.
+    l3_entrega: >-
+      No tiene sentido entregar la salida en bruto sin auditar. Tu trabajo de curso es
+      **tuyo** aunque la IA haya intervenido mucho, y de él respondes tú. Lo que tienes
+      que poder defender no es cada línea de código, sino cada decisión: la necesidad, la
+      técnica, los datos y lo que demuestra el resultado.
+    l3_comprobacion: |
+      1. Ante un código generado con IA, señalar las tres cosas que comprobarías primero.
+      2. Localizar una decisión que el código haya tomado por ti y decidir si la mantienes.
+    l4_colectivo: >-
+      Y más allá de la asignatura: estos sistemas heredan los sesgos de los datos con que
+      se entrenaron, igual que los modelos que tú construyas.
+    l4_casos_contraste: los objetivos de la asignatura
+    l4_casos_cierre: >-
+      Los que te salgan "dudoso" son los interesantes: son justo donde conviene
+      cuestionarse antes de dar nada por supuesto.
+    l4_comprobacion: |
+      1. Redactar la declaración de uso de tu trabajo de curso.
+      2. Explicar qué datos de clientes o de una empresa no introducirías nunca en uno de
+         estos sistemas, y por qué.
 
 - slug: contabilidad-directivos
   nombre: Contabilidad para Directivos de Empresas

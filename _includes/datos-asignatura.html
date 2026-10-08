@@ -4,6 +4,7 @@ Define: contexto, tareas, fallo, peticiones, verificacion, fuentes, riesgos, cas
 Requiere que 'a' sea la asignatura.
 {%- endcomment -%}
 {%- assign r = site.data.ramas[a.rama] -%}
+{%- assign t = a.textos -%}
 {%- if a.contexto -%}{%- assign contexto = a.contexto -%}{%- else -%}{%- assign contexto = r.contexto -%}{%- endif -%}
 {%- if a.tareas -%}{%- assign tareas = a.tareas -%}{%- else -%}{%- assign tareas = r.tareas -%}{%- endif -%}
 {%- if a.fallo -%}{%- assign fallo = a.fallo -%}{%- else -%}{%- assign fallo = r.fallo -%}{%- endif -%}
