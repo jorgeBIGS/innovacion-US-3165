@@ -18,7 +18,6 @@
   rama: Informática
   docente: Jorge García Gutiérrez
   estado: completo
-  formulario: https://forms.cloud.microsoft/e/Dk5YGCDZEs
   pesos: { d1: 20, d2: 40, d3: 25, d4: 15 }
   contexto: >-
     En programación la IA genera código en segundos. El riesgo no es que se equivoque:
@@ -176,6 +175,8 @@
     - Presentar una cifra de acierto que te dio la IA sin ejecutar el modelo
   entrega: El trabajo de curso
   textos:
+    l2_col_pobre: No te hace aprender
+    l2_col_mejor: Sí te hace aprender
     l1_comprobacion: |
       1. ¿Por qué un asistente de IA puede darte el porcentaje de acierto de un modelo que
          nadie ha entrenado todavía?

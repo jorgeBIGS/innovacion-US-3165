@@ -4,6 +4,10 @@ description: >-
   Sevilla: marco común, material base para el aula e instrumentos de valoración.
 lang: es
 github_url: https://github.com/jorgeBIGS/innovacion-US-3165
+
+# Formulario de autoevaluación común a toda la red. Una asignatura puede usar otro
+# definiendo 'formulario' en sus datos.
+formulario_comun: https://forms.cloud.microsoft/e/Dk5YGCDZEs
 url: https://jorgebigs.github.io
 baseurl: /innovacion-US-3165
 

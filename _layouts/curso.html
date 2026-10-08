@@ -3,6 +3,7 @@ layout: base
 ---
 {% assign a = site.data.asignaturas | where: "slug", page.asignatura | first %}
 {% include lecciones/titulos.html %}
+{% assign formulario = a.formulario | default: site.formulario_comun %}
 
 <header class="sitio">
   <p class="eyebrow"><a href="{{ '/' | relative_url }}">← Alfabetización en IA</a> · {{ a.centro }}</p>
@@ -38,14 +39,14 @@ layout: base
     <a class="card-link" href="{{ '/cursos/' | append: a.slug | append: '/leccion-' | append: n | append: '.html' | relative_url }}">Empezar →</a>
   </div>
   {% endfor %}
-  {% if a.formulario %}
+  {% if formulario %}
   <div class="card card-cierre">
     <span class="card-num">Al terminar</span>
     <p class="card-title">Autoevalúate</p>
     <p class="card-desc">Cuando hayas trabajado las cuatro lecciones, repite el
     cuestionario que respondiste al principio. Unos 10 minutos, anónimo y sin
     calificación: sirve para ver qué ha cambiado.</p>
-    <a class="card-link" href="{{ a.formulario }}">Abrir el formulario →</a>
+    <a class="card-link" href="{{ formulario }}">Abrir el formulario →</a>
   </div>
   {% else %}
   <div class="card card-pendiente">

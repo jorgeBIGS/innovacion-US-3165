@@ -43,12 +43,15 @@ Fundamentos de Programación, que está completa.
 
 ### El formulario de autoevaluación
 
+Toda la red comparte un mismo formulario, definido en `formulario_comun` dentro de
+`_config.yml`. Aparece como una tarjeta al final de las cuatro lecciones de cada curso, y
+no hay que hacer nada para que salga.
+
+Solo si una asignatura necesita el suyo propio:
+
 ```yaml
   formulario: https://…
 ```
-
-Es el enlace al formulario en línea donde tu alumnado **repite el cuestionario al terminar
-el curso**. Aparece como una tarjeta al final de las cuatro lecciones.
 
 Prepáralo con las mismas preguntas del
 [cuestionario de autopercepción](../instrumentos/cuestionario-autopercepcion.md) y pide en
