@@ -109,7 +109,73 @@
   centro: ETSII
   rama: Informática
   docente: Francisco José Galán Morillo
-  estado: borrador
+  estado: completo
+  # El contexto, la pregunta que falla y el párrafo de verificación son los comunes de
+  # Informática: su docente los mantiene tal cual.
+  tareas:
+    - Saber qué es un lenguaje formal y su procesamiento
+    - Conocer la metodología de diseño del procesador basada en la arquitectura de tuberías y filtros
+    - Diseñar la solución para un componente del procesador, argumentando las decisiones de diseño relevantes
+    - Construir la gramática o la gramática atribuida desde las decisiones de diseño
+    - Testar la solución
+    - Implementar la solución alcanzada con la tecnología ANTLR/Java, siguiendo la metodología de implementación de la asignatura
+    - Testar el programa resultante
+  peticiones:
+    - pobre: >-
+        Solucionar un problema de diseño relativo a un componente del procesador: analizador
+        léxico o sintáctico, analizador semántico, intérprete, traductor o compilador.
+      mejor: >-
+        Explicita las decisiones de diseño relevantes y justifica por qué.
+    - pobre: Construye la gramática o la gramática atribuida desde las decisiones relevantes.
+      mejor: >-
+        Argumenta por qué la gramática o la gramática atribuida satisface las decisiones de
+        diseño.
+    - pobre: Testar la gramática o la gramática atribuida.
+      mejor: >-
+        Encontrar posibles errores en la solución propuesta, acotar su origen y proponer una
+        reparación.
+    - pobre: Derivar la implementación ANTLR/Java desde la gramática o la gramática atribuida.
+      mejor: Argumenta por qué el programa resultante satisface la solución.
+    - pobre: >-
+        Testar el programa con los mismos ejemplos usados en el test de la gramática o la
+        gramática atribuida.
+      mejor: >-
+        Encontrar posibles errores de implementación, acotar su origen y proponer una
+        solución.
+  riesgos:
+    - >-
+      Cuando no se adapte a las descripciones usadas en clase: por ejemplo, cuando la
+      herramienta no genere gramáticas atribuidas con acciones semánticas expresadas en
+      lenguaje natural.
+    - >-
+      En los problemas más complejos, cuando al aportarle manualmente las decisiones
+      relevantes para que encuentre la solución, la máquina no consigue inferirla. Darte
+      cuenta de eso supone que sabes lo que es una solución.
+  riesgos_eticos:
+    - No comprender la esencia del problema
+    - Entregar una solución incompleta o incorrecta
+    - No saber trazar la solución desde el programa
+  fuentes:
+    - Justificación de la solución: los argumentos de diseño
+    - Resultados de los tests de la solución
+    - Justificación de la implementación: los argumentos de implementación
+    - Resultados de los tests del programa
+  entrega: La solución y su implementación ANTLR/Java
+  textos:
+    l1_comprobacion: |
+      1. ¿Las justificaciones que aporta la máquina implican una solución definitiva al
+         problema?
+      2. ¿Qué elementos de la justificación faltan o no están claros?
+      3. ¿Puede generar gramáticas o gramáticas atribuidas?
+      4. Si puede generarla, ¿es clara la trazabilidad entre el programa propuesto y la
+         gramática o la gramática atribuida?
+    l3_comprobar: |
+      1. **Verificar la solución**: las decisiones y la gramática resultantes.
+      2. **Verificar el programa resultante.**
+    l3_esfuerzo: |
+      - Valora el esfuerzo de reparar errores **en la solución**, para evitar que se
+        propaguen.
+      - Valora el esfuerzo de reparar errores **en la implementación**.
 
 - slug: mineria-datos-mercados
   nombre: Aplicaciones de la Minería de Datos a la Investigación de Mercados

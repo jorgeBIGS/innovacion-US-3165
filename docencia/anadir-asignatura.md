@@ -72,6 +72,7 @@ ninguna lección.
 | `fallo` | `pregunta` que provoca un fallo comprobable y qué cabe `esperado` | Lección 1 |
 | `peticiones` | Pares `pobre` / `mejor` con peticiones reales de tu materia | Lección 2 |
 | `riesgos` | Qué se pierde o qué daño hace un mal uso en tu disciplina | Lecciones 2 y 4 |
+| `riesgos_eticos` | Lista distinta para la lección 4, si lo que está en juego no es lo mismo que en la 2 | Lección 4 |
 | `verificacion` | Cómo se comprueba en tu materia, en un párrafo | Lección 3 |
 | `fuentes` | Tus fuentes de verdad, por orden | Lección 3 |
 | `casos` | Seis situaciones ambiguas para clasificar | Lección 4 |
@@ -128,6 +129,8 @@ que quiera sobrescribir; las que no estén, usan el texto común:
 ```yaml
   textos:
     l1_comprobacion: |        # lista de comprobación de la lección 1
+    l3_comprobar: |           # qué comprobar, en orden, en la lección 3
+    l3_esfuerzo: |            # cuánto esfuerzo dedicar a verificar
     l2_cierre: >-             # cierre de la tabla de peticiones
     l2_riesgos_intro: >-      # entradilla de 'Cuándo no usarla'
     l2_comprobacion: |
