@@ -303,7 +303,9 @@
   centro: Facultad de Medicina
   rama: Ciencias de la Salud
   docente: Laura Macías García
-  estado: borrador
+  # Revisada: usa los ejemplos comunes de Ciencias de la Salud, dados por buenos
+  # por la coordinación.
+  estado: completo
 
 - slug: anatomia-patologica-odontologia
   nombre: Anatomía Patológica (Odontología)
@@ -312,4 +314,6 @@
   centro: Facultad de Odontología
   rama: Ciencias de la Salud
   docente: Manuel Pérez Pérez
-  estado: borrador
+  # Revisada: usa los ejemplos comunes de Ciencias de la Salud, dados por buenos
+  # por la coordinación.
+  estado: completo
