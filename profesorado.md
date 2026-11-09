@@ -14,39 +14,43 @@ minutos de clase en todo el cuatrimestre.
 ## El procedimiento
 
 **0. Decide con qué comparas.** Si tienes varios grupos, unos hacen el curso y otros
-quedan de control. **Si solo tienes un grupo, pártelo en dos al azar**: la mitad hace el
+quedan de control. **Si solo tienes un grupo, pártelo en dos al azar**: una mitad hace el
 curso y la otra lo recibe al terminar la medición. Es mejor comparación que entre grupos
 distintos, porque las dos mitades comparten docencia, horario y pruebas.
 
-**1. Después, el cuestionario inicial.** En clase, **antes de decirles que el curso
-existe**. Reparte el consentimiento, recógelo firmado y pasa el cuestionario. Si tu
-alumnado llega con las lecciones ya leídas, esta medida no sirve: no estarías midiendo su
-punto de partida. Si has partido el grupo, lo responden **las dos mitades**.
+**1. Prepara los códigos.** Uno por estudiante, elegido por ti y que no salga de sus datos
+personales: vale una numeración por grupo. Si has partido el grupo, que la numeración
+distinga las mitades —`A-1xx` y `A-2xx`— y baraja la lista antes de repartirlos, para que
+el reparto sea al azar y sepas de qué mitad viene cada respuesta sin preguntar nada.
 
-**2. Dale a cada estudiante un código.** Lo eliges tú, cualquiera que no salga de sus
-datos personales: vale una numeración por grupo. Si has partido el grupo, que la
-numeración distinga las mitades —`A-1xx` y `A-2xx`—, y barájalas antes de repartir: así
-sabes de dónde viene cada respuesta sin preguntar nada. Lo escribe en el cuestionario inicial y
-tendrá que repetirlo al final, así que insiste en que lo conserve. Ese código es lo único
-que permite emparejar sus dos respuestas sin saber quién es.
+**2. Pasa el cuestionario inicial**, en clase y **antes de decirles que el curso existe**.
+Reparte el consentimiento y el código, recoge el consentimiento firmado y pasa el
+cuestionario. Si tu alumnado llega con las lecciones ya leídas, esta medida no sirve: no
+estarías midiendo su punto de partida.
 
-**3. Ahora sí, preséntales el curso.** Cuatro lecciones cortas que leen cuando quieren. Es
-voluntario y no se califica. El enlace de tu asignatura está en la portada de este sitio.
+Insiste en que conserve su código, porque tendrá que repetirlo al final: es lo único que
+permite emparejar sus dos respuestas sin saber quién es. Si partiste el grupo, el
+cuestionario lo responden **las dos mitades**.
 
-**4. Al terminar, el mismo cuestionario otra vez.** Con el mismo código, y con las dos
-mitades si partiste el grupo. En cuanto lo recojas, **abre el curso a la mitad que no lo
-tenía**: nadie se queda sin el material. Puedes volver a
-pasarlo en papel o montarlo como formulario en línea; si lo montas, pásame el enlace y
-aparecerá dentro de tu curso como la última tarjeta, para que cada estudiante lo responda
-al acabar.
+**3. Ahora sí, preséntales el curso.** Cuatro lecciones cortas que leen cuando quieren, y
+que les llevarán alrededor de una hora. Es voluntario y no se califica. El enlace de tu
+asignatura está en la portada de este sitio. Dales dos o tres semanas.
 
-**5. Envíame los resultados agregados por grupo.** Medias y distribuciones, nunca
-respuestas individuales ni nombres.
+**4. Pasa el mismo cuestionario otra vez**, con el mismo código y con las dos mitades si
+partiste el grupo. Puedes repetirlo en papel o montarlo como formulario en línea; si lo
+montas, pásame el enlace y aparecerá dentro de tu curso como última tarjeta, para que cada
+estudiante lo responda al acabar.
 
-Y si además evalúas a tu alumnado con una rúbrica tuya, puedes aportar la comparación
-entre un grupo que haya hecho el curso y otro que no. Para que sea agregable con el resto
-de la red, cada ítem de tu rúbrica tiene que estar asignado a una de las cuatro
-dimensiones y llevar un peso.
+En cuanto lo recojas, **abre el curso a la mitad que no lo tenía**: nadie se queda sin el
+material.
+
+**5. Envíame los resultados agregados**, por grupo o por mitad. Medias y distribuciones,
+nunca respuestas individuales ni nombres.
+
+Y si además evalúas a tu alumnado con una rúbrica tuya, puedes aportar esa comparación
+entre quienes hicieron el curso y quienes no. Para que sea agregable con el resto de la
+red, cada ítem de tu rúbrica tiene que estar asignado a una de las cuatro dimensiones y
+llevar un peso.
 
 ## Los documentos
 
