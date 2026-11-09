@@ -41,10 +41,12 @@ tu curso como última tarjeta, para que cada estudiante lo responda al acabar.
 respuestas individuales ni nombres. Si comparas con el curso pasado, mándame también sus
 distribuciones y cuántos estudiantes había, para poder interpretarlas.
 
-Y si además evalúas a tu alumnado con una rúbrica tuya, puedes aportar esa comparación
-entre quienes hicieron el curso y quienes no, sean otro grupo o la promoción anterior.
-Para que sea agregable con el resto de la red, cada ítem de tu rúbrica tiene que estar
-asignado a una de las cuatro dimensiones y llevar un peso.
+Y si además evalúas a tu alumnado con una rúbrica tuya, para que sea agregable con el
+resto de la red cada ítem tiene que estar asignado a una de las cuatro dimensiones y
+llevar un peso. Si tienes grupo de control, evalúa igual a los dos y tendrás una
+comparación; **si no lo tienes, la rúbrica describe a tu grupo y ahí se queda**: no se
+puede aplicar a la promoción anterior, que trabajó en otras condiciones y a la que no
+evaluaste con ella.
 
 ## Los documentos
 

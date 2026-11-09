@@ -42,9 +42,10 @@ la modalidad A, y es la vía principal de evaluación del proyecto.
 - **Documentar las diferencias entre promociones**: número de matriculados y de
   presentados, y lo que sepas de su perfil de partida. Sin eso no se puede descontar nada
   al interpretar.
-- **Si quieres comparar también con la rúbrica**, hay que aplicarla a trabajos conservados
-  del curso pasado, con los mismos ítems y pesos. Es trabajo real; si no lo haces, la
-  rúbrica se queda como descripción de este curso.
+- **La rúbrica no entra en esta comparación.** No se puede aplicar al curso anterior: su
+  alumnado trabajó en otras condiciones y nadie lo evaluó con ella. En esta modalidad la
+  rúbrica describe al grupo de este curso, y la comparación con la promoción anterior
+  descansa solo en las calificaciones.
 
 **Cómo se interpreta.** Entre dos promociones cambian los estudiantes, puede cambiar la
 prueba y cambia el uso que el alumnado hace de la IA, que crece deprisa de un año a otro

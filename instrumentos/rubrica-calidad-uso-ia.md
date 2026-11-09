@@ -62,6 +62,10 @@ Para que la comparación signifique algo, las dos evaluaciones tienen que ser eq
 la misma rúbrica, los mismos pesos, el mismo tipo de trabajo evaluado y, en la medida de
 lo posible, las mismas condiciones.
 
+**Si no tienes grupo de control**, la rúbrica no da comparación: describe a tu grupo. No
+sirve aplicarla a la promoción anterior, que trabajó en otras condiciones y a la que no
+evaluaste con ella.
+
 **Dos limitaciones** que conviene recordar al interpretar: los grupos pueden no ser
 equivalentes de partida, y eres a la vez quien propone la intervención y quien evalúa. Por
 eso este dato se lee junto al cuestionario pre/post, no solo.
