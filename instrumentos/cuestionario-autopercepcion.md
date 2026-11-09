@@ -18,7 +18,7 @@ sólo los bloques que se le entregan, sin esta ficha metodológica.
 | --- | --- | --- |
 | A | Datos de contexto | 5 |
 | B | Competencia percibida, por dimensión del marco | 16 |
-| C | Uso declarado | 4 |
+| C | Uso declarado | 4, más uno solo en la medida final |
 
 Duración estimada: 10–12 minutos. Se administra en clase, con
 [consentimiento informado](protocolo-aplicacion.md), y se responde de forma anónima con
@@ -84,6 +84,16 @@ código de emparejamiento.
     Depende de la tarea.
 19. ¿Compruebas lo que te responde? Nunca · A veces · Casi siempre · Siempre.
 20. ¿Declaras su uso en tus entregas? Nunca · Solo si lo piden · Siempre.
+
+**Solo en la medida final:**
+
+21. ¿Cuántas de las cuatro lecciones del curso has leído? Ninguna · Una · Dos · Tres ·
+    Las cuatro.
+
+> Este ítem mide el cumplimiento, y sin él no se puede interpretar un resultado plano: no
+> se distinguiría «el material no cambia nada» de «no lo leyeron». En la modalidad de
+> grupo partido en dos sirve además para detectar la contaminación, porque lo responden
+> también quienes estaban en la mitad de control.
 
 <!-- alumnado:fin -->
 

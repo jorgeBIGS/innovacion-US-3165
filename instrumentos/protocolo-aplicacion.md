@@ -3,17 +3,56 @@
 Cómo se recogen los datos del proyecto, de modo que todas las asignaturas lo hagan igual y
 el tratamiento sea correcto.
 
-## Calendario
+## Dos modalidades
+
+Según lo que tenga cada asignatura.
+
+### A. Con grupos paralelos
+
+Unos grupos hacen el curso y otros no.
 
 | Momento | Qué se aplica | A quién |
 | --- | --- | --- |
-| Antes de la primera actividad | Consentimiento · Cuestionario de autopercepción | Grupos intervenidos |
-| Durante el cuatrimestre | Actividades de alfabetización | Grupos intervenidos |
+| Antes de dar a conocer el curso | Consentimiento · Cuestionario | Grupos intervenidos |
+| Durante el cuatrimestre | El alumnado trabaja el curso | Grupos intervenidos |
 | Al final | El mismo cuestionario de nuevo | Grupos intervenidos |
-| Al final | Rúbrica de calidad de uso | **Todos** los grupos |
-| Al cerrar actas | Distribuciones agregadas de calificaciones | Grupos intervenidos y de control, con pruebas comunes |
+| Al corregir | La rúbrica del docente | **Todos** los grupos |
+| Al cerrar actas | Distribuciones agregadas de calificaciones | Intervenidos y de control, con pruebas comunes |
 
-Las asignaturas sin grupos paralelos participan solo con la medición pre/post.
+### B. Grupo único partido en dos
+
+**Es la modalidad recomendada cuando no hay grupo de control**, y en realidad es mejor
+diseño que la anterior: al repartir al azar dentro del mismo grupo desaparece la duda de
+si los grupos eran equivalentes de partida. Misma docencia, mismo horario, mismas pruebas
+y mismo corrector.
+
+| Momento | Qué se aplica | A quién |
+| --- | --- | --- |
+| Antes de dar a conocer el curso | Consentimiento · Cuestionario | **Las dos mitades** |
+| Durante el periodo | El alumnado trabaja el curso | Solo la mitad intervenida |
+| Al final | El mismo cuestionario de nuevo | **Las dos mitades** |
+| Justo después | Se abre el curso a la mitad de control | Lista de espera |
+| Al corregir | La rúbrica del docente | Las dos mitades |
+| Al cerrar actas | Distribuciones agregadas de calificaciones | Las dos mitades |
+
+Que las dos mitades respondan el cuestionario es lo que hace fuerte esta modalidad:
+puedes comparar cuánto cambia quien hizo el curso frente a cuánto cambia quien no lo
+hizo, en el mismo periodo y con la misma docencia.
+
+**El reparto, al azar.** Baraja la lista de clase y asigna los códigos ya separados por
+mitad: `FP-A-1xx` para la mitad que hace el curso y `FP-A-2xx` para la de control. Así
+sabes de qué mitad viene cada respuesta sin preguntar nada ni identificar a nadie.
+
+**Lista de espera.** En cuanto recojas el cuestionario final, dale el curso a la mitad de
+control. No se puede dejar a media clase sin un material que ayuda, y así todos acaban
+teniéndolo.
+
+**Tres cautelas.** La contaminación es el riesgo real: son compañeros y el curso está
+publicado en abierto, así que pídeles expresamente que esperen y mantén el periodo corto.
+El ítem de cumplimiento del cuestionario final —cuántas lecciones ha leído cada
+estudiante— sirve para detectarla. Y ten en cuenta el tamaño: partir en dos reduce a la
+mitad lo que la comparación puede detectar, así que con grupos pequeños el resultado será
+poco concluyente.
 
 ## Código de emparejamiento
 

@@ -27,6 +27,7 @@ siguiendo el [cuestionario](cuestionario-autopercepcion.md).
 | B | Los 16 ítems de competencia percibida | **Likert**, escala 1–5 |
 | C | Tareas en las que has usado IA | Opción, varias respuestas |
 | C | Qué sueles pedirle · Si compruebas · Si lo declaras | Opción |
+| C | Cuántas lecciones has leído (**solo en el formulario final**) | Opción |
 
 El tipo **Likert** permite meter varias afirmaciones en una sola pregunta con la misma
 escala: monta cuatro, una por dimensión, con sus cuatro ítems. El cuestionario queda en

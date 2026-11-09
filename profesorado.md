@@ -13,20 +13,29 @@ minutos de clase en todo el cuatrimestre.
 
 ## El procedimiento
 
-**1. Antes de nada, el cuestionario inicial.** En clase, **antes de decirles que el curso
+**0. Decide con qué comparas.** Si tienes varios grupos, unos hacen el curso y otros
+quedan de control. **Si solo tienes un grupo, pártelo en dos al azar**: la mitad hace el
+curso y la otra lo recibe al terminar la medición. Es mejor comparación que entre grupos
+distintos, porque las dos mitades comparten docencia, horario y pruebas.
+
+**1. Después, el cuestionario inicial.** En clase, **antes de decirles que el curso
 existe**. Reparte el consentimiento, recógelo firmado y pasa el cuestionario. Si tu
 alumnado llega con las lecciones ya leídas, esta medida no sirve: no estarías midiendo su
-punto de partida.
+punto de partida. Si has partido el grupo, lo responden **las dos mitades**.
 
 **2. Dale a cada estudiante un código.** Lo eliges tú, cualquiera que no salga de sus
-datos personales: vale una numeración por grupo. Lo escribe en el cuestionario inicial y
+datos personales: vale una numeración por grupo. Si has partido el grupo, que la
+numeración distinga las mitades —`A-1xx` y `A-2xx`—, y barájalas antes de repartir: así
+sabes de dónde viene cada respuesta sin preguntar nada. Lo escribe en el cuestionario inicial y
 tendrá que repetirlo al final, así que insiste en que lo conserve. Ese código es lo único
 que permite emparejar sus dos respuestas sin saber quién es.
 
 **3. Ahora sí, preséntales el curso.** Cuatro lecciones cortas que leen cuando quieren. Es
 voluntario y no se califica. El enlace de tu asignatura está en la portada de este sitio.
 
-**4. Al terminar, el mismo cuestionario otra vez.** Con el mismo código. Puedes volver a
+**4. Al terminar, el mismo cuestionario otra vez.** Con el mismo código, y con las dos
+mitades si partiste el grupo. En cuanto lo recojas, **abre el curso a la mitad que no lo
+tenía**: nadie se queda sin el material. Puedes volver a
 pasarlo en papel o montarlo como formulario en línea; si lo montas, pásame el enlace y
 aparecerá dentro de tu curso como la última tarjeta, para que cada estudiante lo responda
 al acabar.
