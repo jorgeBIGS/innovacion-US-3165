@@ -19,40 +19,38 @@ Unos grupos hacen el curso y otros no.
 | Al corregir | La rúbrica del docente | **Todos** los grupos |
 | Al cerrar actas | Distribuciones agregadas de calificaciones | Intervenidos y de control, con pruebas comunes |
 
-### B. Grupo único partido en dos
+### B. Sin grupo de control: comparación con el curso anterior
 
-**Es la modalidad recomendada cuando no hay grupo de control**, y en realidad es mejor
-diseño que la anterior: al repartir al azar dentro del mismo grupo desaparece la duda de
-si los grupos eran equivalentes de partida. Misma docencia, mismo horario, mismas pruebas
-y mismo corrector.
+Cuando la asignatura tiene un solo grupo, **todo el grupo hace el curso** y la referencia
+es la promoción del año pasado.
 
 | Momento | Qué se aplica | A quién |
 | --- | --- | --- |
-| Antes de dar a conocer el curso | Consentimiento · Cuestionario | **Las dos mitades** |
-| Durante el periodo | El alumnado trabaja el curso | Solo la mitad intervenida |
-| Al final | El mismo cuestionario de nuevo | **Las dos mitades** |
-| Justo después | Se abre el curso a la mitad de control | Lista de espera |
-| Al corregir | La rúbrica del docente | Las dos mitades |
-| Al cerrar actas | Distribuciones agregadas de calificaciones | Las dos mitades |
+| Antes de dar a conocer el curso | Consentimiento · Cuestionario | Todo el grupo |
+| Durante el cuatrimestre | El alumnado trabaja el curso | Todo el grupo |
+| Al final | El mismo cuestionario de nuevo | Todo el grupo |
+| Al corregir | La rúbrica del docente | Todo el grupo |
+| Al cerrar actas | Distribuciones agregadas de calificaciones | Este curso frente al anterior |
 
-Que las dos mitades respondan el cuestionario es lo que hace fuerte esta modalidad:
-puedes comparar cuánto cambia quien hizo el curso frente a cuánto cambia quien no lo
-hizo, en el mismo periodo y con la misma docencia.
+La medida pre/post del cuestionario no depende de la comparación: la tienes igual que en
+la modalidad A, y es la vía principal de evaluación del proyecto.
 
-**El reparto, al azar.** Baraja la lista de clase y asigna los códigos ya separados por
-mitad: `FP-A-1xx` para la mitad que hace el curso y `FP-A-2xx` para la de control. Así
-sabes de qué mitad viene cada respuesta sin preguntar nada ni identificar a nadie.
+**Condiciones para que la comparación con el curso anterior diga algo:**
 
-**Lista de espera.** En cuanto recojas el cuestionario final, dale el curso a la mitad de
-control. No se puede dejar a media clase sin un material que ayuda, y así todos acaban
-teniéndolo.
+- **La misma prueba.** Si el examen o el trabajo evaluado cambió respecto al año pasado,
+  las distribuciones no son comparables y no hay nada que hacer.
+- **Documentar las diferencias entre promociones**: número de matriculados y de
+  presentados, y lo que sepas de su perfil de partida. Sin eso no se puede descontar nada
+  al interpretar.
+- **Si quieres comparar también con la rúbrica**, hay que aplicarla a trabajos conservados
+  del curso pasado, con los mismos ítems y pesos. Es trabajo real; si no lo haces, la
+  rúbrica se queda como descripción de este curso.
 
-**Tres cautelas.** La contaminación es el riesgo real: son compañeros y el curso está
-publicado en abierto, así que pídeles expresamente que esperen y mantén el periodo corto.
-El ítem de cumplimiento del cuestionario final —cuántas lecciones ha leído cada
-estudiante— sirve para detectarla. Y ten en cuenta el tamaño: partir en dos reduce a la
-mitad lo que la comparación puede detectar, así que con grupos pequeños el resultado será
-poco concluyente.
+**Cómo se interpreta.** Entre dos promociones cambian los estudiantes, puede cambiar la
+prueba y cambia el uso que el alumnado hace de la IA, que crece deprisa de un año a otro
+por razones ajenas al proyecto. Por eso esta comparación se presenta como **descriptiva**:
+describe lo observado entre dos cursos, no demuestra que lo cause la intervención. Esa
+limitación se hace constar al difundir los resultados.
 
 ## Código de emparejamiento
 

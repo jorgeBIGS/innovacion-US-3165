@@ -91,9 +91,9 @@ código de emparejamiento.
     Las cuatro.
 
 > Este ítem mide el cumplimiento, y sin él no se puede interpretar un resultado plano: no
-> se distinguiría «el material no cambia nada» de «no lo leyeron». En la modalidad de
-> grupo partido en dos sirve además para detectar la contaminación, porque lo responden
-> también quienes estaban en la mitad de control.
+> se distinguiría «el material no cambia nada» de «no lo leyeron». También permite
+> comparar el cambio de quienes leyeron las cuatro lecciones con el de quienes no
+> abrieron ninguna, dentro del mismo grupo.
 
 <!-- alumnado:fin -->
 
