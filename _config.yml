@@ -5,8 +5,14 @@ description: >-
 lang: es
 github_url: https://github.com/jorgeBIGS/innovacion-US-3165
 
-# Formulario de autoevaluación común a toda la red. Una asignatura puede usar otro
-# definiendo 'formulario' en sus datos.
+# Formularios en línea, idénticos y comunes a toda la red: así todas las respuestas
+# quedan en dos hojas que recoge la coordinación, y la pregunta de asignatura y grupo
+# permite separarlas. Una asignatura puede usar los suyos con 'formulario_inicial' o
+# 'formulario' en sus datos, pero entonces sus respuestas quedan fuera de esas hojas.
+#
+# El inicial NO se enlaza desde el curso: lo pasa el docente en clase, antes de que el
+# alumnado vea ninguna lección. El final sí, como última tarjeta del curso.
+formulario_inicial_comun:
 formulario_comun: https://forms.cloud.microsoft/e/Dk5YGCDZEs
 url: https://jorgebigs.github.io
 baseurl: /innovacion-US-3165

@@ -27,6 +27,11 @@ Reparte el consentimiento y el código, recoge el consentimiento firmado y pasa 
 cuestionario. Si tu alumnado llega con las lecciones ya leídas, esta medida no sirve: no
 estarías midiendo su punto de partida.
 
+Puedes pasarlo **en papel o en línea**: si lo prefieres en línea, usa el enlace del
+cuestionario inicial de la tabla de abajo y proyéctalo en clase. Ese enlace no está en el
+curso ni se publica en ninguna parte, justo para que nadie lo responda después de haber
+leído las lecciones.
+
 Insiste en que conserve su código, porque tendrá que repetirlo al final.
 
 **3. Ahora sí, preséntales el curso.** Cuatro lecciones cortas que leen cuando quieren, y
@@ -53,10 +58,28 @@ evaluaste con ella.
 | | |
 | --- | --- |
 | **[Consentimiento informado]({{ '/descargas/consentimiento-informado.docx' | relative_url }})** | Se firma antes del cuestionario inicial. Pon el nombre de tu asignatura |
-| **[Cuestionario]({{ '/descargas/cuestionario-autopercepcion.docx' | relative_url }})** | El mismo al principio y al final |
+| **[Cuestionario]({{ '/descargas/cuestionario-autopercepcion.docx' | relative_url }})** | En papel. El mismo al principio y al final |
 | **[Ficha de calibración]({{ '/descargas/ficha-calibracion.docx' | relative_url }})** | El peso de cada dimensión en tu materia |
 | **[Plantilla de calificaciones]({{ '/descargas/plantilla-distribucion-calificaciones.docx' | relative_url }})** | Para enviar distribuciones agregadas |
 | **[Plantilla de rúbrica]({{ '/descargas/plantilla-rubrica-agregada.docx' | relative_url }})** | Para enviar los resultados de tu rúbrica |
+
+### En línea, si lo prefieres
+
+{% assign inicial = site.formulario_inicial_comun %}
+| | |
+| --- | --- |
+| **Cuestionario inicial** | {% if inicial %}<{{ inicial }}>{% else %}*En preparación. Pídemelo y te paso el enlace.*{% endif %} · Lo abres tú en clase; no está enlazado desde el curso |
+| **Cuestionario final** | <{{ site.formulario_comun }}> · Ya aparece dentro de cada curso, como última tarjeta |
+
+**Son el mismo cuestionario, con las mismas preguntas.** Lo que distingue una medida de
+otra es el formulario en el que se responde, cada uno con su propia hoja de respuestas.
+
+Los dos piden el **código de emparejamiento**, así que el alumnado tiene que llevarlo
+encima las dos veces, y los dos preguntan **asignatura y grupo**: son comunes a toda la
+red, y esa pregunta es la que permite separar después las respuestas de cada asignatura.
+
+Úsalos tal cual. Si una asignatura monta los suyos por su cuenta, sus respuestas quedan en
+otra hoja y hay que recomponerlas a mano.
 
 ## Dos cosas que no pueden fallar
 

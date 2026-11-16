@@ -1,8 +1,24 @@
 # Montar el cuestionario en Microsoft Forms
 
-El formulario en línea sirve para la **medida final**, la que el alumnado repite al
-terminar el curso desde la tarjeta «Autoevalúate». La medida inicial se pasa en clase,
-antes de que vea ninguna lección.
+Hacen falta **dos formularios idénticos**, uno por medida. Las mismas preguntas en los
+dos: lo que distingue una medida de otra es en cuál se responde, porque cada formulario
+tiene su propia hoja de respuestas.
+
+- **El inicial** lo pasa el docente en clase, antes de que el alumnado vea ninguna
+  lección. **No se enlaza desde el curso ni se publica**: el docente lo abre o lo proyecta
+  en clase. Si el enlace circulase, cualquiera podría responderlo después de haber leído
+  las lecciones y la medida de partida dejaría de serlo.
+- **El final** aparece como la tarjeta «Autoevalúate» al terminar el curso.
+
+Móntalo una vez y **duplícalo** en Forms: así son idénticos sin esfuerzo.
+
+**Los dos son comunes a toda la red**, de modo que la coordinación recoge en dos hojas
+todas las respuestas. Por eso la pregunta de asignatura y grupo es imprescindible: es lo
+único que permite separarlas después.
+
+La pregunta sobre cuántas lecciones ha leído va también en el inicial, aunque ahí la
+respuesta esperable sea «ninguna»: sirve de comprobación de que nadie llega al
+cuestionario con el curso ya leído.
 
 Usa tu cuenta institucional de la Universidad de Sevilla, no una personal: así las
 respuestas quedan en el entorno de la Universidad.
