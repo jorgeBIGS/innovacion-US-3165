@@ -65,16 +65,15 @@ evaluaste con ella.
 
 ### En línea, si lo prefieres
 
-{% assign inicial = site.formulario_inicial_comun %}
-| | |
-| --- | --- |
-| **Cuestionario inicial** | {% if inicial %}<{{ inicial }}>{% else %}*En preparación. Pídemelo y te paso el enlace.*{% endif %} · Lo abres tú en clase |
-| **Cuestionario final** | <{{ site.formulario_comun }}> · Repártelo por Enseñanza Virtual o en clase |
+Hay dos formularios idénticos, uno para cada medida, comunes a toda la red: así todas las
+respuestas quedan recogidas juntas y la pregunta de asignatura y grupo permite separarlas
+después.
 
-Ninguno de los dos se publica en el curso ni en ninguna otra página: los reparte el
-docente. Súmale el ajuste de Forms que restringe las respuestas a la Universidad, con el
-registro del nombre desactivado, y solo responde quien tú quieres, sin dejar de ser
-anónimo.
+**Sus enlaces no se publican aquí ni en ninguna otra página.** Pídemelos y te paso los
+códigos QR para que los proyectes en clase: el inicial antes de presentar el curso y el
+final cuando hayan terminado. Además están restringidos en Forms a las personas de la
+Universidad, con el registro del nombre desactivado, así que solo responde tu alumnado y
+la respuesta sigue siendo anónima.
 
 **Son el mismo cuestionario, con las mismas preguntas.** Lo que distingue una medida de
 otra es el formulario en el que se responde, cada uno con su propia hoja de respuestas.

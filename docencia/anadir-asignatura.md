@@ -43,13 +43,9 @@ Fundamentos de Programación, que está completa.
 
 ### Los formularios
 
-Toda la red comparte dos formularios idénticos, el inicial y el final, definidos en
-`_config.yml`. **No se enlazan desde los cursos**: los reparte cada docente, y sus
-enlaces solo figuran en la página del profesorado.
-
-Los campos `formulario_inicial` y `formulario` de una asignatura permiten apuntar a otros
-propios, pero entonces sus respuestas quedan fuera de las hojas comunes y hay que
-recomponerlas a mano.
+Toda la red comparte dos formularios idénticos, el inicial y el final. **Sus enlaces no
+están en este repositorio ni en el sitio**, que son públicos: los reparte la coordinación
+al profesorado como códigos QR.
 
 Prepáralo con las mismas preguntas del
 [cuestionario de autopercepción](../instrumentos/cuestionario-autopercepcion.md) y pide en
