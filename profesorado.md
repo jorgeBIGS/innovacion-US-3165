@@ -18,6 +18,10 @@ quedan de control. **Si solo tienes un grupo, lo hace entero** y la referencia s
 promoción del curso pasado: para eso, lo que evalúes tiene que ser la misma prueba que el
 año anterior.
 
+Cuándo lo haces, en qué cuatrimestre y si lo pasas en papel o en línea lo decides tú.
+Lo único que necesito saber es **qué has elegido**: con qué comparas, cuántos grupos
+entran y en qué fechas. Sin eso no puedo agregar los resultados de la red.
+
 **1. Prepara los códigos.** Uno por estudiante, elegido por ti y que no salga de sus datos
 personales: vale una numeración por grupo. Sirven para emparejar las dos respuestas de
 cada estudiante sin saber quién es.
