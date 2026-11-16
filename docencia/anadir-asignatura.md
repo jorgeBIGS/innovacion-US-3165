@@ -41,17 +41,15 @@ Fundamentos de Programación, que está completa.
   pesos: { d1: 20, d2: 40, d3: 25, d4: 15 }
 ```
 
-### El formulario de autoevaluación
+### Los formularios
 
-Toda la red comparte un mismo formulario, definido en `formulario_comun` dentro de
-`_config.yml`. Aparece como una tarjeta al final de las cuatro lecciones de cada curso, y
-no hay que hacer nada para que salga.
+Toda la red comparte dos formularios idénticos, el inicial y el final, definidos en
+`_config.yml`. **No se enlazan desde los cursos**: los reparte cada docente, y sus
+enlaces solo figuran en la página del profesorado.
 
-Solo si una asignatura necesita el suyo propio:
-
-```yaml
-  formulario: https://…
-```
+Los campos `formulario_inicial` y `formulario` de una asignatura permiten apuntar a otros
+propios, pero entonces sus respuestas quedan fuera de las hojas comunes y hay que
+recomponerlas a mano.
 
 Prepáralo con las mismas preguntas del
 [cuestionario de autopercepción](../instrumentos/cuestionario-autopercepcion.md) y pide en

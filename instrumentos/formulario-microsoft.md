@@ -8,7 +8,8 @@ tiene su propia hoja de respuestas.
   lección. **No se enlaza desde el curso ni se publica**: el docente lo abre o lo proyecta
   en clase. Si el enlace circulase, cualquiera podría responderlo después de haber leído
   las lecciones y la medida de partida dejaría de serlo.
-- **El final** aparece como la tarjeta «Autoevalúate» al terminar el curso.
+- **El final** lo reparte el docente por Enseñanza Virtual o en clase, cuando el
+  alumnado ha terminado el curso. Tampoco se publica.
 
 Móntalo una vez y **duplícalo** en Forms: así son idénticos sin esfuerzo.
 
@@ -84,11 +85,20 @@ Sin ese código, las respuestas del principio y del final no se pueden cruzar y 
 comparación pre/post se pierde. Es el error más caro de todo el proceso, y no tiene
 arreglo después, así que recuérdaselo también en clase antes de abrir el formulario.
 
-## 6. Publicar el enlace
+## 6. Control de acceso
 
-Copia el enlace para responder y ponlo en el campo `formulario` de tu asignatura; véase
-[cómo añadir tu asignatura](../docencia/anadir-asignatura.md). Aparecerá como la tarjeta
-«Autoevalúate» al final de tu curso.
+En *Configuración*, cambia «Cualquier persona puede responder» por **«Solo las personas
+de mi organización»**: así hace falta la cuenta de la Universidad y nadie de fuera entra
+aunque tenga el enlace.
+
+Esa opción **activa el registro del nombre**, que rompe el anonimato prometido en el
+consentimiento: junto a ella hay un interruptor de «Registrar nombre» que hay que
+**desactivar**. Comprueba que queda así antes de repartirlo, y revísalo también en los
+formularios ya montados.
+
+El enlace no se publica en ninguna página: lo reparte el docente por Enseñanza Virtual o
+en clase. El código de emparejamiento hace de último filtro, porque una respuesta sin
+código válido se descarta al analizar.
 
 ## 7. Recoger los resultados
 

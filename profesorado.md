@@ -38,9 +38,9 @@ Insiste en que conserve su código, porque tendrá que repetirlo al final.
 que les llevarán alrededor de una hora. Es voluntario y no se califica. El enlace de tu
 asignatura está en la portada de este sitio. Dales dos o tres semanas.
 
-**4. Pasa el mismo cuestionario otra vez**, con el mismo código. Puedes repetirlo en papel
-o montarlo como formulario en línea; si lo montas, pásame el enlace y aparecerá dentro de
-tu curso como última tarjeta, para que cada estudiante lo responda al acabar.
+**4. Pasa el mismo cuestionario otra vez**, con el mismo código. En papel, o repartiendo
+el enlace del formulario final **por Enseñanza Virtual o en clase**. Los enlaces no están
+publicados en el curso: los repartes tú, para que solo responda tu alumnado.
 
 **5. Envíame los resultados agregados por grupo.** Medias y distribuciones, nunca
 respuestas individuales ni nombres. Si comparas con el curso pasado, mándame también sus
@@ -68,8 +68,13 @@ evaluaste con ella.
 {% assign inicial = site.formulario_inicial_comun %}
 | | |
 | --- | --- |
-| **Cuestionario inicial** | {% if inicial %}<{{ inicial }}>{% else %}*En preparación. Pídemelo y te paso el enlace.*{% endif %} · Lo abres tú en clase; no está enlazado desde el curso |
-| **Cuestionario final** | <{{ site.formulario_comun }}> · Ya aparece dentro de cada curso, como última tarjeta |
+| **Cuestionario inicial** | {% if inicial %}<{{ inicial }}>{% else %}*En preparación. Pídemelo y te paso el enlace.*{% endif %} · Lo abres tú en clase |
+| **Cuestionario final** | <{{ site.formulario_comun }}> · Repártelo por Enseñanza Virtual o en clase |
+
+Ninguno de los dos se publica en el curso ni en ninguna otra página: los reparte el
+docente. Súmale el ajuste de Forms que restringe las respuestas a la Universidad, con el
+registro del nombre desactivado, y solo responde quien tú quieres, sin dejar de ser
+anónimo.
 
 **Son el mismo cuestionario, con las mismas preguntas.** Lo que distingue una medida de
 otra es el formulario en el que se responde, cada uno con su propia hoja de respuestas.
