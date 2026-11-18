@@ -22,9 +22,9 @@ Cuándo lo haces, en qué cuatrimestre y si lo pasas en papel o en línea lo dec
 Lo único que necesito saber es **qué has elegido**: con qué comparas, cuántos grupos
 entran y en qué fechas. Sin eso no puedo agregar los resultados de la red.
 
-**1. El código lo construye cada estudiante, no se lo das tú.** Como entre las dos
-medidas pasan semanas, un código repartido se pierde; uno construido con una regla se
-recalcula:
+**1. Das la regla del código, no el código.** Como entre las dos medidas pasan semanas, un
+código repartido se pierde; uno que cada estudiante construye con una regla se recalcula
+cuando haga falta. La regla que explicas, las dos veces, es esta:
 
 > Dos primeras letras del nombre de tu madre + el día de tu cumpleaños con dos dígitos +
 > dos primeras letras de tu ciudad de nacimiento. *Carmen · 7 de marzo · Sevilla →
