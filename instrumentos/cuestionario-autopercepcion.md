@@ -16,11 +16,13 @@ sólo los bloques que se le entregan, sin esta ficha metodológica.
 
 | Bloque | Contenido | Ítems |
 | --- | --- | --- |
-| A | Datos de contexto | 5 |
+| A | Datos de contexto | 6 |
 | B | Competencia percibida, por dimensión del marco | 16 |
 | C | Uso declarado | 5 |
 
-Duración estimada: 10–12 minutos. Se administra en clase, con
+El código es el único dato que permite unir las dos respuestas de cada estudiante, y se
+construye con una regla en vez de entregarse, porque entre una medida y otra pasan
+semanas. Duración estimada: 10–12 minutos. Se administra en clase, con
 [consentimiento informado](protocolo-aplicacion.md), y se responde de forma anónima con
 código de emparejamiento.
 
@@ -28,12 +30,15 @@ código de emparejamiento.
 
 ## Bloque A. Contexto
 
-1. El código que te dio tu docente al principio del curso (**no** tu nombre ni tu
-   matrícula).
-2. Asignatura y grupo.
-3. Curso más alto en el que estás matriculado.
-4. ¿Has recibido antes formación específica sobre IA generativa? Sí / No.
-5. ¿Con qué frecuencia usas IA generativa para tareas académicas? Nunca / Alguna vez al
+1. **Tu código.** Constrúyelo así: dos primeras letras del nombre de tu madre + el día de
+   tu cumpleaños con dos dígitos + dos primeras letras de tu ciudad de nacimiento. En
+   mayúsculas y sin tildes. *Carmen · 7 de marzo · Sevilla → `CA07SE`.* Lo repetirás al
+   final del curso, y si lo olvidas puedes volver a construirlo.
+2. Mes de nacimiento.
+3. Asignatura y grupo.
+4. Curso más alto en el que estás matriculado.
+5. ¿Has recibido antes formación específica sobre IA generativa? Sí / No.
+6. ¿Con qué frecuencia usas IA generativa para tareas académicas? Nunca / Alguna vez al
    mes / Alguna vez a la semana / Casi a diario.
 
 ## Bloque B. Competencia percibida

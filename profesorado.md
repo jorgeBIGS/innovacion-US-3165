@@ -22,9 +22,17 @@ Cuándo lo haces, en qué cuatrimestre y si lo pasas en papel o en línea lo dec
 Lo único que necesito saber es **qué has elegido**: con qué comparas, cuántos grupos
 entran y en qué fechas. Sin eso no puedo agregar los resultados de la red.
 
-**1. Prepara los códigos.** Uno por estudiante, elegido por ti y que no salga de sus datos
-personales: vale una numeración por grupo. Sirven para emparejar las dos respuestas de
-cada estudiante sin saber quién es.
+**1. El código lo construye cada estudiante, no se lo das tú.** Como entre las dos
+medidas pasan semanas, un código repartido se pierde; uno construido con una regla se
+recalcula:
+
+> Dos primeras letras del nombre de tu madre + el día de tu cumpleaños con dos dígitos +
+> dos primeras letras de tu ciudad de nacimiento. *Carmen · 7 de marzo · Sevilla →
+> `CA07SE`.*
+
+Dilo en voz alta las dos veces: **en mayúsculas y sin tildes**, el día **con dos
+dígitos**, y la ciudad de **nacimiento**. Los cuestionarios preguntan además el mes de
+nacimiento, que sirve para emparejar a mano los códigos con erratas.
 
 **2. Pasa el cuestionario inicial**, en clase y **antes de decirles que el curso existe**.
 Reparte el consentimiento y el código, recoge el consentimiento firmado y pasa el
@@ -36,7 +44,8 @@ cuestionario inicial de la tabla de abajo y proyéctalo en clase. Ese enlace no 
 curso ni se publica en ninguna parte, justo para que nadie lo responda después de haber
 leído las lecciones.
 
-Insiste en que conserve su código, porque tendrá que repetirlo al final.
+No hace falta que conserve nada: en la medida final vuelve a construirlo con la misma
+regla.
 
 **3. Ahora sí, preséntales el curso.** Cuatro lecciones cortas que leen cuando quieren, y
 que les llevarán alrededor de una hora. Es voluntario y no se califica. El enlace de tu

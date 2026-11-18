@@ -36,7 +36,8 @@ siguiendo el [cuestionario](cuestionario-autopercepcion.md).
 
 | Bloque | Pregunta | Tipo en Forms |
 | --- | --- | --- |
-| A | Código de emparejamiento | Texto, respuesta corta, **obligatoria** |
+| A | El código, con la regla escrita completa en el enunciado | Texto, respuesta corta |
+| A | Mes de nacimiento | Opción |
 | A | Asignatura y grupo | Opción |
 | A | Curso más alto en el que estás matriculado | Opción |
 | A | Formación previa en IA | Opción, Sí / No |
@@ -76,14 +77,20 @@ Quien responda «No» no continúa.
 
 ## 5. El código de emparejamiento
 
-El código **se lo asignaste tú** al entregar el consentimiento. En el formulario pídelo
-tal cual, con una pregunta de texto corto y obligatoria:
+El código **no se entrega: lo construye cada estudiante** con una regla fija, porque entre
+las dos medidas pasan semanas y un código repartido se pierde. Copia el enunciado entero
+en la pregunta, palabra por palabra igual en los dos formularios:
 
-> Escribe el código que te dieron al principio del curso.
+> **Tu código.** Dos primeras letras del nombre de tu madre + el día de tu cumpleaños con
+> dos dígitos + dos primeras letras de tu ciudad de nacimiento, en mayúsculas y sin
+> tildes. *Carmen · 7 de marzo · Sevilla → CA07SE.*
 
-Sin ese código, las respuestas del principio y del final no se pueden cruzar y la
-comparación pre/post se pierde. Es el error más caro de todo el proceso, y no tiene
-arreglo después, así que recuérdaselo también en clase antes de abrir el formulario.
+Añade justo después una pregunta de **mes de nacimiento**: es la red de seguridad para
+emparejar a mano los códigos con una errata.
+
+Sin el código, las respuestas del principio y del final no se pueden cruzar y la
+comparación pre/post se pierde. Repite en voz alta las tres trampas al pasarlo:
+mayúsculas y sin tildes, el día con dos dígitos, y ciudad de **nacimiento**.
 
 ## 6. Control de acceso
 

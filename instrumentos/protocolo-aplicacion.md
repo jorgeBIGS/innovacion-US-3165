@@ -55,22 +55,33 @@ limitación se hace constar al difundir los resultados.
 
 ## Código de emparejamiento
 
-Para emparejar el pre y el post sin identificar a nadie, **el docente asigna un código a
-cada estudiante** y se lo entrega junto con el consentimiento. El mismo código se usa en
-las dos medidas.
+Entre la medida inicial y la final pasan semanas, así que **el código no se entrega: se
+construye**. Cada estudiante lo genera con la misma regla las dos veces, de modo que si
+pierde el papel o lo olvida, lo recalcula idéntico.
 
-Sirve cualquier código corto que no derive de datos personales: una secuencia por grupo
-(`FP-A-017`) basta. Lo que no puede faltar es que el estudiante **conserve el suyo** hasta
-la medida final; recuérdaselo al entregarlo y repítelo al abrir el formulario.
+> **Dos primeras letras del nombre de tu madre + el día de tu cumpleaños con dos dígitos +
+> dos primeras letras de tu ciudad de nacimiento.**
+>
+> *Carmen · 7 de marzo · Sevilla → `CA07SE`*
+
+**La regla se enuncia con las mismas palabras** en el consentimiento y en los dos
+cuestionarios. Si en un sitio dice «tu madre» y en otro «tu progenitora», deja de
+emparejar.
+
+Y tres avisos que hay que dar en voz alta al pasarlo, porque son los errores que
+aparecen:
+
+- **En mayúsculas y sin tildes.** `JOSÉ` y `JOSE` no son el mismo dato.
+- **El día, con dos dígitos**: el 7 es `07`.
+- **Ciudad de nacimiento**, no la de residencia ni la del centro.
+
+**Red de seguridad.** Los dos cuestionarios preguntan también el **mes de nacimiento**.
+Cuando un código no case por una letra, se resuelve a mano cruzando mes y grupo; sin eso,
+cada errata es un estudiante perdido para el análisis.
 
 No se recogen nombres, matrículas ni correos junto a las respuestas: el código es lo único
-que viaja con ellas.
-
-**Custodia de la correspondencia.** Si guardas la lista que relaciona códigos con
-estudiantes —y la necesitas, al menos mientras repartes los códigos—, consérvala separada
-de las respuestas, no la compartas con el equipo y destrúyela cuando termines la recogida.
-Mientras exista, los datos son reidentificables por ti, y eso es lo que hay que evitar en
-el análisis.
+que viaja con ellas. Y como nadie reparte códigos, **no existe ninguna lista que relacione
+códigos con estudiantes**: ni siquiera el docente puede deshacer la pseudonimización.
 
 ## Condiciones de aplicación
 
