@@ -55,33 +55,25 @@ limitación se hace constar al difundir los resultados.
 
 ## Código de emparejamiento
 
-Entre la medida inicial y la final pasan semanas, así que **el código no se entrega: se
-construye**. Cada estudiante lo genera con la misma regla las dos veces, de modo que si
-pierde el papel o lo olvida, lo recalcula idéntico.
+El código se genera en clase y se reparte. Su formato es el mismo en toda la red:
 
-> **Dos primeras letras del nombre de tu madre + el día de tu cumpleaños con dos dígitos +
-> dos primeras letras de tu ciudad de nacimiento.**
->
-> *Carmen · 7 de marzo · Sevilla → `CA07SE`*
+> **Código de la asignatura + número.** *`FP-024`, `PL-007`, `AP-113`.*
 
-**La regla se enuncia con las mismas palabras** en el consentimiento y en los dos
-cuestionarios. Si en un sitio dice «tu madre» y en otro «tu progenitora», deja de
-emparejar.
+**No se apunta quién recibe cada número.** Ese es el punto: repartes los códigos al azar
+—en papel, recortados— y nadie anota la correspondencia. No existe ninguna lista que
+relacione códigos con estudiantes, de modo que ni tú ni la coordinación pueden deshacer la
+seudonimización. **No se guarda ningún dato del alumnado**: ni nombre, ni matrícula, ni
+correo, ni fecha de nacimiento.
 
-Y tres avisos que hay que dar en voz alta al pasarlo, porque son los errores que
-aparecen:
+El precio es que **el emparejamiento depende de que conserven el papel**. Entre la medida
+inicial y la final pasan semanas, así que al repartirlo conviene pedirles que lo guarden
+en dos sitios —una foto en el móvil y la primera página de los apuntes— y recordárselo al
+anunciar la medida final.
 
-- **En mayúsculas y sin tildes.** `JOSÉ` y `JOSE` no son el mismo dato.
-- **El día, con dos dígitos**: el 7 es `07`.
-- **Ciudad de nacimiento**, no la de residencia ni la del centro.
-
-**Red de seguridad.** Los dos cuestionarios preguntan también el **mes de nacimiento**.
-Cuando un código no case por una letra, se resuelve a mano cruzando mes y grupo; sin eso,
-cada errata es un estudiante perdido para el análisis.
-
-No se recogen nombres, matrículas ni correos junto a las respuestas: el código es lo único
-que viaja con ellas. Y como nadie reparte códigos, **no existe ninguna lista que relacione
-códigos con estudiantes**: ni siquiera el docente puede deshacer la pseudonimización.
+Quien llegue sin código responde igual, pero su respuesta solo cuenta para las
+distribuciones de cada medida, no para la comparación pre/post. Esa pérdida es asumida y
+conocida: **anota cuántas respuestas emparejan**, porque la tasa de emparejamiento es uno
+de los indicadores del proyecto.
 
 ## Condiciones de aplicación
 

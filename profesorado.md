@@ -22,17 +22,12 @@ Cuándo lo haces, en qué cuatrimestre y si lo pasas en papel o en línea lo dec
 Lo único que necesito saber es **qué has elegido**: con qué comparas, cuántos grupos
 entran y en qué fechas. Sin eso no puedo agregar los resultados de la red.
 
-**1. Das la regla del código, no el código.** Como entre las dos medidas pasan semanas, un
-código repartido se pierde; uno que cada estudiante construye con una regla se recalcula
-cuando haga falta. La regla que explicas, las dos veces, es esta:
+**1. Prepara los códigos.** Uno por estudiante, con el formato **código de asignatura +
+número**: `FP-024`, `PL-007`. Imprímelos recortados y repártelos al azar.
 
-> Dos primeras letras del nombre de tu madre + el día de tu cumpleaños con dos dígitos +
-> dos primeras letras de tu ciudad de nacimiento. *Carmen · 7 de marzo · Sevilla →
-> `CA07SE`.*
-
-Dilo en voz alta las dos veces: **en mayúsculas y sin tildes**, el día **con dos
-dígitos**, y la ciudad de **nacimiento**. Los cuestionarios preguntan además el mes de
-nacimiento, que sirve para emparejar a mano los códigos con erratas.
+**No apuntes quién recibe cada número.** Esa es la garantía: no existe ninguna lista que
+relacione códigos con personas, así que el proyecto no guarda ningún dato del alumnado, ni
+su nombre, ni su matrícula, ni su fecha de nacimiento.
 
 **2. Pasa el cuestionario inicial**, en clase y **antes de decirles que el curso existe**.
 Reparte el consentimiento y el código, recoge el consentimiento firmado y pasa el
@@ -44,8 +39,10 @@ cuestionario inicial de la tabla de abajo y proyéctalo en clase. Ese enlace no 
 curso ni se publica en ninguna parte, justo para que nadie lo responda después de haber
 leído las lecciones.
 
-No hace falta que conserve nada: en la medida final vuelve a construirlo con la misma
-regla.
+Insiste en que lo conserve, porque tendrá que repetirlo al final y **no hay forma de
+recuperarlo**: que le hagan una foto y lo apunten en los apuntes de la asignatura.
+Recuérdaselo otra vez al anunciar la medida final. Quien llegue sin código responde igual,
+pero su respuesta no entra en la comparación pre/post.
 
 **3. Ahora sí, preséntales el curso.** Cuatro lecciones cortas que leen cuando quieren, y
 que les llevarán alrededor de una hora. Es voluntario y no se califica. El enlace de tu
