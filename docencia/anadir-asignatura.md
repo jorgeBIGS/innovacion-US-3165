@@ -122,7 +122,9 @@ que quiera sobrescribir; las que no estén, usan el texto común:
 
 ```yaml
   textos:
+    l1_entradilla: >-         # párrafo de apertura de la lección 1
     l1_comprobacion: |        # lista de comprobación de la lección 1
+    l2_revisar: …             # qué revisa el sistema: esquema, borrador, código…
     l3_comprobar: |           # qué comprobar, en orden, en la lección 3
     l3_esfuerzo: |            # cuánto esfuerzo dedicar a verificar
     l2_cierre: >-             # cierre de la tabla de peticiones

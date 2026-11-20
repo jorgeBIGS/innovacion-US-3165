@@ -91,7 +91,86 @@
   centro: ETSII
   rama: Informática
   docente: M.ª Dolores Acuña Garrido
-  estado: borrador
+  estado: completo
+  contexto: >-
+    En esta asignatura, la IA te ayuda con la documentación que tienes que entregar para
+    superar las prácticas. El riesgo no es solo que escriba texto plano, estándar, sin
+    contextualizar para el caso de estudio de vuestro grupo de laboratorio. El riesgo es
+    que entregues un documento del que no has entendido nada. Lo que tienes que llevarte
+    de esta asignatura es exactamente lo que la IA no te puede ahorrar.
+  tareas:
+    - Buscar ideas para la práctica relacionada con las técnicas de recogida de información
+    - >-
+      Generar logos e identidad de marca para las empresas ficticias de las que formarás
+      parte con tu grupo de laboratorio
+    - Redactar y revisar textos
+    - Mejorar el formato de los documentos
+    - >-
+      Ayudar en la comprensión de los pliegos, los documentos oficiales de las
+      licitaciones, para las prácticas 2 y 3
+    - Ayudar en la comprensión de los apuntes de teoría
+  fallo:
+    pregunta: >-
+      Pídele que resuelva un ejercicio del boletín de teoría de la asignatura usando solo
+      lo visto en clase, o que te genere directamente todos los apartados que se indican
+      en las plantillas para las prácticas.
+    esperado: >-
+      Suele proporcionar explicaciones que aún no se han dado e inventar funciones u
+      opciones que no están en el proyecto docente de la asignatura.
+  peticiones:
+    - pobre: "Hazme el ejercicio."
+      mejor: >-
+        "Estoy con este ejercicio. He pensado este enfoque y creo que falla en un caso
+        concreto. No me des la solución: dime qué es lo que no estoy contemplando."
+    - pobre: "¿Por qué no funciona?"
+      mejor: >-
+        "Este texto no es coherente. Creo que este supuesto no es correcto. ¿Voy bien
+        encaminado? Dame una pista sobre dónde mirar, no la solución."
+  verificacion: >-
+    En esta asignatura la validación pasa por entender y **saber explicar con tus
+    palabras** lo que se ha explicado en las clases de teoría. Que lo que produzca la IA
+    «suene» bien no significa que sea correcto: si no le has proporcionado el contexto
+    adecuado, te devolverá textos genéricos y casos de uso alejados de tu realidad.
+  fuentes:
+    - El enunciado y lo visto en clase
+    - La documentación oficial de la asignatura
+    - Los casos reales que te explican los profesores
+  riesgos:
+    - >-
+      Entregar un texto explicando algo que no eres capaz de reproducir con tus propias
+      palabras, que es justo lo que se te preguntará
+    - Usar términos de las técnicas estudiadas en la asignatura sin saber lo que significan
+    - No desarrollar tus propias conclusiones sobre los objetivos de aprendizaje de las prácticas
+    - Delegar decisiones que debes consensuar con tu grupo de laboratorio
+  riesgos_eticos:
+    - Entregar documentos con contenido que no entiendes, que es justo lo que se te preguntará
+    - Delegar decisiones en la IA en vez de consensuarlas con tus compañeros
+    - No revisar las referencias, por suponerlas siempre válidas
+    - Introducir en un sistema externo datos sujetos a confidencialidad
+  casos:
+    - Pedirle que te explique un concepto que no entendiste en clase
+    - Pedirle que interprete una situación errónea
+    - Pedirle que escriba una parte sustancial de la entrega evaluable
+    - Pedirle casos de uso para tu propio entregable
+    - Pedirle que revise tu solución y sugiera mejoras
+    - Pedirle que escriba las conclusiones y lecciones aprendidas del trabajo evaluable
+  entrega: La documentación de las prácticas
+  textos:
+    l1_entradilla: >-
+      Vas a usar la IA generativa en Proceso Software y Gestión I. Probablemente ya la
+      uses. Esta lección no va de si está permitida: va de que entiendas **qué tienes
+      delante**, porque de eso depende el provecho que le puedas sacar para que te ayude
+      en la asignatura.
+    l1_comprobacion: |
+      1. ¿Por qué un sistema de IA generativa puede inventarse una referencia o una
+         explicación?
+      2. Pon un ejemplo de Proceso Software y Gestión I en el que te fiarías de la
+         respuesta, y otro en el que no.
+    l2_revisar: el esquema, el borrador, el razonamiento
+    l3_entrega: >-
+      Ninguna entrega es la salida en bruto. Lo que entregas es un trabajo **tuyo** en el
+      que la IA ha intervenido, del que respondes tú y que tienes que ser capaz de
+      defender si te preguntan por cualquier parte de tu entregable.
 
 - slug: evolucion-gestion-configuracion
   nombre: Evolución y Gestión de la Configuración
